@@ -1,10 +1,28 @@
 #!/usr/bin/env python
 
 import requests
-from bs4 import BeautifulSoup
+import bs4
 
 def get_soup(html):
-    return BeautifulSoup(html, 'html.parser')
+    return bs4.BeautifulSoup(html, 'html.parser')
+
+def get_networks(network_tags):
+    networks = []
+    for network_tag in network_tags:
+        if isinstance(network_tag, bs4.element.NavigableString):
+            networks.append(network_tag)
+        else:
+            imgs = network_tag.find_all('img')
+            if imgs:
+                assert(len(imgs) == 1)
+                networks.append(imgs[0].get('class')[0])
+    return networks
+
+def parse_location(location_tag):
+    if isinstance(location_tag, bs4.element.NavigableString):
+        return location_tag
+    else:
+        return list(location.children)[0]
 
 #ESPN_URL = 'http://www.espn.com/college-football/schedule/_/week/%d' # Current year assumed
 #ESPN_URL = 'http://www.espn.com/college-football/schedule/_/year/%d/week/%d'
@@ -63,6 +81,27 @@ for week in weeks:
             away_team = tds[0].find_all('abbr')
             at_or_vs = tds[1].get('data-home-text')
             home_team = tds[1].find_all('abbr')
-            datetime = tds[2].get('data-date')
-            print away_team[0].get('title'), at_or_vs, home_team[0].get('title'), datetime
+            espn_game_id = tds[2].find_all('a')[0].get('href').replace('/college-football/game?gameId=','')
+            iso8601_time = tds[2].get('data-date')
+            networks = get_networks(tds[3])
+            location = tds[4].contents[0]
+            print away_team[0].get('title'), at_or_vs, home_team[0].get('title'), 'PLAYING AT', parse_location(location)
         print
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
