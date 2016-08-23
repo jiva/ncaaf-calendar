@@ -5,4 +5,4 @@ An RFC 5545 compliant NCAAF iCalendar file generator
     virtualenv venv
     . venv/bin/activate
     pip install -r requirements.txt
-    python generate.py
+    python generate.py > ncaaf_2016.ics
