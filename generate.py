@@ -20,9 +20,9 @@ def get_networks(network_tags):
 
 def parse_location(location_tag):
     if isinstance(location_tag, bs4.element.NavigableString):
-        return location_tag
+        return str(location_tag)
     else:
-        return list(location.children)[0]
+        return str(list(location.children)[0])
 
 #ESPN_URL = 'http://www.espn.com/college-football/schedule/_/week/%d' # Current year assumed
 #ESPN_URL = 'http://www.espn.com/college-football/schedule/_/year/%d/week/%d'
@@ -78,14 +78,15 @@ for week in weeks:
         tbody = schedule.find_all('tbody')
         for tr in tbody[0].find_all('tr'):
             tds = tr.find_all('td')
-            away_team = tds[0].find_all('abbr')
+            away_team = tds[0].find_all('abbr')[0].get('title')
             at_or_vs = tds[1].get('data-home-text')
-            home_team = tds[1].find_all('abbr')
+            home_team = tds[1].find_all('abbr')[0].get('title')
             espn_game_id = tds[2].find_all('a')[0].get('href').replace('/college-football/game?gameId=','')
             iso8601_time = tds[2].get('data-date')
             networks = get_networks(tds[3])
             location = tds[4].contents[0]
-            print away_team[0].get('title'), at_or_vs, home_team[0].get('title'), 'PLAYING AT', parse_location(location)
+            location = parse_location(location)
+            print away_team, at_or_vs, home_team, '(' + location + ')'
         print
 
 
