@@ -1,0 +1,138 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ncaaf-calendar//jiva//
+DTSTART;VALUE=DATE-TIME:20160823T165052
+SUMMARY:2016 NCAAF Schedule
+BEGIN:VEVENT
+SUMMARY:Coastal Carolina Chanticleers at Lamar Cardinals
+DTSTART;VALUE=DATE-TIME:20160904T000000Z
+DTEND;VALUE=DATE-TIME:20160904T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165053Z
+UID:400868934
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086893
+ 4\nNetworks: ESPN3
+LOCATION:Provost Umphrey Stadium\, Beaumont\, TX
+URL:http://www.espn.com/college-football/game?gameId=400868934
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Florida A&M Rattlers at Coastal Carolina Chanticleers
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165053Z
+UID:400868935
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086893
+ 5\nNetworks: 
+LOCATION:Brooks Stadium\, Conway\, SC
+URL:http://www.espn.com/college-football/game?gameId=400868935
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coastal Carolina Chanticleers at Jacksonville State Gamecocks
+DTSTART;VALUE=DATE-TIME:20160917T180000Z
+DTEND;VALUE=DATE-TIME:20160917T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165053Z
+UID:400868936
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086893
+ 6\nNetworks: 
+LOCATION:Burgess-Snow Field\, Jacksonville\, AL
+URL:http://www.espn.com/college-football/game?gameId=400868936
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Furman Paladins at Coastal Carolina Chanticleers
+DTSTART;VALUE=DATE-TIME:20160924T220000Z
+DTEND;VALUE=DATE-TIME:20160925T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165054Z
+UID:400868937
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086893
+ 7\nNetworks: 
+LOCATION:Brooks Stadium\, Conway\, SC
+URL:http://www.espn.com/college-football/game?gameId=400868937
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charleston Southern Buccaneers at Coastal Carolina Chanticleers
+DTSTART;VALUE=DATE-TIME:20161001T220000Z
+DTEND;VALUE=DATE-TIME:20161002T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165054Z
+UID:400868938
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086893
+ 8\nNetworks: 
+LOCATION:Brooks Stadium\, Conway\, SC
+URL:http://www.espn.com/college-football/game?gameId=400868938
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coastal Carolina Chanticleers at Gardner-Webb Bulldogs
+DTSTART;VALUE=DATE-TIME:20161015T173000Z
+DTEND;VALUE=DATE-TIME:20161015T210000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165055Z
+UID:400868939
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086893
+ 9\nNetworks: 
+LOCATION:Ernest W. Spangler Stadium\, Boiling Springs\, NC
+URL:http://www.espn.com/college-football/game?gameId=400868939
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Connecticut Blue Devils at Coastal Carolina Chanticleers
+DTSTART;VALUE=DATE-TIME:20161022T180000Z
+DTEND;VALUE=DATE-TIME:20161022T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165055Z
+UID:400868940
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086894
+ 0\nNetworks: 
+LOCATION:Brooks Stadium\, Conway\, SC
+URL:http://www.espn.com/college-football/game?gameId=400868940
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coastal Carolina Chanticleers at Presbyterian College Blue Hose
+DTSTART;VALUE=DATE-TIME:20161029T180000Z
+DTEND;VALUE=DATE-TIME:20161029T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165055Z
+UID:400868941
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086894
+ 1\nNetworks: 
+LOCATION:Bailey Memorial Stadium\, Clinton\, SC
+URL:http://www.espn.com/college-football/game?gameId=400868941
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monmouth Hawks at Coastal Carolina Chanticleers
+DTSTART;VALUE=DATE-TIME:20161105T180000Z
+DTEND;VALUE=DATE-TIME:20161105T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165056Z
+UID:400868942
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086894
+ 2\nNetworks: 
+LOCATION:Brooks Stadium\, Conway\, SC
+URL:http://www.espn.com/college-football/game?gameId=400868942
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bryant Bulldogs at Coastal Carolina Chanticleers
+DTSTART;VALUE=DATE-TIME:20161112T190000Z
+DTEND;VALUE=DATE-TIME:20161112T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165056Z
+UID:400868943
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086894
+ 3\nNetworks: 
+LOCATION:Brooks Stadium\, Conway\, SC
+URL:http://www.espn.com/college-football/game?gameId=400868943
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liberty Flames at Coastal Carolina Chanticleers
+DTSTART;VALUE=DATE-TIME:20161118T000000Z
+DTEND;VALUE=DATE-TIME:20161118T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165056Z
+UID:400868944
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086894
+ 4\nNetworks: 
+LOCATION:Brooks Stadium\, Conway\, SC
+URL:http://www.espn.com/college-football/game?gameId=400868944
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hampton Pirates at Coastal Carolina Chanticleers
+DTSTART;VALUE=DATE-TIME:20161126T190000Z
+DTEND;VALUE=DATE-TIME:20161126T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165057Z
+UID:400868945
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086894
+ 5\nNetworks: 
+LOCATION:Brooks Stadium\, Conway\, SC
+URL:http://www.espn.com/college-football/game?gameId=400868945
+END:VEVENT
+END:VCALENDAR

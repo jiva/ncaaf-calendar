@@ -1,0 +1,722 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ncaaf-calendar//jiva//
+DTSTART;VALUE=DATE-TIME:20160823T165109
+SUMMARY:2016 NCAAF Schedule
+BEGIN:VEVENT
+SUMMARY:Jackson State Tigers at UNLV Rebels
+DTSTART;VALUE=DATE-TIME:20160902T020000Z
+DTEND;VALUE=DATE-TIME:20160902T053000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165109Z
+UID:400869174
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086917
+ 4\nNetworks: 
+LOCATION:Sam Boyd Stadium\, Las Vegas\, NV
+URL:http://www.espn.com/college-football/game?gameId=400869174
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mississippi Valley State Delta Devils at Eastern Michigan Eagles
+DTSTART;VALUE=DATE-TIME:20160902T220000Z
+DTEND;VALUE=DATE-TIME:20160903T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165109Z
+UID:400869263
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086926
+ 3\nNetworks: ESPN3
+LOCATION:Rynearson Stadium\, Ypsilanti\, MI
+URL:http://www.espn.com/college-football/game?gameId=400869263
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alabama A&M Bulldogs at Middle Tennessee Blue Raiders
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165109Z
+UID:400869344
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086934
+ 4\nNetworks: 
+LOCATION:Floyd Stadium\, Murfreesboro\, TN
+URL:http://www.espn.com/college-football/game?gameId=400869344
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alabama State Hornets at Texas San Antonio Roadrunners
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165109Z
+UID:400869349
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086934
+ 9\nNetworks: 
+LOCATION:Alamodome\, San Antonio\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869349
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Jaguars at Louisiana Monroe Warhawks
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165109Z
+UID:400869809
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086980
+ 9\nNetworks: ESPN3
+LOCATION:Malone Stadium\, Monroe\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869809
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arkansas-Pine Bluff Golden Lions at Tennessee State Tigers
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165109Z
+UID:400872869
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087286
+ 9\nNetworks: 
+LOCATION:Nissan Stadium\, Nashville\, TN
+URL:http://www.espn.com/college-football/game?gameId=400872869
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lynchburg Hornets at Grambling State Tigers
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165109Z
+UID:400874955
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087495
+ 5\nNetworks: 
+LOCATION:Robinson Stadium\, Grambling\, LA
+URL:http://www.espn.com/college-football/game?gameId=400874955
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alcorn State Braves at Bethune-Cookman Wildcats
+DTSTART;VALUE=DATE-TIME:20160904T170000Z
+DTEND;VALUE=DATE-TIME:20160904T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165109Z
+UID:400885832
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40088583
+ 2\nNetworks: ESPN\,WatchESPN
+LOCATION:Municipal Stadium \, Daytona Beach\, FL
+URL:http://www.espn.com/college-football/game?gameId=400885832
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas Southern Tigers at Prairie View A&M Panthers
+DTSTART;VALUE=DATE-TIME:20160904T220000Z
+DTEND;VALUE=DATE-TIME:20160905T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165109Z
+UID:400873141
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087314
+ 1\nNetworks: ESPNU\,WatchESPN
+LOCATION:Panther Stadium \, Prairie View\, TX
+URL:http://www.espn.com/college-football/game?gameId=400873141
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prairie View A&M Panthers at Texas A&M Aggies
+DTSTART;VALUE=DATE-TIME:20160910T160000Z
+DTEND;VALUE=DATE-TIME:20160910T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165109Z
+UID:400868990
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086899
+ 0\nNetworks: SECN\,WatchESPN
+LOCATION:Kyle Field
+URL:http://www.espn.com/college-football/game?gameId=400868990
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alabama A&M Bulldogs at Mississippi Valley State Delta Devils
+DTSTART;VALUE=DATE-TIME:20160910T210000Z
+DTEND;VALUE=DATE-TIME:20160911T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165109Z
+UID:400873108
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087310
+ 8\nNetworks: 
+LOCATION:Rice-Totten Stadium\, Itta Bena\, MS
+URL:http://www.espn.com/college-football/game?gameId=400873108
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alabama State Hornets at Alcorn State Braves
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165109Z
+UID:400873117
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087311
+ 7\nNetworks: ESPN3
+LOCATION:Jack Spinks Stadium\, Alcorn State\, MS
+URL:http://www.espn.com/college-football/game?gameId=400873117
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OK Panhandle St Aggies at Arkansas-Pine Bluff Golden Lions
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165109Z
+UID:400876021
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087602
+ 1\nNetworks: 
+LOCATION:Golden Lion Stadium\, Pine Bluff\, AR
+URL:http://www.espn.com/college-football/game?gameId=400876021
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jackson State Tigers at Tennessee State Tigers
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165109Z
+UID:400872870
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087287
+ 0\nNetworks: 
+LOCATION:Nissan Stadium\, Nashville\, TN
+URL:http://www.espn.com/college-football/game?gameId=400872870
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Jaguars at Tulane Green Wave
+DTSTART;VALUE=DATE-TIME:20160911T000000Z
+DTEND;VALUE=DATE-TIME:20160911T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165109Z
+UID:400869515
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086951
+ 5\nNetworks: ESPN3
+LOCATION:Yulman Stadium\, New Orleans\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869515
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas Southern Tigers at Houston Baptist Huskies
+DTSTART;VALUE=DATE-TIME:20160911T000000Z
+DTEND;VALUE=DATE-TIME:20160911T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165109Z
+UID:400872480
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087248
+ 0\nNetworks: 
+LOCATION:Husky Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872480
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grambling State Tigers at Arizona Wildcats
+DTSTART;VALUE=DATE-TIME:20160911T024500Z
+DTEND;VALUE=DATE-TIME:20160911T061500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165109Z
+UID:400869099
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086909
+ 9\nNetworks: PAC12
+LOCATION:Arizona Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869099
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arkansas-Pine Bluff Golden Lions at Alcorn State Braves
+DTSTART;VALUE=DATE-TIME:20160915T233000Z
+DTEND;VALUE=DATE-TIME:20160916T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165110Z
+UID:400873550
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087355
+ 0\nNetworks: ESPNU\,WatchESPN
+LOCATION:Jack Spinks Stadium\, Alcorn State\, MS
+URL:http://www.espn.com/college-football/game?gameId=400873550
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prairie View A&M Panthers at Alabama A&M Bulldogs
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165110Z
+UID:400873109
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087310
+ 9\nNetworks: 
+LOCATION:Louis Crews Stadium\, Huntsville\, AL
+URL:http://www.espn.com/college-football/game?gameId=400873109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alabama State Hornets at Southern Jaguars
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165110Z
+UID:400873118
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087311
+ 8\nNetworks: 
+LOCATION:A.W. Mumford Stadium\, Baton Rouge\, LA
+URL:http://www.espn.com/college-football/game?gameId=400873118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grambling State Tigers at Jackson State Tigers
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165110Z
+UID:400873127
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087312
+ 7\nNetworks: ESPN3
+LOCATION:Mississippi Veterans Memorial Stadium\, Jackson\, MS
+URL:http://www.espn.com/college-football/game?gameId=400873127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mississippi Valley State Delta Devils at Texas Southern Tigers
+DTSTART;VALUE=DATE-TIME:20160918T000000Z
+DTEND;VALUE=DATE-TIME:20160918T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165110Z
+UID:400873134
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087313
+ 4\nNetworks: 
+LOCATION:BBVA Compass Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400873134
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jackson State Tigers vs Arkansas-Pine Bluff Golden Lions
+DTSTART;VALUE=DATE-TIME:20160924T210000Z
+DTEND;VALUE=DATE-TIME:20160925T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165110Z
+UID:400873128
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087312
+ 8\nNetworks: 
+LOCATION:War Memorial Stadium \, Little Rock\, AR
+URL:http://www.espn.com/college-football/game?gameId=400873128
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prairie View A&M Panthers at Mississippi Valley State Delta Devils
+DTSTART;VALUE=DATE-TIME:20160924T210000Z
+DTEND;VALUE=DATE-TIME:20160925T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165110Z
+UID:400873135
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087313
+ 5\nNetworks: 
+LOCATION:Rice-Totten Stadium\, Itta Bena\, MS
+URL:http://www.espn.com/college-football/game?gameId=400873135
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas Southern Tigers at Alabama State Hornets
+DTSTART;VALUE=DATE-TIME:20160924T230000Z
+DTEND;VALUE=DATE-TIME:20160925T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165110Z
+UID:400874239
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087423
+ 9\nNetworks: 
+LOCATION:New ASU Stadium\, Montgomery\, AL
+URL:http://www.espn.com/college-football/game?gameId=400874239
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Jaguars at Alabama A&M Bulldogs
+DTSTART;VALUE=DATE-TIME:20160924T230000Z
+DTEND;VALUE=DATE-TIME:20160925T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165110Z
+UID:400873110
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087311
+ 0\nNetworks: 
+LOCATION:Louis Crews Stadium\, Huntsville\, AL
+URL:http://www.espn.com/college-football/game?gameId=400873110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alcorn State Braves at Grambling State Tigers
+DTSTART;VALUE=DATE-TIME:20160924T230000Z
+DTEND;VALUE=DATE-TIME:20160925T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165110Z
+UID:400873119
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087311
+ 9\nNetworks: 
+LOCATION:Robinson Stadium\, Grambling\, LA
+URL:http://www.espn.com/college-football/game?gameId=400873119
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alcorn State Braves at Arkansas Razorbacks (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161001T160000
+DTEND;VALUE=DATE-TIME:20161001T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165111Z
+UID:400869011
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086901
+ 1\nNetworks: 
+LOCATION:War Memorial Stadium \, Little Rock\, AR
+URL:http://www.espn.com/college-football/game?gameId=400869011
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arkansas-Pine Bluff Golden Lions at Alabama State Hornets
+DTSTART;VALUE=DATE-TIME:20161001T190000Z
+DTEND;VALUE=DATE-TIME:20161001T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165111Z
+UID:400873120
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087312
+ 0\nNetworks: 
+LOCATION:New ASU Stadium\, Montgomery\, AL
+URL:http://www.espn.com/college-football/game?gameId=400873120
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prairie View A&M Panthers vs Grambling State Tigers
+DTSTART;VALUE=DATE-TIME:20161001T200000Z
+DTEND;VALUE=DATE-TIME:20161001T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165111Z
+UID:400873142
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087314
+ 2\nNetworks: 
+LOCATION:Cotton Bowl\, Dallas\, TX
+URL:http://www.espn.com/college-football/game?gameId=400873142
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mississippi Valley State Delta Devils at Jackson State Tigers
+DTSTART;VALUE=DATE-TIME:20161001T230000Z
+DTEND;VALUE=DATE-TIME:20161002T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165111Z
+UID:400873129
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087312
+ 9\nNetworks: 
+LOCATION:Mississippi Veterans Memorial Stadium\, Jackson\, MS
+URL:http://www.espn.com/college-football/game?gameId=400873129
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alabama A&M Bulldogs at Texas Southern Tigers
+DTSTART;VALUE=DATE-TIME:20161002T000000Z
+DTEND;VALUE=DATE-TIME:20161002T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165111Z
+UID:400873111
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087311
+ 1\nNetworks: 
+LOCATION:BBVA Compass Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400873111
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alcorn State Braves at Alabama A&M Bulldogs
+DTSTART;VALUE=DATE-TIME:20161008T190000Z
+DTEND;VALUE=DATE-TIME:20161008T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165111Z
+UID:400873112
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087311
+ 2\nNetworks: 
+LOCATION:Louis Crews Stadium\, Huntsville\, AL
+URL:http://www.espn.com/college-football/game?gameId=400873112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alabama State Hornets at Prairie View A&M Panthers
+DTSTART;VALUE=DATE-TIME:20161008T190000Z
+DTEND;VALUE=DATE-TIME:20161008T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165111Z
+UID:400873121
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087312
+ 1\nNetworks: 
+LOCATION:Panther Stadium \, Prairie View\, TX
+URL:http://www.espn.com/college-football/game?gameId=400873121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mississippi Valley State Delta Devils at Montana Grizzlies
+DTSTART;VALUE=DATE-TIME:20161008T203000Z
+DTEND;VALUE=DATE-TIME:20161009T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165111Z
+UID:400873136
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087313
+ 6\nNetworks: 
+LOCATION:Washington Grizzly\, Missoula\, MT
+URL:http://www.espn.com/college-football/game?gameId=400873136
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mississippi Valley State Delta Devils at Alabama State Hornets
+DTSTART;VALUE=DATE-TIME:20161015T190000Z
+DTEND;VALUE=DATE-TIME:20161015T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165111Z
+UID:400873122
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087312
+ 2\nNetworks: 
+LOCATION:New ASU Stadium\, Montgomery\, AL
+URL:http://www.espn.com/college-football/game?gameId=400873122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas Southern Tigers at Alcorn State Braves
+DTSTART;VALUE=DATE-TIME:20161015T190000Z
+DTEND;VALUE=DATE-TIME:20161015T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165111Z
+UID:400873146
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087314
+ 6\nNetworks: 
+LOCATION:Jack Spinks Stadium\, Alcorn State\, MS
+URL:http://www.espn.com/college-football/game?gameId=400873146
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alabama A&M Bulldogs at Arkansas-Pine Bluff Golden Lions
+DTSTART;VALUE=DATE-TIME:20161015T193000Z
+DTEND;VALUE=DATE-TIME:20161015T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165111Z
+UID:400873113
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087311
+ 3\nNetworks: 
+LOCATION:Golden Lion Stadium\, Pine Bluff\, AR
+URL:http://www.espn.com/college-football/game?gameId=400873113
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Jaguars at Jackson State Tigers
+DTSTART;VALUE=DATE-TIME:20161015T230000Z
+DTEND;VALUE=DATE-TIME:20161016T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165111Z
+UID:400873130
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087313
+ 0\nNetworks: 
+LOCATION:Mississippi Veterans Memorial Stadium\, Jackson\, MS
+URL:http://www.espn.com/college-football/game?gameId=400873130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jackson State Tigers at Texas Southern Tigers
+DTSTART;VALUE=DATE-TIME:20161022T190000Z
+DTEND;VALUE=DATE-TIME:20161022T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165112Z
+UID:400873131
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087313
+ 1\nNetworks: 
+LOCATION:BBVA Compass Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400873131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grambling State Tigers at Mississippi Valley State Delta Devils
+DTSTART;VALUE=DATE-TIME:20161022T190000Z
+DTEND;VALUE=DATE-TIME:20161022T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165112Z
+UID:400873137
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087313
+ 7\nNetworks: 
+LOCATION:Rice-Totten Stadium\, Itta Bena\, MS
+URL:http://www.espn.com/college-football/game?gameId=400873137
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prairie View A&M Panthers at Rice Owls
+DTSTART;VALUE=DATE-TIME:20161022T193000Z
+DTEND;VALUE=DATE-TIME:20161022T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165112Z
+UID:400869389
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086938
+ 9\nNetworks: 
+LOCATION:Rice Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869389
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arkansas-Pine Bluff Golden Lions at Southern Jaguars
+DTSTART;VALUE=DATE-TIME:20161022T210000Z
+DTEND;VALUE=DATE-TIME:20161023T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165112Z
+UID:400873839
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087383
+ 9\nNetworks: 
+LOCATION:A.W. Mumford Stadium\, Baton Rouge\, LA
+URL:http://www.espn.com/college-football/game?gameId=400873839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas Southern Tigers at Sam Houston State Bearkats (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161029T160000
+DTEND;VALUE=DATE-TIME:20161029T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165112Z
+UID:400872526
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087252
+ 6\nNetworks: 
+LOCATION:Bowers Stadium\, Huntsville\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872526
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prairie View A&M Panthers at Jackson State Tigers
+DTSTART;VALUE=DATE-TIME:20161029T190000Z
+DTEND;VALUE=DATE-TIME:20161029T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165112Z
+UID:400873132
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087313
+ 2\nNetworks: 
+LOCATION:Mississippi Veterans Memorial Stadium\, Jackson\, MS
+URL:http://www.espn.com/college-football/game?gameId=400873132
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Jaguars at Alcorn State Braves
+DTSTART;VALUE=DATE-TIME:20161029T190000Z
+DTEND;VALUE=DATE-TIME:20161029T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165112Z
+UID:400873551
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087355
+ 1\nNetworks: 
+LOCATION:Jack Spinks Stadium\, Alcorn State\, MS
+URL:http://www.espn.com/college-football/game?gameId=400873551
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arkansas-Pine Bluff Golden Lions at Grambling State Tigers
+DTSTART;VALUE=DATE-TIME:20161029T190000Z
+DTEND;VALUE=DATE-TIME:20161029T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165112Z
+UID:400874956
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087495
+ 6\nNetworks: 
+LOCATION:Robinson Stadium\, Grambling\, LA
+URL:http://www.espn.com/college-football/game?gameId=400874956
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alabama A&M Bulldogs vs Alabama State Hornets
+DTSTART;VALUE=DATE-TIME:20161029T200000Z
+DTEND;VALUE=DATE-TIME:20161029T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165112Z
+UID:400873114
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087311
+ 4\nNetworks: ESPN3
+LOCATION:Legion Field \, Birmingham\, AL
+URL:http://www.espn.com/college-football/game?gameId=400873114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alcorn State Braves at Prairie View A&M Panthers
+DTSTART;VALUE=DATE-TIME:20161105T180000Z
+DTEND;VALUE=DATE-TIME:20161105T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165113Z
+UID:400873143
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087314
+ 3\nNetworks: ESPN3
+LOCATION:Panther Stadium \, Prairie View\, TX
+URL:http://www.espn.com/college-football/game?gameId=400873143
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grambling State Tigers at Alabama A&M Bulldogs
+DTSTART;VALUE=DATE-TIME:20161105T190000Z
+DTEND;VALUE=DATE-TIME:20161105T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165113Z
+UID:400873115
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087311
+ 5\nNetworks: 
+LOCATION:Louis Crews Stadium\, Huntsville\, AL
+URL:http://www.espn.com/college-football/game?gameId=400873115
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jackson State Tigers at Alabama State Hornets
+DTSTART;VALUE=DATE-TIME:20161105T190000Z
+DTEND;VALUE=DATE-TIME:20161105T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165113Z
+UID:400873123
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087312
+ 3\nNetworks: 
+LOCATION:New ASU Stadium\, Montgomery\, AL
+URL:http://www.espn.com/college-football/game?gameId=400873123
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mississippi Valley State Delta Devils at Arkansas-Pine Bluff Golde
+ n Lions
+DTSTART;VALUE=DATE-TIME:20161105T193000Z
+DTEND;VALUE=DATE-TIME:20161105T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165113Z
+UID:400873138
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087313
+ 8\nNetworks: 
+LOCATION:Golden Lion Stadium\, Pine Bluff\, AR
+URL:http://www.espn.com/college-football/game?gameId=400873138
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas Southern Tigers at Southern Jaguars
+DTSTART;VALUE=DATE-TIME:20161105T210000Z
+DTEND;VALUE=DATE-TIME:20161106T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165113Z
+UID:400873147
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087314
+ 7\nNetworks: 
+LOCATION:A.W. Mumford Stadium\, Baton Rouge\, LA
+URL:http://www.espn.com/college-football/game?gameId=400873147
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alcorn State Braves at Mississippi Valley State Delta Devils
+DTSTART;VALUE=DATE-TIME:20161112T190000Z
+DTEND;VALUE=DATE-TIME:20161112T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165113Z
+UID:400873139
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087313
+ 9\nNetworks: 
+LOCATION:Rice-Totten Stadium\, Itta Bena\, MS
+URL:http://www.espn.com/college-football/game?gameId=400873139
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Jaguars at Prairie View A&M Panthers
+DTSTART;VALUE=DATE-TIME:20161112T190000Z
+DTEND;VALUE=DATE-TIME:20161112T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165113Z
+UID:400873144
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087314
+ 4\nNetworks: 
+LOCATION:Panther Stadium \, Prairie View\, TX
+URL:http://www.espn.com/college-football/game?gameId=400873144
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arkansas-Pine Bluff Golden Lions at Texas Southern Tigers
+DTSTART;VALUE=DATE-TIME:20161112T200000Z
+DTEND;VALUE=DATE-TIME:20161112T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165113Z
+UID:400873148
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087314
+ 8\nNetworks: 
+LOCATION:BBVA Compass Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400873148
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alabama A&M Bulldogs at Jackson State Tigers
+DTSTART;VALUE=DATE-TIME:20161112T200000Z
+DTEND;VALUE=DATE-TIME:20161112T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165113Z
+UID:400873116
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087311
+ 6\nNetworks: 
+LOCATION:Mississippi Veterans Memorial Stadium\, Jackson\, MS
+URL:http://www.espn.com/college-football/game?gameId=400873116
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alabama State Hornets at Grambling State Tigers
+DTSTART;VALUE=DATE-TIME:20161112T200000Z
+DTEND;VALUE=DATE-TIME:20161112T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165113Z
+UID:400873124
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087312
+ 4\nNetworks: 
+LOCATION:Robinson Stadium\, Grambling\, LA
+URL:http://www.espn.com/college-football/game?gameId=400873124
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alabama A&M Bulldogs at Auburn Tigers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165113Z
+UID:400869057
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086905
+ 7\nNetworks: 
+LOCATION:Jordan-Hare Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869057
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jackson State Tigers at Alcorn State Braves (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165113Z
+UID:400873133
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087313
+ 3\nNetworks: 
+LOCATION:Jack Spinks Stadium\, Alcorn State\, MS
+URL:http://www.espn.com/college-football/game?gameId=400873133
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grambling State Tigers at Texas Southern Tigers
+DTSTART;VALUE=DATE-TIME:20161119T200000Z
+DTEND;VALUE=DATE-TIME:20161119T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165113Z
+UID:400873149
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087314
+ 9\nNetworks: 
+LOCATION:BBVA Compass Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400873149
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prairie View A&M Panthers at Arkansas-Pine Bluff Golden Lions
+DTSTART;VALUE=DATE-TIME:20161119T203000Z
+DTEND;VALUE=DATE-TIME:20161120T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165113Z
+UID:400873145
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087314
+ 5\nNetworks: 
+LOCATION:Golden Lion Stadium\, Pine Bluff\, AR
+URL:http://www.espn.com/college-football/game?gameId=400873145
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mississippi Valley State Delta Devils at Southern Jaguars
+DTSTART;VALUE=DATE-TIME:20161119T220000Z
+DTEND;VALUE=DATE-TIME:20161120T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165113Z
+UID:400873140
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087314
+ 0\nNetworks: 
+LOCATION:A.W. Mumford Stadium\, Baton Rouge\, LA
+URL:http://www.espn.com/college-football/game?gameId=400873140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miles Golden Bears at Alabama State Hornets
+DTSTART;VALUE=DATE-TIME:20161124T210000Z
+DTEND;VALUE=DATE-TIME:20161125T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165114Z
+UID:400873125
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087312
+ 5\nNetworks: ESPN3
+LOCATION:New ASU Stadium\, Montgomery\, AL
+URL:http://www.espn.com/college-football/game?gameId=400873125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Jaguars at Grambling State Tigers
+DTSTART;VALUE=DATE-TIME:20161126T220000Z
+DTEND;VALUE=DATE-TIME:20161127T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165114Z
+UID:400873840
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087384
+ 0\nNetworks: 
+LOCATION:Robinson Stadium\, Grambling\, LA
+URL:http://www.espn.com/college-football/game?gameId=400873840
+END:VEVENT
+END:VCALENDAR

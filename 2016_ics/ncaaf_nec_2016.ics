@@ -1,0 +1,622 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ncaaf-calendar//jiva//
+DTSTART;VALUE=DATE-TIME:20160823T165120
+SUMMARY:2016 NCAAF Schedule
+BEGIN:VEVENT
+SUMMARY:St. Anselm Hawks at Wagner Seahawks
+DTSTART;VALUE=DATE-TIME:20160901T220000Z
+DTEND;VALUE=DATE-TIME:20160902T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165120Z
+UID:400874861
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087486
+ 1\nNetworks: 
+LOCATION:Wagner College Stadium\, Staten Island\, NY
+URL:http://www.espn.com/college-football/game?gameId=400874861
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alderson-Broaddus Battlers at Robert Morris Colonials
+DTSTART;VALUE=DATE-TIME:20160901T230000Z
+DTEND;VALUE=DATE-TIME:20160902T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165120Z
+UID:400872827
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087282
+ 7\nNetworks: 
+LOCATION:Joe Walton Stadium\, Moon Township\, PA
+URL:http://www.espn.com/college-football/game?gameId=400872827
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Duquesne Dukes at Youngstown State Penguins
+DTSTART;VALUE=DATE-TIME:20160901T233000Z
+DTEND;VALUE=DATE-TIME:20160902T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165120Z
+UID:400871389
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087138
+ 9\nNetworks: 
+LOCATION:Stambaugh Stadium\, Youngstown\, OH
+URL:http://www.espn.com/college-football/game?gameId=400871389
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lafayette Leopards at Central Connecticut Blue Devils
+DTSTART;VALUE=DATE-TIME:20160902T220000Z
+DTEND;VALUE=DATE-TIME:20160903T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165120Z
+UID:400872820
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087282
+ 0\nNetworks: 
+LOCATION:Arute Field\, New Britain\, CT
+URL:http://www.espn.com/college-football/game?gameId=400872820
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Merrimack Warriors at Bryant Bulldogs
+DTSTART;VALUE=DATE-TIME:20160903T190000Z
+DTEND;VALUE=DATE-TIME:20160903T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165120Z
+UID:400872813
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087281
+ 3\nNetworks: 
+LOCATION:Bulldog Stadium \, Smithfield\, RI
+URL:http://www.espn.com/college-football/game?gameId=400872813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sacred Heart Pioneers at Stetson Hatters
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165120Z
+UID:400873071
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087307
+ 1\nNetworks: ESPN3
+LOCATION:Spec Martin Stadium\, Deland\, FL
+URL:http://www.espn.com/college-football/game?gameId=400873071
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St Francis (PA) Red Flash at Montana Grizzlies
+DTSTART;VALUE=DATE-TIME:20160904T010000Z
+DTEND;VALUE=DATE-TIME:20160904T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165120Z
+UID:400869727
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086972
+ 7\nNetworks: 
+LOCATION:Washington Grizzly\, Missoula\, MT
+URL:http://www.espn.com/college-football/game?gameId=400869727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concordia College (MI) Cardinals at Wagner Seahawks
+DTSTART;VALUE=DATE-TIME:20160910T160000Z
+DTEND;VALUE=DATE-TIME:20160910T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165121Z
+UID:400874862
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087486
+ 2\nNetworks: 
+LOCATION:Wagner College Stadium\, Staten Island\, NY
+URL:http://www.espn.com/college-football/game?gameId=400874862
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robert Morris Colonials at Dayton Flyers
+DTSTART;VALUE=DATE-TIME:20160910T170000Z
+DTEND;VALUE=DATE-TIME:20160910T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165121Z
+UID:400872828
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087282
+ 8\nNetworks: 
+LOCATION:Welcome Stadium\, Dayton\, OH
+URL:http://www.espn.com/college-football/game?gameId=400872828
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valparaiso Crusaders at Sacred Heart Pioneers
+DTSTART;VALUE=DATE-TIME:20160910T170000Z
+DTEND;VALUE=DATE-TIME:20160910T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165121Z
+UID:400873076
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087307
+ 6\nNetworks: 
+LOCATION:Campus Field\, Fairfield\, CT
+URL:http://www.espn.com/college-football/game?gameId=400873076
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bryant Bulldogs at Montana State Bobcats
+DTSTART;VALUE=DATE-TIME:20160910T200000Z
+DTEND;VALUE=DATE-TIME:20160910T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165121Z
+UID:400869735
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086973
+ 5\nNetworks: 
+LOCATION:Bobcat Stadium \, Bozeman\, MT
+URL:http://www.espn.com/college-football/game?gameId=400869735
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Connecticut Blue Devils at James Madison Dukes
+DTSTART;VALUE=DATE-TIME:20160910T220000Z
+DTEND;VALUE=DATE-TIME:20160911T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165121Z
+UID:400872724
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087272
+ 4\nNetworks: 
+LOCATION:Bridgeforth Stadium\, Harrisonburg\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872724
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St Francis (PA) Red Flash at Towson Tigers
+DTSTART;VALUE=DATE-TIME:20160910T220000Z
+DTEND;VALUE=DATE-TIME:20160911T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165121Z
+UID:400872750
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087275
+ 0\nNetworks: 
+LOCATION:Johnny Unitas Stadium\, Towson\, MD
+URL:http://www.espn.com/college-football/game?gameId=400872750
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bucknell Bison at Duquesne Dukes
+DTSTART;VALUE=DATE-TIME:20160910T220000Z
+DTEND;VALUE=DATE-TIME:20160911T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165121Z
+UID:400873081
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087308
+ 1\nNetworks: 
+LOCATION:Arthur J. Rooney Athletic Field\, Pittsburgh\, PA
+URL:http://www.espn.com/college-football/game?gameId=400873081
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dayton Flyers at Duquesne Dukes
+DTSTART;VALUE=DATE-TIME:20160917T160000Z
+DTEND;VALUE=DATE-TIME:20160917T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165121Z
+UID:400872898
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087289
+ 8\nNetworks: ESPN3
+LOCATION:Arthur J. Rooney Athletic Field\, Pittsburgh\, PA
+URL:http://www.espn.com/college-football/game?gameId=400872898
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brown Bears at Bryant Bulldogs
+DTSTART;VALUE=DATE-TIME:20160917T170000Z
+DTEND;VALUE=DATE-TIME:20160917T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165121Z
+UID:400871267
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087126
+ 7\nNetworks: 
+LOCATION:Bulldog Stadium \, Smithfield\, RI
+URL:http://www.espn.com/college-football/game?gameId=400871267
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St Francis (PA) Red Flash at Columbia Lions
+DTSTART;VALUE=DATE-TIME:20160917T170000Z
+DTEND;VALUE=DATE-TIME:20160917T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165121Z
+UID:400871297
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087129
+ 7\nNetworks: 
+LOCATION:Lawrence A. Wien Stadium\, New York\, NY
+URL:http://www.espn.com/college-football/game?gameId=400871297
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bowie State Bulldogs at Central Connecticut Blue Devils
+DTSTART;VALUE=DATE-TIME:20160917T190000Z
+DTEND;VALUE=DATE-TIME:20160917T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165121Z
+UID:400872821
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087282
+ 1\nNetworks: 
+LOCATION:Arute Field\, New Britain\, CT
+URL:http://www.espn.com/college-football/game?gameId=400872821
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robert Morris Colonials at Youngstown State Penguins
+DTSTART;VALUE=DATE-TIME:20160917T200000Z
+DTEND;VALUE=DATE-TIME:20160917T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165121Z
+UID:400871390
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087139
+ 0\nNetworks: 
+LOCATION:Stambaugh Stadium\, Youngstown\, OH
+URL:http://www.espn.com/college-football/game?gameId=400871390
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marist Red Foxes at Sacred Heart Pioneers
+DTSTART;VALUE=DATE-TIME:20160917T210000Z
+DTEND;VALUE=DATE-TIME:20160918T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165121Z
+UID:400872915
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087291
+ 5\nNetworks: 
+LOCATION:Campus Field\, Fairfield\, CT
+URL:http://www.espn.com/college-football/game?gameId=400872915
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wagner Seahawks at Boston College Eagles (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165121Z
+UID:400869447
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086944
+ 7\nNetworks: 
+LOCATION:Alumni Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869447
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kennesaw State Owls at Duquesne Dukes
+DTSTART;VALUE=DATE-TIME:20160924T170000Z
+DTEND;VALUE=DATE-TIME:20160924T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165121Z
+UID:400872679
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087267
+ 9\nNetworks: 
+LOCATION:Arthur J. Rooney Athletic Field\, Pittsburgh\, PA
+URL:http://www.espn.com/college-football/game?gameId=400872679
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Connecticut Blue Devils at Bryant Bulldogs
+DTSTART;VALUE=DATE-TIME:20160924T170000Z
+DTEND;VALUE=DATE-TIME:20160924T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165121Z
+UID:400872814
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087281
+ 4\nNetworks: ESPN3
+LOCATION:Bulldog Stadium \, Smithfield\, RI
+URL:http://www.espn.com/college-football/game?gameId=400872814
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sacred Heart Pioneers at Stony Brook Seawolves
+DTSTART;VALUE=DATE-TIME:20160924T220000Z
+DTEND;VALUE=DATE-TIME:20160925T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165121Z
+UID:400872747
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087274
+ 7\nNetworks: 
+LOCATION:Kenneth P. LaValle Stadium\, Stony Brook\, NY
+URL:http://www.espn.com/college-football/game?gameId=400872747
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malone Pioneers at Robert Morris Colonials
+DTSTART;VALUE=DATE-TIME:20160924T230000Z
+DTEND;VALUE=DATE-TIME:20160925T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165121Z
+UID:400872829
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087282
+ 9\nNetworks: 
+LOCATION:Joe Walton Stadium\, Moon Township\, PA
+URL:http://www.espn.com/college-football/game?gameId=400872829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St Francis (PA) Red Flash at Albany Great Danes
+DTSTART;VALUE=DATE-TIME:20160924T230000Z
+DTEND;VALUE=DATE-TIME:20160925T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165121Z
+UID:400872698
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087269
+ 8\nNetworks: 
+LOCATION:Bob Ford Field\, Albany\, NY
+URL:http://www.espn.com/college-football/game?gameId=400872698
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Malone Pioneers at St Francis (PA) Red Flash
+DTSTART;VALUE=DATE-TIME:20161001T170000Z
+DTEND;VALUE=DATE-TIME:20161001T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165122Z
+UID:400872834
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087283
+ 4\nNetworks: 
+LOCATION:DeGol Field\, Loretto\, PA
+URL:http://www.espn.com/college-football/game?gameId=400872834
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Duquesne Dukes at Jacksonville Dolphins
+DTSTART;VALUE=DATE-TIME:20161001T170000Z
+DTEND;VALUE=DATE-TIME:20161001T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165122Z
+UID:400874033
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087403
+ 3\nNetworks: ESPN3
+LOCATION:D.B. Milne Field\, Jacksonville\, FL
+URL:http://www.espn.com/college-football/game?gameId=400874033
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bryant Bulldogs at Maine Black Bears
+DTSTART;VALUE=DATE-TIME:20161001T193000Z
+DTEND;VALUE=DATE-TIME:20161001T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165122Z
+UID:400872731
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087273
+ 1\nNetworks: 
+LOCATION:Alfond Stadium \, Orono\, ME
+URL:http://www.espn.com/college-football/game?gameId=400872731
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sacred Heart Pioneers at Wagner Seahawks
+DTSTART;VALUE=DATE-TIME:20161001T220000Z
+DTEND;VALUE=DATE-TIME:20161002T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165122Z
+UID:400874863
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087486
+ 3\nNetworks: ESPN3
+LOCATION:Wagner College Stadium\, Staten Island\, NY
+URL:http://www.espn.com/college-football/game?gameId=400874863
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robert Morris Colonials at Liberty Flames
+DTSTART;VALUE=DATE-TIME:20161001T230000Z
+DTEND;VALUE=DATE-TIME:20161002T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165122Z
+UID:400872688
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087268
+ 8\nNetworks: ESPN3
+LOCATION:Williams Stadium \, Lynchburg\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872688
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Connecticut Blue Devils at Penn Quakers
+DTSTART;VALUE=DATE-TIME:20161008T170000Z
+DTEND;VALUE=DATE-TIME:20161008T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165122Z
+UID:400871329
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087132
+ 9\nNetworks: 
+LOCATION:Franklin Field\, Philadelphia\, PA
+URL:http://www.espn.com/college-football/game?gameId=400871329
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St Francis (PA) Red Flash at Robert Morris Colonials
+DTSTART;VALUE=DATE-TIME:20161008T190000Z
+DTEND;VALUE=DATE-TIME:20161008T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165122Z
+UID:400872830
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087283
+ 0\nNetworks: ESPN3
+LOCATION:Joe Walton Stadium\, Moon Township\, PA
+URL:http://www.espn.com/college-football/game?gameId=400872830
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Columbia Lions at Wagner Seahawks
+DTSTART;VALUE=DATE-TIME:20161008T220000Z
+DTEND;VALUE=DATE-TIME:20161009T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165122Z
+UID:400871300
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087130
+ 0\nNetworks: 
+LOCATION:Wagner College Stadium\, Staten Island\, NY
+URL:http://www.espn.com/college-football/game?gameId=400871300
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bryant Bulldogs at St Francis (PA) Red Flash
+DTSTART;VALUE=DATE-TIME:20161015T160000Z
+DTEND;VALUE=DATE-TIME:20161015T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165122Z
+UID:400872815
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087281
+ 5\nNetworks: 
+LOCATION:DeGol Field\, Loretto\, PA
+URL:http://www.espn.com/college-football/game?gameId=400872815
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sacred Heart Pioneers at Cornell Big Red
+DTSTART;VALUE=DATE-TIME:20161015T163000Z
+DTEND;VALUE=DATE-TIME:20161015T200000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165122Z
+UID:400871318
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087131
+ 8\nNetworks: 
+LOCATION:Schoellkopf Field\, Ithaca\, NY
+URL:http://www.espn.com/college-football/game?gameId=400871318
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wagner Seahawks at Central Connecticut Blue Devils
+DTSTART;VALUE=DATE-TIME:20161015T170000Z
+DTEND;VALUE=DATE-TIME:20161015T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165122Z
+UID:400872822
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087282
+ 2\nNetworks: ESPN3
+LOCATION:Arute Field\, New Britain\, CT
+URL:http://www.espn.com/college-football/game?gameId=400872822
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robert Morris Colonials at Duquesne Dukes
+DTSTART;VALUE=DATE-TIME:20161015T230000Z
+DTEND;VALUE=DATE-TIME:20161016T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165122Z
+UID:400872831
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087283
+ 1\nNetworks: ESPN3
+LOCATION:Arthur J. Rooney Athletic Field\, Pittsburgh\, PA
+URL:http://www.espn.com/college-football/game?gameId=400872831
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Duquesne Dukes at St Francis (PA) Red Flash
+DTSTART;VALUE=DATE-TIME:20161021T230000Z
+DTEND;VALUE=DATE-TIME:20161022T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165123Z
+UID:400872835
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087283
+ 5\nNetworks: 
+LOCATION:DeGol Field\, Loretto\, PA
+URL:http://www.espn.com/college-football/game?gameId=400872835
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robert Morris Colonials at Sacred Heart Pioneers
+DTSTART;VALUE=DATE-TIME:20161022T160000Z
+DTEND;VALUE=DATE-TIME:20161022T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165123Z
+UID:400872832
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087283
+ 2\nNetworks: 
+LOCATION:Campus Field\, Fairfield\, CT
+URL:http://www.espn.com/college-football/game?gameId=400872832
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wagner Seahawks at Bryant Bulldogs
+DTSTART;VALUE=DATE-TIME:20161022T170000Z
+DTEND;VALUE=DATE-TIME:20161022T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165123Z
+UID:400872816
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087281
+ 6\nNetworks: 
+LOCATION:Bulldog Stadium \, Smithfield\, RI
+URL:http://www.espn.com/college-football/game?gameId=400872816
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Connecticut Blue Devils at Coastal Carolina Chanticleers
+DTSTART;VALUE=DATE-TIME:20161022T180000Z
+DTEND;VALUE=DATE-TIME:20161022T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165123Z
+UID:400868940
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086894
+ 0\nNetworks: 
+LOCATION:Brooks Stadium\, Conway\, SC
+URL:http://www.espn.com/college-football/game?gameId=400868940
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bryant Bulldogs at Duquesne Dukes
+DTSTART;VALUE=DATE-TIME:20161029T160000Z
+DTEND;VALUE=DATE-TIME:20161029T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165123Z
+UID:400872817
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087281
+ 7\nNetworks: 
+LOCATION:Arthur J. Rooney Athletic Field\, Pittsburgh\, PA
+URL:http://www.espn.com/college-football/game?gameId=400872817
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Connecticut Blue Devils at Robert Morris Colonials
+DTSTART;VALUE=DATE-TIME:20161029T160000Z
+DTEND;VALUE=DATE-TIME:20161029T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165123Z
+UID:400872823
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087282
+ 3\nNetworks: 
+LOCATION:Joe Walton Stadium\, Moon Township\, PA
+URL:http://www.espn.com/college-football/game?gameId=400872823
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St Francis (PA) Red Flash at Sacred Heart Pioneers
+DTSTART;VALUE=DATE-TIME:20161029T160000Z
+DTEND;VALUE=DATE-TIME:20161029T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165123Z
+UID:400872836
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087283
+ 6\nNetworks: 
+LOCATION:Campus Field\, Fairfield\, CT
+URL:http://www.espn.com/college-football/game?gameId=400872836
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wagner Seahawks at Massachusetts Minutemen
+DTSTART;VALUE=DATE-TIME:20161029T170000Z
+DTEND;VALUE=DATE-TIME:20161029T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165123Z
+UID:400868965
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086896
+ 5\nNetworks: ESPN3
+LOCATION:Warren McGuirk Alumni Stadium\, Amherst\, MA
+URL:http://www.espn.com/college-football/game?gameId=400868965
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robert Morris Colonials at Bryant Bulldogs
+DTSTART;VALUE=DATE-TIME:20161105T160000Z
+DTEND;VALUE=DATE-TIME:20161105T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165123Z
+UID:400872818
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087281
+ 8\nNetworks: 
+LOCATION:Bulldog Stadium \, Smithfield\, RI
+URL:http://www.espn.com/college-football/game?gameId=400872818
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sacred Heart Pioneers at Central Connecticut Blue Devils
+DTSTART;VALUE=DATE-TIME:20161105T160000Z
+DTEND;VALUE=DATE-TIME:20161105T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165123Z
+UID:400872824
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087282
+ 4\nNetworks: 
+LOCATION:Arute Field\, New Britain\, CT
+URL:http://www.espn.com/college-football/game?gameId=400872824
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Duquesne Dukes at Wagner Seahawks
+DTSTART;VALUE=DATE-TIME:20161105T160000Z
+DTEND;VALUE=DATE-TIME:20161105T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165123Z
+UID:400874034
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087403
+ 4\nNetworks: 
+LOCATION:Wagner College Stadium\, Staten Island\, NY
+URL:http://www.espn.com/college-football/game?gameId=400874034
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Connecticut Blue Devils at St Francis (PA) Red Flash
+DTSTART;VALUE=DATE-TIME:20161112T170000Z
+DTEND;VALUE=DATE-TIME:20161112T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165123Z
+UID:400872825
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087282
+ 5\nNetworks: 
+LOCATION:DeGol Field\, Loretto\, PA
+URL:http://www.espn.com/college-football/game?gameId=400872825
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wagner Seahawks at Robert Morris Colonials
+DTSTART;VALUE=DATE-TIME:20161112T170000Z
+DTEND;VALUE=DATE-TIME:20161112T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165123Z
+UID:400872833
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087283
+ 3\nNetworks: 
+LOCATION:Joe Walton Stadium\, Moon Township\, PA
+URL:http://www.espn.com/college-football/game?gameId=400872833
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sacred Heart Pioneers at Duquesne Dukes
+DTSTART;VALUE=DATE-TIME:20161112T170000Z
+DTEND;VALUE=DATE-TIME:20161112T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165123Z
+UID:400874035
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087403
+ 5\nNetworks: ESPN3
+LOCATION:Arthur J. Rooney Athletic Field\, Pittsburgh\, PA
+URL:http://www.espn.com/college-football/game?gameId=400874035
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bryant Bulldogs at Coastal Carolina Chanticleers
+DTSTART;VALUE=DATE-TIME:20161112T190000Z
+DTEND;VALUE=DATE-TIME:20161112T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165123Z
+UID:400868943
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086894
+ 3\nNetworks: 
+LOCATION:Brooks Stadium\, Conway\, SC
+URL:http://www.espn.com/college-football/game?gameId=400868943
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bryant Bulldogs at Sacred Heart Pioneers
+DTSTART;VALUE=DATE-TIME:20161119T170000Z
+DTEND;VALUE=DATE-TIME:20161119T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165124Z
+UID:400872819
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087281
+ 9\nNetworks: ESPN3
+LOCATION:Campus Field\, Fairfield\, CT
+URL:http://www.espn.com/college-football/game?gameId=400872819
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Duquesne Dukes at Central Connecticut Blue Devils
+DTSTART;VALUE=DATE-TIME:20161119T170000Z
+DTEND;VALUE=DATE-TIME:20161119T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165124Z
+UID:400872826
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087282
+ 6\nNetworks: 
+LOCATION:Arute Field\, New Britain\, CT
+URL:http://www.espn.com/college-football/game?gameId=400872826
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St Francis (PA) Red Flash at Wagner Seahawks
+DTSTART;VALUE=DATE-TIME:20161119T170000Z
+DTEND;VALUE=DATE-TIME:20161119T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165124Z
+UID:400872837
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087283
+ 7\nNetworks: 
+LOCATION:Wagner College Stadium\, Staten Island\, NY
+URL:http://www.espn.com/college-football/game?gameId=400872837
+END:VEVENT
+END:VCALENDAR

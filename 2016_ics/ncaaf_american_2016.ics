@@ -1,0 +1,1062 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ncaaf-calendar//jiva//
+DTSTART;VALUE=DATE-TIME:20160823T165253
+SUMMARY:2016 NCAAF Schedule
+BEGIN:VEVENT
+SUMMARY:Tulane Green Wave at Wake Forest Demon Deacons
+DTSTART;VALUE=DATE-TIME:20160901T230000Z
+DTEND;VALUE=DATE-TIME:20160902T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165253Z
+UID:400869421
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086942
+ 1\nNetworks: ESPN3
+LOCATION:BB&T\; Field
+URL:http://www.espn.com/college-football/game?gameId=400869421
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee-Martin Skyhawks at Cincinnati Bearcats
+DTSTART;VALUE=DATE-TIME:20160901T230000Z
+DTEND;VALUE=DATE-TIME:20160902T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165253Z
+UID:400869502
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086950
+ 2\nNetworks: ESPN3
+LOCATION:Nippert Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869502
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maine Black Bears at Connecticut Huskies
+DTSTART;VALUE=DATE-TIME:20160901T230000Z
+DTEND;VALUE=DATE-TIME:20160902T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165253Z
+UID:400869503
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086950
+ 3\nNetworks: ESPN3
+LOCATION:Rentschler Field
+URL:http://www.espn.com/college-football/game?gameId=400869503
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Army Black Knights at Temple Owls
+DTSTART;VALUE=DATE-TIME:20160902T230000Z
+DTEND;VALUE=DATE-TIME:20160903T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165253Z
+UID:400868910
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086891
+ 0\nNetworks: CBSSN
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+URL:http://www.espn.com/college-football/game?gameId=400868910
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oklahoma Sooners vs Houston Cougars
+DTSTART;VALUE=DATE-TIME:20160903T160000Z
+DTEND;VALUE=DATE-TIME:20160903T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165253Z
+UID:400869507
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086950
+ 7\nNetworks: ABC\,WatchESPN
+LOCATION:NRG Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869507
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fordham Rams at Navy Midshipmen
+DTSTART;VALUE=DATE-TIME:20160903T160000Z
+DTEND;VALUE=DATE-TIME:20160903T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165253Z
+UID:400869509
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086950
+ 9\nNetworks: CBSSN
+LOCATION:Navy-Marine Corps Memorial Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869509
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Carolina Catamounts at East Carolina Pirates
+DTSTART;VALUE=DATE-TIME:20160903T220000Z
+DTEND;VALUE=DATE-TIME:20160904T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165253Z
+UID:400869505
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086950
+ 5\nNetworks: ESPN3
+LOCATION:Dowdy-Ficklen Stadium\, Greenville\, NC
+URL:http://www.espn.com/college-football/game?gameId=400869505
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Towson Tigers at South Florida Bulls
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165253Z
+UID:400869506
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086950
+ 6\nNetworks: ESPN3
+LOCATION:Raymond James Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869506
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San José State Spartans at Tulsa Golden Hurricane
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165253Z
+UID:400869183
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086918
+ 3\nNetworks: CBSSN
+LOCATION:Chapman Stadium\, Tulsa\, OK
+URL:http://www.espn.com/college-football/game?gameId=400869183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMU Mustangs at North Texas Mean Green
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165253Z
+UID:400869345
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086934
+ 5\nNetworks: 
+LOCATION:Mean Green Stadium\, Denton\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869345
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Carolina State Bulldogs at UCF Knights
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165253Z
+UID:400869504
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086950
+ 4\nNetworks: ESPN3
+LOCATION:Bright House Networks Stadium\, Orlando\, FL
+URL:http://www.espn.com/college-football/game?gameId=400869504
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southeast Missouri State Redhawks at Memphis Tigers
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165253Z
+UID:400869508
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086950
+ 8\nNetworks: ESPN3
+LOCATION:Liberty Bowl Memorial Stadium\, Memphis\, TN
+URL:http://www.espn.com/college-football/game?gameId=400869508
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NC State Wolfpack at East Carolina Pirates
+DTSTART;VALUE=DATE-TIME:20160910T160000Z
+DTEND;VALUE=DATE-TIME:20160910T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165253Z
+UID:400869435
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086943
+ 5\nNetworks: ESPNU\,WatchESPN
+LOCATION:Dowdy-Ficklen Stadium\, Greenville\, NC
+URL:http://www.espn.com/college-football/game?gameId=400869435
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UCF Knights at Michigan Wolverines
+DTSTART;VALUE=DATE-TIME:20160910T160000Z
+DTEND;VALUE=DATE-TIME:20160910T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165253Z
+UID:400869510
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086951
+ 0\nNetworks: ABC\,ESPN\,WatchESPN
+LOCATION:Michigan Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cincinnati Bearcats at Purdue Boilermakers
+DTSTART;VALUE=DATE-TIME:20160910T160000Z
+DTEND;VALUE=DATE-TIME:20160910T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165253Z
+UID:400869511
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086951
+ 1\nNetworks: BTN
+LOCATION:Ross-Ade Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869511
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lamar Cardinals at Houston Cougars
+DTSTART;VALUE=DATE-TIME:20160910T160000Z
+DTEND;VALUE=DATE-TIME:20160910T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165253Z
+UID:400869514
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086951
+ 4\nNetworks: ESPN3
+LOCATION:TDECU Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869514
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stony Brook Seawolves at Temple Owls
+DTSTART;VALUE=DATE-TIME:20160910T170000Z
+DTEND;VALUE=DATE-TIME:20160910T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165253Z
+UID:400869513
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086951
+ 3\nNetworks: ESPN3
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+URL:http://www.espn.com/college-football/game?gameId=400869513
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tulsa Golden Hurricane at Ohio State Buckeyes
+DTSTART;VALUE=DATE-TIME:20160910T193000Z
+DTEND;VALUE=DATE-TIME:20160910T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165253Z
+UID:400869516
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086951
+ 6\nNetworks: ABC\,WatchESPN
+LOCATION:Ohio Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869516
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMU Mustangs at Baylor Bears
+DTSTART;VALUE=DATE-TIME:20160910T193000Z
+DTEND;VALUE=DATE-TIME:20160910T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165253Z
+UID:400868877
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086887
+ 7\nNetworks: FS1
+LOCATION:McLane Stadium\, Waco\, TX
+URL:http://www.espn.com/college-football/game?gameId=400868877
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Connecticut Huskies at Navy Midshipmen
+DTSTART;VALUE=DATE-TIME:20160910T193000Z
+DTEND;VALUE=DATE-TIME:20160910T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165253Z
+UID:400869512
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086951
+ 2\nNetworks: CBSSN
+LOCATION:Navy-Marine Corps Memorial Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869512
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Illinois Huskies at South Florida Bulls
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165253Z
+UID:400869273
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086927
+ 3\nNetworks: CBSSN
+LOCATION:Raymond James Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869273
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Jaguars at Tulane Green Wave
+DTSTART;VALUE=DATE-TIME:20160911T000000Z
+DTEND;VALUE=DATE-TIME:20160911T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165253Z
+UID:400869515
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086951
+ 5\nNetworks: ESPN3
+LOCATION:Yulman Stadium\, New Orleans\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869515
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Cougars at Cincinnati Bearcats
+DTSTART;VALUE=DATE-TIME:20160915T233000Z
+DTEND;VALUE=DATE-TIME:20160916T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165254Z
+UID:400869517
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086951
+ 7\nNetworks: ESPN\,WatchESPN
+LOCATION:Nippert Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Temple Owls at Penn State Nittany Lions
+DTSTART;VALUE=DATE-TIME:20160917T160000Z
+DTEND;VALUE=DATE-TIME:20160917T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165254Z
+UID:400869519
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086951
+ 9\nNetworks: BTN
+LOCATION:Beaver Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869519
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas Jayhawks at Memphis Tigers
+DTSTART;VALUE=DATE-TIME:20160917T160000Z
+DTEND;VALUE=DATE-TIME:20160917T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165254Z
+UID:400869520
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086952
+ 0\nNetworks: ESPNU\,WatchESPN
+LOCATION:Liberty Bowl Memorial Stadium\, Memphis\, TN
+URL:http://www.espn.com/college-football/game?gameId=400869520
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virginia Cavaliers at Connecticut Huskies
+DTSTART;VALUE=DATE-TIME:20160917T173000Z
+DTEND;VALUE=DATE-TIME:20160917T210000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165254Z
+UID:400869444
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086944
+ 4\nNetworks: ESPN3
+LOCATION:Rentschler Field
+URL:http://www.espn.com/college-football/game?gameId=400869444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina A&T Aggies at Tulsa Golden Hurricane
+DTSTART;VALUE=DATE-TIME:20160917T180000Z
+DTEND;VALUE=DATE-TIME:20160917T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165254Z
+UID:400869523
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086952
+ 3\nNetworks: ESPN3
+LOCATION:Chapman Stadium\, Tulsa\, OK
+URL:http://www.espn.com/college-football/game?gameId=400869523
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Florida Bulls at Syracuse Orange
+DTSTART;VALUE=DATE-TIME:20160917T193000Z
+DTEND;VALUE=DATE-TIME:20160917T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165254Z
+UID:400869443
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086944
+ 3\nNetworks: 
+LOCATION:Carrier Dome
+URL:http://www.espn.com/college-football/game?gameId=400869443
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:East Carolina Pirates at South Carolina Gamecocks
+DTSTART;VALUE=DATE-TIME:20160917T200000Z
+DTEND;VALUE=DATE-TIME:20160917T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165254Z
+UID:400868999
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086899
+ 9\nNetworks: SECN\,WatchESPN
+LOCATION:Williams-Brice Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868999
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maryland Terrapins at UCF Knights
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165254Z
+UID:400869518
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086951
+ 8\nNetworks: CBSSN
+LOCATION:Bright House Networks Stadium\, Orlando\, FL
+URL:http://www.espn.com/college-football/game?gameId=400869518
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Navy Midshipmen at Tulane Green Wave
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165254Z
+UID:400869521
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086952
+ 1\nNetworks: ESPN3
+LOCATION:Yulman Stadium\, New Orleans\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liberty Flames at SMU Mustangs
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165254Z
+UID:400869522
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086952
+ 2\nNetworks: ESPN3
+LOCATION:Gerald J. Ford Stadium\, Dallas\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TCU Horned Frogs at SMU Mustangs
+DTSTART;VALUE=DATE-TIME:20160924T000000Z
+DTEND;VALUE=DATE-TIME:20160924T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165254Z
+UID:400869524
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086952
+ 4\nNetworks: ESPN\,WatchESPN
+LOCATION:Gerald J. Ford Stadium\, Dallas\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Florida State Seminoles at South Florida Bulls (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165254Z
+UID:400869448
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086944
+ 8\nNetworks: 
+LOCATION:Raymond James Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869448
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Syracuse Orange at Connecticut Huskies (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165254Z
+UID:400869450
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086945
+ 0\nNetworks: 
+LOCATION:Rentschler Field
+URL:http://www.espn.com/college-football/game?gameId=400869450
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:East Carolina Pirates at Virginia Tech Hokies (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165254Z
+UID:400869451
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086945
+ 1\nNetworks: 
+LOCATION:Lane Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869451
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bowling Green Falcons at Memphis Tigers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165254Z
+UID:400869287
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086928
+ 7\nNetworks: 
+LOCATION:Liberty Bowl Memorial Stadium\, Memphis\, TN
+URL:http://www.espn.com/college-football/game?gameId=400869287
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miami (OH) RedHawks at Cincinnati Bearcats (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165254Z
+UID:400869291
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086929
+ 1\nNetworks: 
+LOCATION:Nippert Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Lafayette Ragin' Cajuns at Tulane Green Wave (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165254Z
+UID:400869526
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086952
+ 6\nNetworks: 
+LOCATION:Yulman Stadium\, New Orleans\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869526
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charlotte 49ers at Temple Owls
+DTSTART;VALUE=DATE-TIME:20160924T160000Z
+DTEND;VALUE=DATE-TIME:20160924T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165254Z
+UID:400869363
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086936
+ 3\nNetworks: 
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+URL:http://www.espn.com/college-football/game?gameId=400869363
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tulsa Golden Hurricane at Fresno State Bulldogs
+DTSTART;VALUE=DATE-TIME:20160924T203000Z
+DTEND;VALUE=DATE-TIME:20160925T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165254Z
+UID:400869202
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086920
+ 2\nNetworks: CAMP
+LOCATION:Bulldog Stadium \, Fresno\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869202
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UCF Knights at Florida Intl Golden Panthers
+DTSTART;VALUE=DATE-TIME:20160924T230000Z
+DTEND;VALUE=DATE-TIME:20160925T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165254Z
+UID:400869364
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086936
+ 4\nNetworks: 
+LOCATION:FIU Stadium\, Miami\, FL
+URL:http://www.espn.com/college-football/game?gameId=400869364
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Cougars at Texas State Bobcats
+DTSTART;VALUE=DATE-TIME:20160924T230000Z
+DTEND;VALUE=DATE-TIME:20160925T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165254Z
+UID:400869525
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086952
+ 5\nNetworks: 
+LOCATION:Bobcat Stadium \, San Marcos\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869525
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Connecticut Huskies at Houston Cougars
+DTSTART;VALUE=DATE-TIME:20160930T000000Z
+DTEND;VALUE=DATE-TIME:20160930T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165255Z
+UID:400869527
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086952
+ 7\nNetworks: ESPN\,WatchESPN
+LOCATION:TDECU Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UCF Knights at East Carolina Pirates (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161001T160000
+DTEND;VALUE=DATE-TIME:20161001T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165255Z
+UID:400869528
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086952
+ 8\nNetworks: 
+LOCATION:Dowdy-Ficklen Stadium\, Greenville\, NC
+URL:http://www.espn.com/college-football/game?gameId=400869528
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Florida Bulls at Cincinnati Bearcats (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161001T160000
+DTEND;VALUE=DATE-TIME:20161001T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165255Z
+UID:400869529
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086952
+ 9\nNetworks: 
+LOCATION:Nippert Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869529
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMU Mustangs at Temple Owls (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161001T160000
+DTEND;VALUE=DATE-TIME:20161001T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165255Z
+UID:400869530
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086953
+ 0\nNetworks: 
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+URL:http://www.espn.com/college-football/game?gameId=400869530
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memphis Tigers at Ole Miss Rebels (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161001T160000
+DTEND;VALUE=DATE-TIME:20161001T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165255Z
+UID:400869015
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086901
+ 5\nNetworks: 
+LOCATION:Vaught-Hemingway Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869015
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Navy Midshipmen at Air Force Falcons
+DTSTART;VALUE=DATE-TIME:20161001T193000Z
+DTEND;VALUE=DATE-TIME:20161001T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165255Z
+UID:400869206
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086920
+ 6\nNetworks: CBSSN
+LOCATION:Falcon Stadium\, Usaf Academy\, CO
+URL:http://www.espn.com/college-football/game?gameId=400869206
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tulane Green Wave at Massachusetts Minutemen
+DTSTART;VALUE=DATE-TIME:20161001T193000Z
+DTEND;VALUE=DATE-TIME:20161001T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165255Z
+UID:400868961
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086896
+ 1\nNetworks: 
+LOCATION:Warren McGuirk Alumni Stadium\, Amherst\, MA
+URL:http://www.espn.com/college-football/game?gameId=400868961
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Temple Owls at Memphis Tigers
+DTSTART;VALUE=DATE-TIME:20161007T000000Z
+DTEND;VALUE=DATE-TIME:20161007T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165255Z
+UID:400869531
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086953
+ 1\nNetworks: ESPN\,WatchESPN
+LOCATION:Liberty Bowl Memorial Stadium\, Memphis\, TN
+URL:http://www.espn.com/college-football/game?gameId=400869531
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tulane Green Wave at UCF Knights
+DTSTART;VALUE=DATE-TIME:20161008T000000Z
+DTEND;VALUE=DATE-TIME:20161008T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165255Z
+UID:400869532
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086953
+ 2\nNetworks: ESPN2\,ESPNU\,WatchESPN
+LOCATION:Bright House Networks Stadium\, Orlando\, FL
+URL:http://www.espn.com/college-football/game?gameId=400869532
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMU Mustangs at Tulsa Golden Hurricane
+DTSTART;VALUE=DATE-TIME:20161008T000000Z
+DTEND;VALUE=DATE-TIME:20161008T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165255Z
+UID:400869533
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086953
+ 3\nNetworks: ESPN2\,ESPNU\,WatchESPN
+LOCATION:Chapman Stadium\, Tulsa\, OK
+URL:http://www.espn.com/college-football/game?gameId=400869533
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:East Carolina Pirates at South Florida Bulls (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161008T160000
+DTEND;VALUE=DATE-TIME:20161008T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165255Z
+UID:400869535
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086953
+ 5\nNetworks: 
+LOCATION:Raymond James Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869535
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cincinnati Bearcats at Connecticut Huskies
+DTSTART;VALUE=DATE-TIME:20161008T153000Z
+DTEND;VALUE=DATE-TIME:20161008T190000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165255Z
+UID:400869534
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086953
+ 4\nNetworks: CBSSN
+LOCATION:Rentschler Field
+URL:http://www.espn.com/college-football/game?gameId=400869534
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Cougars at Navy Midshipmen
+DTSTART;VALUE=DATE-TIME:20161008T190000Z
+DTEND;VALUE=DATE-TIME:20161008T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165255Z
+UID:400869536
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086953
+ 6\nNetworks: CBSSN
+LOCATION:Navy-Marine Corps Memorial Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869536
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Navy Midshipmen at East Carolina Pirates
+DTSTART;VALUE=DATE-TIME:20161013T233000Z
+DTEND;VALUE=DATE-TIME:20161014T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165255Z
+UID:400869537
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086953
+ 7\nNetworks: ESPN\,WatchESPN
+LOCATION:Dowdy-Ficklen Stadium\, Greenville\, NC
+URL:http://www.espn.com/college-football/game?gameId=400869537
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memphis Tigers at Tulane Green Wave
+DTSTART;VALUE=DATE-TIME:20161015T000000Z
+DTEND;VALUE=DATE-TIME:20161015T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165255Z
+UID:400869538
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086953
+ 8\nNetworks: ESPNU\,WatchESPN
+LOCATION:Yulman Stadium\, New Orleans\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869538
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Temple Owls at UCF Knights (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161015T160000
+DTEND;VALUE=DATE-TIME:20161015T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165255Z
+UID:400869539
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086953
+ 9\nNetworks: 
+LOCATION:Bright House Networks Stadium\, Orlando\, FL
+URL:http://www.espn.com/college-football/game?gameId=400869539
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Connecticut Huskies at South Florida Bulls (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161015T160000
+DTEND;VALUE=DATE-TIME:20161015T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165255Z
+UID:400869540
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086954
+ 0\nNetworks: 
+LOCATION:Raymond James Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869540
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tulsa Golden Hurricane at Houston Cougars (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161015T160000
+DTEND;VALUE=DATE-TIME:20161015T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165255Z
+UID:400869541
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086954
+ 1\nNetworks: 
+LOCATION:TDECU Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869541
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Florida Bulls at Temple Owls
+DTSTART;VALUE=DATE-TIME:20161021T230000Z
+DTEND;VALUE=DATE-TIME:20161022T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165256Z
+UID:400869542
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086954
+ 2\nNetworks: ESPN\,WatchESPN
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+URL:http://www.espn.com/college-football/game?gameId=400869542
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UCF Knights at Connecticut Huskies (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161022T160000
+DTEND;VALUE=DATE-TIME:20161022T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165256Z
+UID:400869543
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086954
+ 3\nNetworks: 
+LOCATION:Rentschler Field
+URL:http://www.espn.com/college-football/game?gameId=400869543
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:East Carolina Pirates at Cincinnati Bearcats (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161022T160000
+DTEND;VALUE=DATE-TIME:20161022T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165256Z
+UID:400869544
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086954
+ 4\nNetworks: 
+LOCATION:Nippert Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869544
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Cougars at SMU Mustangs (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161022T160000
+DTEND;VALUE=DATE-TIME:20161022T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165256Z
+UID:400869545
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086954
+ 5\nNetworks: 
+LOCATION:Gerald J. Ford Stadium\, Dallas\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869545
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tulane Green Wave at Tulsa Golden Hurricane (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161022T160000
+DTEND;VALUE=DATE-TIME:20161022T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165256Z
+UID:400869547
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086954
+ 7\nNetworks: 
+LOCATION:Chapman Stadium\, Tulsa\, OK
+URL:http://www.espn.com/college-football/game?gameId=400869547
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memphis Tigers at Navy Midshipmen
+DTSTART;VALUE=DATE-TIME:20161022T193000Z
+DTEND;VALUE=DATE-TIME:20161022T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165256Z
+UID:400869546
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086954
+ 6\nNetworks: CBSSN
+LOCATION:Navy-Marine Corps Memorial Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869546
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Navy Midshipmen at South Florida Bulls
+DTSTART;VALUE=DATE-TIME:20161028T230000Z
+DTEND;VALUE=DATE-TIME:20161029T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165256Z
+UID:400869548
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086954
+ 8\nNetworks: ESPN2\,WatchESPN
+LOCATION:Raymond James Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869548
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UCF Knights at Houston Cougars (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161029T160000
+DTEND;VALUE=DATE-TIME:20161029T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165256Z
+UID:400869549
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086954
+ 9\nNetworks: 
+LOCATION:TDECU Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869549
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cincinnati Bearcats at Temple Owls (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161029T160000
+DTEND;VALUE=DATE-TIME:20161029T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165256Z
+UID:400869550
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086955
+ 0\nNetworks: 
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+URL:http://www.espn.com/college-football/game?gameId=400869550
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Connecticut Huskies at East Carolina Pirates (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161029T160000
+DTEND;VALUE=DATE-TIME:20161029T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165256Z
+UID:400869551
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086955
+ 1\nNetworks: 
+LOCATION:Dowdy-Ficklen Stadium\, Greenville\, NC
+URL:http://www.espn.com/college-football/game?gameId=400869551
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tulsa Golden Hurricane at Memphis Tigers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161029T160000
+DTEND;VALUE=DATE-TIME:20161029T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165256Z
+UID:400869552
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086955
+ 2\nNetworks: 
+LOCATION:Liberty Bowl Memorial Stadium\, Memphis\, TN
+URL:http://www.espn.com/college-football/game?gameId=400869552
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMU Mustangs at Tulane Green Wave (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161029T160000
+DTEND;VALUE=DATE-TIME:20161029T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165256Z
+UID:400869553
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086955
+ 3\nNetworks: 
+LOCATION:Yulman Stadium\, New Orleans\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869553
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Temple Owls at Connecticut Huskies
+DTSTART;VALUE=DATE-TIME:20161104T230000Z
+DTEND;VALUE=DATE-TIME:20161105T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165256Z
+UID:400869554
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086955
+ 4\nNetworks: ESPN2\,WatchESPN
+LOCATION:Rentschler Field
+URL:http://www.espn.com/college-football/game?gameId=400869554
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:East Carolina Pirates at Tulsa Golden Hurricane (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161105T160000
+DTEND;VALUE=DATE-TIME:20161105T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165256Z
+UID:400869555
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086955
+ 5\nNetworks: 
+LOCATION:Chapman Stadium\, Tulsa\, OK
+URL:http://www.espn.com/college-football/game?gameId=400869555
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memphis Tigers at SMU Mustangs (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161105T160000
+DTEND;VALUE=DATE-TIME:20161105T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165256Z
+UID:400869556
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086955
+ 6\nNetworks: 
+LOCATION:Gerald J. Ford Stadium\, Dallas\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869556
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BYU Cougars at Cincinnati Bearcats (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161105T160000
+DTEND;VALUE=DATE-TIME:20161105T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165256Z
+UID:400868930
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086893
+ 0\nNetworks: 
+LOCATION:Nippert Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868930
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Navy Midshipmen vs Notre Dame Fighting Irish
+DTSTART;VALUE=DATE-TIME:20161105T153000Z
+DTEND;VALUE=DATE-TIME:20161105T190000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165256Z
+UID:400868954
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086895
+ 4\nNetworks: CBS
+LOCATION:EverBank Field\, Jacksonville\, FL
+URL:http://www.espn.com/college-football/game?gameId=400868954
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cincinnati Bearcats at UCF Knights (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161112T160000
+DTEND;VALUE=DATE-TIME:20161112T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165257Z
+UID:400869557
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086955
+ 7\nNetworks: 
+LOCATION:Bright House Networks Stadium\, Orlando\, FL
+URL:http://www.espn.com/college-football/game?gameId=400869557
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMU Mustangs at East Carolina Pirates (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161112T160000
+DTEND;VALUE=DATE-TIME:20161112T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165257Z
+UID:400869558
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086955
+ 8\nNetworks: 
+LOCATION:Dowdy-Ficklen Stadium\, Greenville\, NC
+URL:http://www.espn.com/college-football/game?gameId=400869558
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Florida Bulls at Memphis Tigers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161112T160000
+DTEND;VALUE=DATE-TIME:20161112T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165257Z
+UID:400869559
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086955
+ 9\nNetworks: 
+LOCATION:Liberty Bowl Memorial Stadium\, Memphis\, TN
+URL:http://www.espn.com/college-football/game?gameId=400869559
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tulane Green Wave at Houston Cougars (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161112T160000
+DTEND;VALUE=DATE-TIME:20161112T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165257Z
+UID:400869560
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086956
+ 0\nNetworks: 
+LOCATION:TDECU Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869560
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tulsa Golden Hurricane at Navy Midshipmen
+DTSTART;VALUE=DATE-TIME:20161112T170000Z
+DTEND;VALUE=DATE-TIME:20161112T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165257Z
+UID:400869561
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086956
+ 1\nNetworks: CBSSN
+LOCATION:Navy-Marine Corps Memorial Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869561
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisville Cardinals at Houston Cougars
+DTSTART;VALUE=DATE-TIME:20161118T010000Z
+DTEND;VALUE=DATE-TIME:20161118T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165257Z
+UID:400869562
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086956
+ 2\nNetworks: ESPN\,WatchESPN
+LOCATION:TDECU Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869562
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memphis Tigers at Cincinnati Bearcats
+DTSTART;VALUE=DATE-TIME:20161119T010000Z
+DTEND;VALUE=DATE-TIME:20161119T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165257Z
+UID:400869563
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086956
+ 3\nNetworks: CBSSN
+LOCATION:Nippert Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869563
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tulsa Golden Hurricane at UCF Knights (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165257Z
+UID:400869564
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086956
+ 4\nNetworks: 
+LOCATION:Bright House Networks Stadium\, Orlando\, FL
+URL:http://www.espn.com/college-football/game?gameId=400869564
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Florida Bulls at SMU Mustangs (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165257Z
+UID:400869565
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086956
+ 5\nNetworks: 
+LOCATION:Gerald J. Ford Stadium\, Dallas\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869565
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Temple Owls at Tulane Green Wave (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165257Z
+UID:400869566
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086956
+ 6\nNetworks: 
+LOCATION:Yulman Stadium\, New Orleans\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Connecticut Huskies at Boston College Eagles (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165257Z
+UID:400869490
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086949
+ 0\nNetworks: 
+LOCATION:Alumni Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869490
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cincinnati Bearcats at Tulsa Golden Hurricane (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161125T160000
+DTEND;VALUE=DATE-TIME:20161125T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165257Z
+UID:400869567
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086956
+ 7\nNetworks: 
+LOCATION:Chapman Stadium\, Tulsa\, OK
+URL:http://www.espn.com/college-football/game?gameId=400869567
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Cougars at Memphis Tigers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161125T160000
+DTEND;VALUE=DATE-TIME:20161125T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165257Z
+UID:400869568
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086956
+ 8\nNetworks: 
+LOCATION:Liberty Bowl Memorial Stadium\, Memphis\, TN
+URL:http://www.espn.com/college-football/game?gameId=400869568
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UCF Knights at South Florida Bulls (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161126T160000
+DTEND;VALUE=DATE-TIME:20161126T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165257Z
+UID:400869569
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086956
+ 9\nNetworks: 
+LOCATION:Raymond James Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869569
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tulane Green Wave at Connecticut Huskies (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161126T160000
+DTEND;VALUE=DATE-TIME:20161126T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165257Z
+UID:400869570
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086957
+ 0\nNetworks: 
+LOCATION:Rentschler Field
+URL:http://www.espn.com/college-football/game?gameId=400869570
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:East Carolina Pirates at Temple Owls (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161126T160000
+DTEND;VALUE=DATE-TIME:20161126T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165257Z
+UID:400869571
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086957
+ 1\nNetworks: 
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+URL:http://www.espn.com/college-football/game?gameId=400869571
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Navy Midshipmen at SMU Mustangs (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161126T160000
+DTEND;VALUE=DATE-TIME:20161126T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165257Z
+UID:400869572
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086957
+ 2\nNetworks: 
+LOCATION:Gerald J. Ford Stadium\, Dallas\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869572
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Navy Midshipmen vs Army Black Knights
+DTSTART;VALUE=DATE-TIME:20161210T200000Z
+DTEND;VALUE=DATE-TIME:20161210T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165258Z
+UID:400868921
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086892
+ 1\nNetworks: CBS
+LOCATION:M&T\; Bank Stadium\, Baltimore\, MD
+URL:http://www.espn.com/college-football/game?gameId=400868921
+END:VEVENT
+END:VCALENDAR

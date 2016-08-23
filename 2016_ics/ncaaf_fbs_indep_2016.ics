@@ -1,0 +1,512 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ncaaf-calendar//jiva//
+DTSTART;VALUE=DATE-TIME:20160823T165221
+SUMMARY:2016 NCAAF Schedule
+BEGIN:VEVENT
+SUMMARY:Army Black Knights at Temple Owls
+DTSTART;VALUE=DATE-TIME:20160902T230000Z
+DTEND;VALUE=DATE-TIME:20160903T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165222Z
+UID:400868910
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086891
+ 0\nNetworks: CBSSN
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+URL:http://www.espn.com/college-football/game?gameId=400868910
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Massachusetts Minutemen at Florida Gators
+DTSTART;VALUE=DATE-TIME:20160903T233000Z
+DTEND;VALUE=DATE-TIME:20160904T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165222Z
+UID:400868957
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086895
+ 7\nNetworks: SECN\,WatchESPN
+LOCATION:Ben Hill Griffin Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arizona Wildcats vs BYU Cougars
+DTSTART;VALUE=DATE-TIME:20160904T023000Z
+DTEND;VALUE=DATE-TIME:20160904T060000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165222Z
+UID:400868922
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086892
+ 2\nNetworks: FS1
+LOCATION:University of Phoenix Stadium\, Glendale\, AZ
+URL:http://www.espn.com/college-football/game?gameId=400868922
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Notre Dame Fighting Irish at Texas Longhorns
+DTSTART;VALUE=DATE-TIME:20160904T233000Z
+DTEND;VALUE=DATE-TIME:20160905T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165222Z
+UID:400868946
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086894
+ 6\nNetworks: ABC\,WatchESPN
+LOCATION:Royal Texas Memorial Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rice Owls at Army Black Knights
+DTSTART;VALUE=DATE-TIME:20160910T160000Z
+DTEND;VALUE=DATE-TIME:20160910T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165222Z
+UID:400868911
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086891
+ 1\nNetworks: CBSSN
+LOCATION:Michie Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868911
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boston College Eagles at Massachusetts Minutemen
+DTSTART;VALUE=DATE-TIME:20160910T160000Z
+DTEND;VALUE=DATE-TIME:20160910T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165222Z
+UID:400868958
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086895
+ 8\nNetworks: ESPN3
+LOCATION:Gillette Stadium\, Foxboro\, MA
+URL:http://www.espn.com/college-football/game?gameId=400868958
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nevada Wolf Pack at Notre Dame Fighting Irish
+DTSTART;VALUE=DATE-TIME:20160910T193000Z
+DTEND;VALUE=DATE-TIME:20160910T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165222Z
+UID:400868947
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086894
+ 7\nNetworks: NBC
+LOCATION:Notre Dame Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868947
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BYU Cougars at Utah Utes
+DTSTART;VALUE=DATE-TIME:20160910T233000Z
+DTEND;VALUE=DATE-TIME:20160911T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165222Z
+UID:400868923
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086892
+ 3\nNetworks: 
+LOCATION:Rice-Eccles Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868923
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Florida Intl Golden Panthers at Massachusetts Minutemen
+DTSTART;VALUE=DATE-TIME:20160917T193000Z
+DTEND;VALUE=DATE-TIME:20160917T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165222Z
+UID:400868959
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086895
+ 9\nNetworks: ESPN3
+LOCATION:Warren McGuirk Alumni Stadium\, Amherst\, MA
+URL:http://www.espn.com/college-football/game?gameId=400868959
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Army Black Knights at UTEP Miners
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165222Z
+UID:400868912
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086891
+ 2\nNetworks: 
+LOCATION:Sun Bowl\, El Paso\, TX
+URL:http://www.espn.com/college-football/game?gameId=400868912
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Michigan State Spartans at Notre Dame Fighting Irish
+DTSTART;VALUE=DATE-TIME:20160917T233000Z
+DTEND;VALUE=DATE-TIME:20160918T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165222Z
+UID:400868948
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086894
+ 8\nNetworks: NBC
+LOCATION:Notre Dame Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868948
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UCLA Bruins at BYU Cougars
+DTSTART;VALUE=DATE-TIME:20160918T021500Z
+DTEND;VALUE=DATE-TIME:20160918T054500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165222Z
+UID:400868924
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086892
+ 4\nNetworks: ESPN\,ESPN2\,WatchESPN
+LOCATION:LaVell Edwards Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868924
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Army Black Knights at Buffalo Bulls (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165223Z
+UID:400868913
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086891
+ 3\nNetworks: 
+LOCATION:UB Stadium\, Buffalo\, NY
+URL:http://www.espn.com/college-football/game?gameId=400868913
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Virginia Mountaineers vs BYU Cougars (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165223Z
+UID:400868925
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086892
+ 5\nNetworks: 
+LOCATION:FedExField\, Landover\, MD
+URL:http://www.espn.com/college-football/game?gameId=400868925
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Duke Blue Devils at Notre Dame Fighting Irish
+DTSTART;VALUE=DATE-TIME:20160924T193000Z
+DTEND;VALUE=DATE-TIME:20160924T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165223Z
+UID:400868949
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086894
+ 9\nNetworks: NBC
+LOCATION:Notre Dame Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868949
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mississippi State Bulldogs at Massachusetts Minutemen
+DTSTART;VALUE=DATE-TIME:20160924T193000Z
+DTEND;VALUE=DATE-TIME:20160924T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165223Z
+UID:400868960
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086896
+ 0\nNetworks: ESPN3
+LOCATION:Gillette Stadium\, Foxboro\, MA
+URL:http://www.espn.com/college-football/game?gameId=400868960
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toledo Rockets at BYU Cougars
+DTSTART;VALUE=DATE-TIME:20161001T021500Z
+DTEND;VALUE=DATE-TIME:20161001T054500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165223Z
+UID:400868926
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086892
+ 6\nNetworks: ESPN2\,WatchESPN
+LOCATION:LaVell Edwards Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868926
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Syracuse Orange vs Notre Dame Fighting Irish (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161001T160000
+DTEND;VALUE=DATE-TIME:20161001T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165223Z
+UID:400868950
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086895
+ 0\nNetworks: 
+LOCATION:MetLife Stadium\, East Rutherford\, NJ
+URL:http://www.espn.com/college-football/game?gameId=400868950
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tulane Green Wave at Massachusetts Minutemen
+DTSTART;VALUE=DATE-TIME:20161001T193000Z
+DTEND;VALUE=DATE-TIME:20161001T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165223Z
+UID:400868961
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086896
+ 1\nNetworks: 
+LOCATION:Warren McGuirk Alumni Stadium\, Amherst\, MA
+URL:http://www.espn.com/college-football/game?gameId=400868961
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Army Black Knights at Duke Blue Devils (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161008T160000
+DTEND;VALUE=DATE-TIME:20161008T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165223Z
+UID:400868914
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086891
+ 4\nNetworks: 
+LOCATION:Wallace Wade Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868914
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BYU Cougars at Michigan State Spartans (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161008T160000
+DTEND;VALUE=DATE-TIME:20161008T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165223Z
+UID:400868927
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086892
+ 7\nNetworks: 
+LOCATION:Spartan Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400868927
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Notre Dame Fighting Irish at NC State Wolfpack (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161008T160000
+DTEND;VALUE=DATE-TIME:20161008T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165223Z
+UID:400868951
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086895
+ 1\nNetworks: 
+LOCATION:Carter-Finley Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868951
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Massachusetts Minutemen at Old Dominion Monarchs (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161008T160000
+DTEND;VALUE=DATE-TIME:20161008T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165223Z
+UID:400868962
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086896
+ 2\nNetworks: 
+LOCATION:S.B. Ballard Stadium\, Norfolk\, VA
+URL:http://www.espn.com/college-football/game?gameId=400868962
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mississippi State Bulldogs at BYU Cougars
+DTSTART;VALUE=DATE-TIME:20161015T021500Z
+DTEND;VALUE=DATE-TIME:20161015T054500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165224Z
+UID:400868928
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086892
+ 8\nNetworks: ESPN\,WatchESPN
+LOCATION:LaVell Edwards Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868928
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lafayette Leopards at Army Black Knights
+DTSTART;VALUE=DATE-TIME:20161015T160000Z
+DTEND;VALUE=DATE-TIME:20161015T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165224Z
+UID:400868915
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086891
+ 5\nNetworks: 
+LOCATION:Michie Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868915
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Tech Bulldogs at Massachusetts Minutemen
+DTSTART;VALUE=DATE-TIME:20161015T193000Z
+DTEND;VALUE=DATE-TIME:20161015T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165224Z
+UID:400868963
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086896
+ 3\nNetworks: 
+LOCATION:Gillette Stadium\, Foxboro\, MA
+URL:http://www.espn.com/college-football/game?gameId=400868963
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stanford Cardinal at Notre Dame Fighting Irish
+DTSTART;VALUE=DATE-TIME:20161015T233000Z
+DTEND;VALUE=DATE-TIME:20161016T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165224Z
+UID:400868952
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086895
+ 2\nNetworks: NBC
+LOCATION:Notre Dame Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868952
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BYU Cougars at Boise State Broncos
+DTSTART;VALUE=DATE-TIME:20161021T021500Z
+DTEND;VALUE=DATE-TIME:20161021T054500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165224Z
+UID:400869224
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086922
+ 4\nNetworks: ESPN\,WatchESPN
+LOCATION:Albertsons Stadium\, Boise\, ID
+URL:http://www.espn.com/college-football/game?gameId=400869224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Massachusetts Minutemen at South Carolina Gamecocks (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161022T160000
+DTEND;VALUE=DATE-TIME:20161022T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165224Z
+UID:400868964
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086896
+ 4\nNetworks: 
+LOCATION:Williams-Brice Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Texas Mean Green at Army Black Knights
+DTSTART;VALUE=DATE-TIME:20161022T160000Z
+DTEND;VALUE=DATE-TIME:20161022T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165224Z
+UID:400868916
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086891
+ 6\nNetworks: 
+LOCATION:Michie Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868916
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Army Black Knights at Wake Forest Demon Deacons (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161029T160000
+DTEND;VALUE=DATE-TIME:20161029T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165225Z
+UID:400868917
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086891
+ 7\nNetworks: 
+LOCATION:BB&T\; Field
+URL:http://www.espn.com/college-football/game?gameId=400868917
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wagner Seahawks at Massachusetts Minutemen
+DTSTART;VALUE=DATE-TIME:20161029T170000Z
+DTEND;VALUE=DATE-TIME:20161029T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165225Z
+UID:400868965
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086896
+ 5\nNetworks: ESPN3
+LOCATION:Warren McGuirk Alumni Stadium\, Amherst\, MA
+URL:http://www.espn.com/college-football/game?gameId=400868965
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miami Hurricanes at Notre Dame Fighting Irish
+DTSTART;VALUE=DATE-TIME:20161029T193000Z
+DTEND;VALUE=DATE-TIME:20161029T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165225Z
+UID:400868953
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086895
+ 3\nNetworks: NBC
+LOCATION:Notre Dame Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868953
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BYU Cougars at Cincinnati Bearcats (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161105T160000
+DTEND;VALUE=DATE-TIME:20161105T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165225Z
+UID:400868930
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086893
+ 0\nNetworks: 
+LOCATION:Nippert Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868930
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Massachusetts Minutemen at Troy Trojans (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161105T160000
+DTEND;VALUE=DATE-TIME:20161105T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165225Z
+UID:400868966
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086896
+ 6\nNetworks: 
+LOCATION:Veterans Memorial Stadium \, Troy\, AL
+URL:http://www.espn.com/college-football/game?gameId=400868966
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Navy Midshipmen vs Notre Dame Fighting Irish
+DTSTART;VALUE=DATE-TIME:20161105T153000Z
+DTEND;VALUE=DATE-TIME:20161105T190000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165225Z
+UID:400868954
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086895
+ 4\nNetworks: CBS
+LOCATION:EverBank Field\, Jacksonville\, FL
+URL:http://www.espn.com/college-football/game?gameId=400868954
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Air Force Falcons at Army Black Knights
+DTSTART;VALUE=DATE-TIME:20161105T160000Z
+DTEND;VALUE=DATE-TIME:20161105T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165225Z
+UID:400868918
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086891
+ 8\nNetworks: CBSSN
+LOCATION:Michie Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868918
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Utah Thunderbirds at BYU Cougars
+DTSTART;VALUE=DATE-TIME:20161112T200000Z
+DTEND;VALUE=DATE-TIME:20161112T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165225Z
+UID:400868931
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086893
+ 1\nNetworks: 
+LOCATION:LaVell Edwards Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868931
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Notre Dame Fighting Irish vs Army Black Knights
+DTSTART;VALUE=DATE-TIME:20161112T203000Z
+DTEND;VALUE=DATE-TIME:20161113T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165225Z
+UID:400868919
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086891
+ 9\nNetworks: NBC
+LOCATION:Alamodome\, San Antonio\, TX
+URL:http://www.espn.com/college-football/game?gameId=400868919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Massachusetts Minutemen at BYU Cougars (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165225Z
+UID:400868932
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086893
+ 2\nNetworks: 
+LOCATION:LaVell Edwards Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868932
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morgan State Bears at Army Black Knights
+DTSTART;VALUE=DATE-TIME:20161119T170000Z
+DTEND;VALUE=DATE-TIME:20161119T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165225Z
+UID:400868920
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086892
+ 0\nNetworks: 
+LOCATION:Michie Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868920
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virginia Tech Hokies at Notre Dame Fighting Irish
+DTSTART;VALUE=DATE-TIME:20161119T203000Z
+DTEND;VALUE=DATE-TIME:20161120T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165225Z
+UID:400868955
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086895
+ 5\nNetworks: NBC
+LOCATION:Notre Dame Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868955
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utah State Aggies at BYU Cougars (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161126T160000
+DTEND;VALUE=DATE-TIME:20161126T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165226Z
+UID:400868933
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086893
+ 3\nNetworks: 
+LOCATION:LaVell Edwards Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868933
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Notre Dame Fighting Irish at USC Trojans (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161126T160000
+DTEND;VALUE=DATE-TIME:20161126T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165226Z
+UID:400868956
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086895
+ 6\nNetworks: 
+LOCATION:Los Angeles Memorial Coliseum
+URL:http://www.espn.com/college-football/game?gameId=400868956
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Massachusetts Minutemen at Hawaii Rainbow Warriors
+DTSTART;VALUE=DATE-TIME:20161127T045900Z
+DTEND;VALUE=DATE-TIME:20161127T082900Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165226Z
+UID:400868967
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086896
+ 7\nNetworks: 
+LOCATION:Aloha Stadium\, Honolulu\, HI
+URL:http://www.espn.com/college-football/game?gameId=400868967
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Navy Midshipmen vs Army Black Knights
+DTSTART;VALUE=DATE-TIME:20161210T200000Z
+DTEND;VALUE=DATE-TIME:20161210T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165227Z
+UID:400868921
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086892
+ 1\nNetworks: CBS
+LOCATION:M&T\; Bank Stadium\, Baltimore\, MD
+URL:http://www.espn.com/college-football/game?gameId=400868921
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1161 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ncaaf-calendar//jiva//
+DTSTART;VALUE=DATE-TIME:20160823T165242
+SUMMARY:2016 NCAAF Schedule
+BEGIN:VEVENT
+SUMMARY:Indiana Hoosiers at Florida Intl Golden Panthers
+DTSTART;VALUE=DATE-TIME:20160901T233000Z
+DTEND;VALUE=DATE-TIME:20160902T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869342
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086934
+ 2\nNetworks: ESPNU\,WatchESPN
+LOCATION:FIU Stadium\, Miami\, FL
+URL:http://www.espn.com/college-football/game?gameId=400869342
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oregon State Beavers at Minnesota Golden Gophers
+DTSTART;VALUE=DATE-TIME:20160902T010000Z
+DTEND;VALUE=DATE-TIME:20160902T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869092
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086909
+ 2\nNetworks: BTN
+LOCATION:TCF Bank Stadium\, Minneapolis\, MN
+URL:http://www.espn.com/college-football/game?gameId=400869092
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Furman Paladins at Michigan State Spartans
+DTSTART;VALUE=DATE-TIME:20160902T230000Z
+DTEND;VALUE=DATE-TIME:20160903T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869651
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086965
+ 1\nNetworks: BTN
+LOCATION:Spartan Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869651
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eastern Kentucky Colonels at Purdue Boilermakers
+DTSTART;VALUE=DATE-TIME:20160903T160000Z
+DTEND;VALUE=DATE-TIME:20160903T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869578
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086957
+ 8\nNetworks: ESPNN\,WatchESPN
+LOCATION:Ross-Ade Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869578
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Howard Bison at Maryland Terrapins
+DTSTART;VALUE=DATE-TIME:20160903T160000Z
+DTEND;VALUE=DATE-TIME:20160903T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869653
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086965
+ 3\nNetworks: BTN
+LOCATION:Maryland Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869653
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Michigan Broncos at Northwestern Wildcats
+DTSTART;VALUE=DATE-TIME:20160903T160000Z
+DTEND;VALUE=DATE-TIME:20160903T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869267
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086926
+ 7\nNetworks: ESPNU\,WatchESPN
+LOCATION:Ryan Field
+URL:http://www.espn.com/college-football/game?gameId=400869267
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawaii Rainbow Warriors at Michigan Wolverines
+DTSTART;VALUE=DATE-TIME:20160903T160000Z
+DTEND;VALUE=DATE-TIME:20160903T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869180
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086918
+ 0\nNetworks: ESPN\,WatchESPN
+LOCATION:Michigan Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869180
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bowling Green Falcons at Ohio State Buckeyes
+DTSTART;VALUE=DATE-TIME:20160903T160000Z
+DTEND;VALUE=DATE-TIME:20160903T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869260
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086926
+ 0\nNetworks: BTN
+LOCATION:Ohio Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869260
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rutgers Scarlet Knights at Washington Huskies
+DTSTART;VALUE=DATE-TIME:20160903T180000Z
+DTEND;VALUE=DATE-TIME:20160903T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869097
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086909
+ 7\nNetworks: PAC12
+LOCATION:Husky Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869097
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LSU Tigers vs Wisconsin Badgers
+DTSTART;VALUE=DATE-TIME:20160903T193000Z
+DTEND;VALUE=DATE-TIME:20160903T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400868974
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086897
+ 4\nNetworks: ABC\,WatchESPN
+LOCATION:Lambeau Field\, Green Bay\, WI
+URL:http://www.espn.com/college-football/game?gameId=400868974
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kent State Golden Flashes at Penn State Nittany Lions
+DTSTART;VALUE=DATE-TIME:20160903T193000Z
+DTEND;VALUE=DATE-TIME:20160903T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869261
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086926
+ 1\nNetworks: BTN
+LOCATION:Beaver Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miami (OH) RedHawks at Iowa Hawkeyes
+DTSTART;VALUE=DATE-TIME:20160903T193000Z
+DTEND;VALUE=DATE-TIME:20160903T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869262
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086926
+ 2\nNetworks: ESPNU\,WatchESPN
+LOCATION:Kinnick Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869262
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Murray State Racers at Illinois Fighting Illini
+DTSTART;VALUE=DATE-TIME:20160903T193000Z
+DTEND;VALUE=DATE-TIME:20160903T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869652
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086965
+ 2\nNetworks: BTN
+LOCATION:Memorial Stadium \, Champaign\, IL
+URL:http://www.espn.com/college-football/game?gameId=400869652
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fresno State Bulldogs at Nebraska Cornhuskers
+DTSTART;VALUE=DATE-TIME:20160904T000000Z
+DTEND;VALUE=DATE-TIME:20160904T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869179
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086917
+ 9\nNetworks: BTN
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869179
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maryland Terrapins at Florida Intl Golden Panthers
+DTSTART;VALUE=DATE-TIME:20160909T233000Z
+DTEND;VALUE=DATE-TIME:20160910T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869351
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086935
+ 1\nNetworks: CBSSN
+LOCATION:FIU Stadium\, Miami\, FL
+URL:http://www.espn.com/college-football/game?gameId=400869351
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wyoming Cowboys at Nebraska Cornhuskers
+DTSTART;VALUE=DATE-TIME:20160910T160000Z
+DTEND;VALUE=DATE-TIME:20160910T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869187
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086918
+ 7\nNetworks: ESPN2\,WatchESPN
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869187
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Penn State Nittany Lions at Pittsburgh Panthers
+DTSTART;VALUE=DATE-TIME:20160910T160000Z
+DTEND;VALUE=DATE-TIME:20160910T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869436
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086943
+ 6\nNetworks: ABC\,ESPN\,WatchESPN
+LOCATION:Heinz Field
+URL:http://www.espn.com/college-football/game?gameId=400869436
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UCF Knights at Michigan Wolverines
+DTSTART;VALUE=DATE-TIME:20160910T160000Z
+DTEND;VALUE=DATE-TIME:20160910T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869510
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086951
+ 0\nNetworks: ABC\,ESPN\,WatchESPN
+LOCATION:Michigan Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cincinnati Bearcats at Purdue Boilermakers
+DTSTART;VALUE=DATE-TIME:20160910T160000Z
+DTEND;VALUE=DATE-TIME:20160910T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869511
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086951
+ 1\nNetworks: BTN
+LOCATION:Ross-Ade Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869511
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Howard Bison at Rutgers Scarlet Knights
+DTSTART;VALUE=DATE-TIME:20160910T160000Z
+DTEND;VALUE=DATE-TIME:20160910T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869633
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086963
+ 3\nNetworks: BTN
+LOCATION:High Point Solutions Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana State Sycamores at Minnesota Golden Gophers
+DTSTART;VALUE=DATE-TIME:20160910T160000Z
+DTEND;VALUE=DATE-TIME:20160910T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869654
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086965
+ 4\nNetworks: ESPNN\,WatchESPN
+LOCATION:TCF Bank Stadium\, Minneapolis\, MN
+URL:http://www.espn.com/college-football/game?gameId=400869654
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Illinois State Redbirds at Northwestern Wildcats
+DTSTART;VALUE=DATE-TIME:20160910T193000Z
+DTEND;VALUE=DATE-TIME:20160910T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869655
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086965
+ 5\nNetworks: BTN
+LOCATION:Ryan Field
+URL:http://www.espn.com/college-football/game?gameId=400869655
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tulsa Golden Hurricane at Ohio State Buckeyes
+DTSTART;VALUE=DATE-TIME:20160910T193000Z
+DTEND;VALUE=DATE-TIME:20160910T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869516
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086951
+ 6\nNetworks: ABC\,WatchESPN
+LOCATION:Ohio Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869516
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Akron Zips at Wisconsin Badgers
+DTSTART;VALUE=DATE-TIME:20160910T193000Z
+DTEND;VALUE=DATE-TIME:20160910T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869268
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086926
+ 8\nNetworks: BTN
+LOCATION:Camp Randall Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869268
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ball State Cardinals at Indiana Hoosiers
+DTSTART;VALUE=DATE-TIME:20160910T200000Z
+DTEND;VALUE=DATE-TIME:20160910T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869269
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086926
+ 9\nNetworks: ESPNN\,WatchESPN
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869269
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Carolina Tar Heels at Illinois Fighting Illini
+DTSTART;VALUE=DATE-TIME:20160910T233000Z
+DTEND;VALUE=DATE-TIME:20160911T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869434
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086943
+ 4\nNetworks: BTN
+LOCATION:Memorial Stadium \, Champaign\, IL
+URL:http://www.espn.com/college-football/game?gameId=400869434
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iowa State Cyclones at Iowa Hawkeyes
+DTSTART;VALUE=DATE-TIME:20160910T233000Z
+DTEND;VALUE=DATE-TIME:20160911T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400868888
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086888
+ 8\nNetworks: BTN
+LOCATION:Kinnick Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868888
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Mexico Lobos at Rutgers Scarlet Knights
+DTSTART;VALUE=DATE-TIME:20160917T160000Z
+DTEND;VALUE=DATE-TIME:20160917T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869192
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086919
+ 2\nNetworks: ESPNN\,WatchESPN
+LOCATION:High Point Solutions Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869192
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Temple Owls at Penn State Nittany Lions
+DTSTART;VALUE=DATE-TIME:20160917T160000Z
+DTEND;VALUE=DATE-TIME:20160917T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869519
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086951
+ 9\nNetworks: BTN
+LOCATION:Beaver Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869519
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Dakota State Bison at Iowa Hawkeyes
+DTSTART;VALUE=DATE-TIME:20160917T160000Z
+DTEND;VALUE=DATE-TIME:20160917T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869656
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086965
+ 6\nNetworks: ESPN\,ESPN2\,WatchESPN
+LOCATION:Kinnick Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869656
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgia State Panthers at Wisconsin Badgers
+DTSTART;VALUE=DATE-TIME:20160917T160000Z
+DTEND;VALUE=DATE-TIME:20160917T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869657
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086965
+ 7\nNetworks: BTN
+LOCATION:Camp Randall Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869657
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado Buffaloes at Michigan Wolverines
+DTSTART;VALUE=DATE-TIME:20160917T193000Z
+DTEND;VALUE=DATE-TIME:20160917T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869111
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086911
+ 1\nNetworks: BTN
+LOCATION:Michigan Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869111
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oregon Ducks at Nebraska Cornhuskers
+DTSTART;VALUE=DATE-TIME:20160917T193000Z
+DTEND;VALUE=DATE-TIME:20160917T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869113
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086911
+ 3\nNetworks: ABC\,WatchESPN
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869113
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Michigan Broncos at Illinois Fighting Illini
+DTSTART;VALUE=DATE-TIME:20160917T200000Z
+DTEND;VALUE=DATE-TIME:20160917T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869284
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086928
+ 4\nNetworks: ESPNN\,WatchESPN
+LOCATION:Memorial Stadium \, Champaign\, IL
+URL:http://www.espn.com/college-football/game?gameId=400869284
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maryland Terrapins at UCF Knights
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869518
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086951
+ 8\nNetworks: CBSSN
+LOCATION:Bright House Networks Stadium\, Orlando\, FL
+URL:http://www.espn.com/college-football/game?gameId=400869518
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Michigan State Spartans at Notre Dame Fighting Irish
+DTSTART;VALUE=DATE-TIME:20160917T233000Z
+DTEND;VALUE=DATE-TIME:20160918T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400868948
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086894
+ 8\nNetworks: NBC
+LOCATION:Notre Dame Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868948
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ohio State Buckeyes at Oklahoma Sooners
+DTSTART;VALUE=DATE-TIME:20160917T233000Z
+DTEND;VALUE=DATE-TIME:20160918T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869613
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086961
+ 3\nNetworks: FOX
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869613
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Duke Blue Devils at Northwestern Wildcats
+DTSTART;VALUE=DATE-TIME:20160918T000000Z
+DTEND;VALUE=DATE-TIME:20160918T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165243Z
+UID:400869439
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086943
+ 9\nNetworks: BTN
+LOCATION:Ryan Field
+URL:http://www.espn.com/college-football/game?gameId=400869439
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado State Rams at Minnesota Golden Gophers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165244Z
+UID:400869200
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086920
+ 0\nNetworks: 
+LOCATION:TCF Bank Stadium\, Minneapolis\, MN
+URL:http://www.espn.com/college-football/game?gameId=400869200
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nevada Wolf Pack at Purdue Boilermakers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165244Z
+UID:400869203
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086920
+ 3\nNetworks: 
+LOCATION:Ross-Ade Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wake Forest Demon Deacons at Indiana Hoosiers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165244Z
+UID:400869452
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086945
+ 2\nNetworks: 
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869452
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iowa Hawkeyes at Rutgers Scarlet Knights (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165244Z
+UID:400869634
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086963
+ 4\nNetworks: 
+LOCATION:High Point Solutions Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869634
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Penn State Nittany Lions at Michigan Wolverines (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165244Z
+UID:400869658
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086965
+ 8\nNetworks: 
+LOCATION:Michigan Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869658
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wisconsin Badgers at Michigan State Spartans (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165244Z
+UID:400869659
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086965
+ 9\nNetworks: 
+LOCATION:Spartan Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869659
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nebraska Cornhuskers at Northwestern Wildcats
+DTSTART;VALUE=DATE-TIME:20160924T233000Z
+DTEND;VALUE=DATE-TIME:20160925T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165244Z
+UID:400869660
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086966
+ 0\nNetworks: BTN
+LOCATION:Ryan Field
+URL:http://www.espn.com/college-football/game?gameId=400869660
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wisconsin Badgers at Michigan Wolverines (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161001T160000
+DTEND;VALUE=DATE-TIME:20161001T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165244Z
+UID:400869664
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086966
+ 4\nNetworks: 
+LOCATION:Michigan Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869664
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota Golden Gophers at Penn State Nittany Lions (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161001T160000
+DTEND;VALUE=DATE-TIME:20161001T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165244Z
+UID:400869666
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086966
+ 6\nNetworks: 
+LOCATION:Beaver Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869666
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rutgers Scarlet Knights at Ohio State Buckeyes
+DTSTART;VALUE=DATE-TIME:20161001T160000Z
+DTEND;VALUE=DATE-TIME:20161001T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165244Z
+UID:400869635
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086963
+ 5\nNetworks: 
+LOCATION:Ohio Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869635
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northwestern Wildcats at Iowa Hawkeyes
+DTSTART;VALUE=DATE-TIME:20161001T160000Z
+DTEND;VALUE=DATE-TIME:20161001T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165244Z
+UID:400869662
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086966
+ 2\nNetworks: 
+LOCATION:Kinnick Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869662
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Purdue Boilermakers at Maryland Terrapins
+DTSTART;VALUE=DATE-TIME:20161001T193000Z
+DTEND;VALUE=DATE-TIME:20161001T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165244Z
+UID:400869663
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086966
+ 3\nNetworks: 
+LOCATION:Maryland Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869663
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Illinois Fighting Illini at Nebraska Cornhuskers
+DTSTART;VALUE=DATE-TIME:20161001T193000Z
+DTEND;VALUE=DATE-TIME:20161001T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165244Z
+UID:400869665
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086966
+ 5\nNetworks: 
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869665
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Michigan State Spartans at Indiana Hoosiers
+DTSTART;VALUE=DATE-TIME:20161002T000000Z
+DTEND;VALUE=DATE-TIME:20161002T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165244Z
+UID:400869661
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086966
+ 1\nNetworks: BTN
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869661
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BYU Cougars at Michigan State Spartans (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161008T160000
+DTEND;VALUE=DATE-TIME:20161008T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165244Z
+UID:400868927
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086892
+ 7\nNetworks: 
+LOCATION:Spartan Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400868927
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Michigan Wolverines at Rutgers Scarlet Knights (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161008T160000
+DTEND;VALUE=DATE-TIME:20161008T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165244Z
+UID:400869636
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086963
+ 6\nNetworks: ABC\,ESPN\,ESPN2\,WatchESPN
+LOCATION:High Point Solutions Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869636
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Hoosiers at Ohio State Buckeyes (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161008T160000
+DTEND;VALUE=DATE-TIME:20161008T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165244Z
+UID:400869643
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086964
+ 3\nNetworks: 
+LOCATION:Ohio Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869643
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Purdue Boilermakers at Illinois Fighting Illini (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161008T160000
+DTEND;VALUE=DATE-TIME:20161008T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165244Z
+UID:400869667
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086966
+ 7\nNetworks: 
+LOCATION:Memorial Stadium \, Champaign\, IL
+URL:http://www.espn.com/college-football/game?gameId=400869667
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iowa Hawkeyes at Minnesota Golden Gophers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161008T160000
+DTEND;VALUE=DATE-TIME:20161008T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165244Z
+UID:400869668
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086966
+ 8\nNetworks: 
+LOCATION:TCF Bank Stadium\, Minneapolis\, MN
+URL:http://www.espn.com/college-football/game?gameId=400869668
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maryland Terrapins at Penn State Nittany Lions
+DTSTART;VALUE=DATE-TIME:20161008T160000Z
+DTEND;VALUE=DATE-TIME:20161008T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165244Z
+UID:400869669
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086966
+ 9\nNetworks: 
+LOCATION:Beaver Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869669
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota Golden Gophers at Maryland Terrapins (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161015T160000
+DTEND;VALUE=DATE-TIME:20161015T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165245Z
+UID:400869671
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086967
+ 1\nNetworks: 
+LOCATION:Maryland Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869671
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Illinois Fighting Illini at Rutgers Scarlet Knights
+DTSTART;VALUE=DATE-TIME:20161015T160000Z
+DTEND;VALUE=DATE-TIME:20161015T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165245Z
+UID:400869637
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086963
+ 7\nNetworks: 
+LOCATION:High Point Solutions Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869637
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iowa Hawkeyes at Purdue Boilermakers
+DTSTART;VALUE=DATE-TIME:20161015T160000Z
+DTEND;VALUE=DATE-TIME:20161015T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165245Z
+UID:400869673
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086967
+ 3\nNetworks: 
+LOCATION:Ross-Ade Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869673
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nebraska Cornhuskers at Indiana Hoosiers
+DTSTART;VALUE=DATE-TIME:20161015T193000Z
+DTEND;VALUE=DATE-TIME:20161015T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165245Z
+UID:400869670
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086967
+ 0\nNetworks: 
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869670
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northwestern Wildcats at Michigan State Spartans
+DTSTART;VALUE=DATE-TIME:20161015T193000Z
+DTEND;VALUE=DATE-TIME:20161015T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165245Z
+UID:400869672
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086967
+ 2\nNetworks: 
+LOCATION:Spartan Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869672
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ohio State Buckeyes at Wisconsin Badgers
+DTSTART;VALUE=DATE-TIME:20161016T000000Z
+DTEND;VALUE=DATE-TIME:20161016T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165245Z
+UID:400869644
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086964
+ 4\nNetworks: ABC\,ESPN\,ESPN2\,WatchESPN
+LOCATION:Camp Randall Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869644
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wisconsin Badgers at Iowa Hawkeyes (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161022T160000
+DTEND;VALUE=DATE-TIME:20161022T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165245Z
+UID:400869674
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086967
+ 4\nNetworks: 
+LOCATION:Kinnick Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869674
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Purdue Boilermakers at Nebraska Cornhuskers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161022T160000
+DTEND;VALUE=DATE-TIME:20161022T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165245Z
+UID:400869677
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086967
+ 7\nNetworks: 
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869677
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Hoosiers at Northwestern Wildcats
+DTSTART;VALUE=DATE-TIME:20161022T160000Z
+DTEND;VALUE=DATE-TIME:20161022T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165245Z
+UID:400869678
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086967
+ 8\nNetworks: 
+LOCATION:Ryan Field
+URL:http://www.espn.com/college-football/game?gameId=400869678
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rutgers Scarlet Knights at Minnesota Golden Gophers
+DTSTART;VALUE=DATE-TIME:20161022T160000Z
+DTEND;VALUE=DATE-TIME:20161022T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165245Z
+UID:400869638
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086963
+ 8\nNetworks: 
+LOCATION:TCF Bank Stadium\, Minneapolis\, MN
+URL:http://www.espn.com/college-football/game?gameId=400869638
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Illinois Fighting Illini at Michigan Wolverines
+DTSTART;VALUE=DATE-TIME:20161022T193000Z
+DTEND;VALUE=DATE-TIME:20161022T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165245Z
+UID:400869676
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086967
+ 6\nNetworks: 
+LOCATION:Michigan Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869676
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Michigan State Spartans at Maryland Terrapins
+DTSTART;VALUE=DATE-TIME:20161022T233000Z
+DTEND;VALUE=DATE-TIME:20161023T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165245Z
+UID:400869675
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086967
+ 5\nNetworks: BTN
+LOCATION:Maryland Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869675
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ohio State Buckeyes at Penn State Nittany Lions
+DTSTART;VALUE=DATE-TIME:20161023T000000Z
+DTEND;VALUE=DATE-TIME:20161023T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165245Z
+UID:400869645
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086964
+ 5\nNetworks: ABC\,ESPN\,ESPN2\,WatchESPN
+LOCATION:Beaver Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869645
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maryland Terrapins at Indiana Hoosiers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161029T160000
+DTEND;VALUE=DATE-TIME:20161029T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165245Z
+UID:400869680
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086968
+ 0\nNetworks: 
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869680
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Michigan Wolverines at Michigan State Spartans (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161029T160000
+DTEND;VALUE=DATE-TIME:20161029T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165245Z
+UID:400869681
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086968
+ 1\nNetworks: 
+LOCATION:Spartan Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869681
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Penn State Nittany Lions at Purdue Boilermakers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161029T160000
+DTEND;VALUE=DATE-TIME:20161029T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165245Z
+UID:400869682
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086968
+ 2\nNetworks: 
+LOCATION:Ross-Ade Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869682
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota Golden Gophers at Illinois Fighting Illini
+DTSTART;VALUE=DATE-TIME:20161029T160000Z
+DTEND;VALUE=DATE-TIME:20161029T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165245Z
+UID:400869679
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086967
+ 9\nNetworks: 
+LOCATION:Memorial Stadium \, Champaign\, IL
+URL:http://www.espn.com/college-football/game?gameId=400869679
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northwestern Wildcats at Ohio State Buckeyes
+DTSTART;VALUE=DATE-TIME:20161029T213000Z
+DTEND;VALUE=DATE-TIME:20161030T010000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165245Z
+UID:400869646
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086964
+ 6\nNetworks: ABC\,ESPN\,ESPN2\,WatchESPN
+LOCATION:Ohio Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869646
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nebraska Cornhuskers at Wisconsin Badgers
+DTSTART;VALUE=DATE-TIME:20161029T230000Z
+DTEND;VALUE=DATE-TIME:20161030T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165245Z
+UID:400869683
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086968
+ 3\nNetworks: ABC\,ESPN\,ESPN2\,WatchESPN
+LOCATION:Camp Randall Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869683
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Michigan State Spartans at Illinois Fighting Illini (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161105T160000
+DTEND;VALUE=DATE-TIME:20161105T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165246Z
+UID:400869684
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086968
+ 4\nNetworks: 
+LOCATION:Memorial Stadium \, Champaign\, IL
+URL:http://www.espn.com/college-football/game?gameId=400869684
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maryland Terrapins at Michigan Wolverines (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161105T160000
+DTEND;VALUE=DATE-TIME:20161105T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165246Z
+UID:400869685
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086968
+ 5\nNetworks: 
+LOCATION:Michigan Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869685
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Purdue Boilermakers at Minnesota Golden Gophers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161105T160000
+DTEND;VALUE=DATE-TIME:20161105T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165246Z
+UID:400869686
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086968
+ 6\nNetworks: 
+LOCATION:TCF Bank Stadium\, Minneapolis\, MN
+URL:http://www.espn.com/college-football/game?gameId=400869686
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wisconsin Badgers at Northwestern Wildcats (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161105T160000
+DTEND;VALUE=DATE-TIME:20161105T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165246Z
+UID:400869687
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086968
+ 7\nNetworks: 
+LOCATION:Ryan Field
+URL:http://www.espn.com/college-football/game?gameId=400869687
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Hoosiers at Rutgers Scarlet Knights (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161105T160000
+DTEND;VALUE=DATE-TIME:20161105T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165246Z
+UID:400869639
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086963
+ 9\nNetworks: 
+LOCATION:High Point Solutions Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869639
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iowa Hawkeyes at Penn State Nittany Lions
+DTSTART;VALUE=DATE-TIME:20161105T233000Z
+DTEND;VALUE=DATE-TIME:20161106T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165246Z
+UID:400869688
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086968
+ 8\nNetworks: BTN
+LOCATION:Beaver Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869688
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nebraska Cornhuskers at Ohio State Buckeyes
+DTSTART;VALUE=DATE-TIME:20161106T000000Z
+DTEND;VALUE=DATE-TIME:20161106T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165246Z
+UID:400869647
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086964
+ 7\nNetworks: ABC\,ESPN\,ESPN2\,WatchESPN
+LOCATION:Ohio Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869647
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rutgers Scarlet Knights at Michigan State Spartans (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161112T160000
+DTEND;VALUE=DATE-TIME:20161112T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165246Z
+UID:400869640
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086964
+ 0\nNetworks: 
+LOCATION:Spartan Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869640
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ohio State Buckeyes at Maryland Terrapins (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161112T160000
+DTEND;VALUE=DATE-TIME:20161112T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165246Z
+UID:400869648
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086964
+ 8\nNetworks: 
+LOCATION:Maryland Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869648
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Penn State Nittany Lions at Indiana Hoosiers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161112T160000
+DTEND;VALUE=DATE-TIME:20161112T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165246Z
+UID:400869689
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086968
+ 9\nNetworks: 
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869689
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northwestern Wildcats at Purdue Boilermakers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161112T160000
+DTEND;VALUE=DATE-TIME:20161112T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165246Z
+UID:400869692
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086969
+ 2\nNetworks: 
+LOCATION:Ross-Ade Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869692
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Illinois Fighting Illini at Wisconsin Badgers
+DTSTART;VALUE=DATE-TIME:20161112T203000Z
+DTEND;VALUE=DATE-TIME:20161113T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165246Z
+UID:400869693
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086969
+ 3\nNetworks: 
+LOCATION:Camp Randall Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota Golden Gophers at Nebraska Cornhuskers
+DTSTART;VALUE=DATE-TIME:20161113T003000Z
+DTEND;VALUE=DATE-TIME:20161113T040000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165246Z
+UID:400869691
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086969
+ 1\nNetworks: BTN
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869691
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Michigan Wolverines at Iowa Hawkeyes
+DTSTART;VALUE=DATE-TIME:20161113T010000Z
+DTEND;VALUE=DATE-TIME:20161113T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165246Z
+UID:400869690
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086969
+ 0\nNetworks: ABC\,ESPN\,ESPN2\,WatchESPN
+LOCATION:Kinnick Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869690
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ohio State Buckeyes at Michigan State Spartans (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165247Z
+UID:400869649
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086964
+ 9\nNetworks: 
+LOCATION:Spartan Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869649
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iowa Hawkeyes at Illinois Fighting Illini (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165247Z
+UID:400869694
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086969
+ 4\nNetworks: 
+LOCATION:Memorial Stadium \, Champaign\, IL
+URL:http://www.espn.com/college-football/game?gameId=400869694
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Hoosiers at Michigan Wolverines (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165247Z
+UID:400869695
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086969
+ 5\nNetworks: 
+LOCATION:Michigan Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869695
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northwestern Wildcats at Minnesota Golden Gophers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165247Z
+UID:400869696
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086969
+ 6\nNetworks: 
+LOCATION:TCF Bank Stadium\, Minneapolis\, MN
+URL:http://www.espn.com/college-football/game?gameId=400869696
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maryland Terrapins at Nebraska Cornhuskers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165247Z
+UID:400869697
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086969
+ 7\nNetworks: 
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869697
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wisconsin Badgers at Purdue Boilermakers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165247Z
+UID:400869698
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086969
+ 8\nNetworks: 
+LOCATION:Ross-Ade Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869698
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Penn State Nittany Lions at Rutgers Scarlet Knights
+DTSTART;VALUE=DATE-TIME:20161120T010000Z
+DTEND;VALUE=DATE-TIME:20161120T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165247Z
+UID:400869641
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086964
+ 1\nNetworks: BTN
+LOCATION:High Point Solutions Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869641
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nebraska Cornhuskers at Iowa Hawkeyes (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161125T160000
+DTEND;VALUE=DATE-TIME:20161125T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165247Z
+UID:400869699
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086969
+ 9\nNetworks: 
+LOCATION:Kinnick Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Purdue Boilermakers at Indiana Hoosiers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161126T160000
+DTEND;VALUE=DATE-TIME:20161126T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165247Z
+UID:400869700
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086970
+ 0\nNetworks: 
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869700
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Illinois Fighting Illini at Northwestern Wildcats (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161126T160000
+DTEND;VALUE=DATE-TIME:20161126T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165247Z
+UID:400869701
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086970
+ 1\nNetworks: 
+LOCATION:Ryan Field
+URL:http://www.espn.com/college-football/game?gameId=400869701
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Michigan State Spartans at Penn State Nittany Lions (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161126T160000
+DTEND;VALUE=DATE-TIME:20161126T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165247Z
+UID:400869702
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086970
+ 2\nNetworks: 
+LOCATION:Beaver Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869702
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minnesota Golden Gophers at Wisconsin Badgers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161126T160000
+DTEND;VALUE=DATE-TIME:20161126T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165247Z
+UID:400869703
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086970
+ 3\nNetworks: 
+LOCATION:Camp Randall Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869703
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rutgers Scarlet Knights at Maryland Terrapins (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161126T160000
+DTEND;VALUE=DATE-TIME:20161126T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165247Z
+UID:400869642
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086964
+ 2\nNetworks: 
+LOCATION:Maryland Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869642
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Michigan Wolverines at Ohio State Buckeyes (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161126T160000
+DTEND;VALUE=DATE-TIME:20161126T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165247Z
+UID:400869650
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086965
+ 0\nNetworks: 
+LOCATION:Ohio Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869650
+END:VEVENT
+END:VCALENDAR

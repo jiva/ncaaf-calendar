@@ -1,0 +1,1153 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ncaaf-calendar//jiva//
+DTSTART;VALUE=DATE-TIME:20160823T165114
+SUMMARY:2016 NCAAF Schedule
+BEGIN:VEVENT
+SUMMARY:Charlotte 49ers at Louisville Cardinals
+DTSTART;VALUE=DATE-TIME:20160901T230000Z
+DTEND;VALUE=DATE-TIME:20160902T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869341
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086934
+ 1\nNetworks: ESPN3
+LOCATION:Papa John's Cardinal Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869341
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Hoosiers at Florida Intl Golden Panthers
+DTSTART;VALUE=DATE-TIME:20160901T233000Z
+DTEND;VALUE=DATE-TIME:20160902T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869342
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086934
+ 2\nNetworks: ESPNU\,WatchESPN
+LOCATION:FIU Stadium\, Miami\, FL
+URL:http://www.espn.com/college-football/game?gameId=400869342
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rice Owls at Western Kentucky Hilltoppers
+DTSTART;VALUE=DATE-TIME:20160902T000000Z
+DTEND;VALUE=DATE-TIME:20160902T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869347
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086934
+ 7\nNetworks: CBSSN
+LOCATION:L.T. Smith Stadium\, Bowling Green\, KY
+URL:http://www.espn.com/college-football/game?gameId=400869347
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Tech Bulldogs at Arkansas Razorbacks
+DTSTART;VALUE=DATE-TIME:20160903T200000Z
+DTEND;VALUE=DATE-TIME:20160903T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400868970
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086897
+ 0\nNetworks: SECN\,WatchESPN
+LOCATION:Razorback Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868970
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Illinois Salukis at Florida Atlantic Owls
+DTSTART;VALUE=DATE-TIME:20160903T220000Z
+DTEND;VALUE=DATE-TIME:20160904T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869343
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086934
+ 3\nNetworks: 
+LOCATION:FAU Football Stadium\, Boca Raton\, FL
+URL:http://www.espn.com/college-football/game?gameId=400869343
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hampton Pirates at Old Dominion Monarchs
+DTSTART;VALUE=DATE-TIME:20160903T220000Z
+DTEND;VALUE=DATE-TIME:20160904T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869346
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086934
+ 6\nNetworks: 
+LOCATION:S.B. Ballard Stadium\, Norfolk\, VA
+URL:http://www.espn.com/college-football/game?gameId=400869346
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alabama State Hornets at Texas San Antonio Roadrunners
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869349
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086934
+ 9\nNetworks: 
+LOCATION:Alamodome\, San Antonio\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869349
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alabama A&M Bulldogs at Middle Tennessee Blue Raiders
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869344
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086934
+ 4\nNetworks: 
+LOCATION:Floyd Stadium\, Murfreesboro\, TN
+URL:http://www.espn.com/college-football/game?gameId=400869344
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMU Mustangs at North Texas Mean Green
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869345
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086934
+ 5\nNetworks: 
+LOCATION:Mean Green Stadium\, Denton\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869345
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Mississippi Golden Eagles at Kentucky Wildcats
+DTSTART;VALUE=DATE-TIME:20160903T233000Z
+DTEND;VALUE=DATE-TIME:20160904T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400868973
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086897
+ 3\nNetworks: ESPNU\,WatchESPN
+LOCATION:Commonwealth Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868973
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Mexico State Aggies at UTEP Miners
+DTSTART;VALUE=DATE-TIME:20160904T000000Z
+DTEND;VALUE=DATE-TIME:20160904T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869348
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086934
+ 8\nNetworks: 
+LOCATION:Sun Bowl\, El Paso\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869348
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maryland Terrapins at Florida Intl Golden Panthers
+DTSTART;VALUE=DATE-TIME:20160909T233000Z
+DTEND;VALUE=DATE-TIME:20160910T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869351
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086935
+ 1\nNetworks: CBSSN
+LOCATION:FIU Stadium\, Miami\, FL
+URL:http://www.espn.com/college-football/game?gameId=400869351
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rice Owls at Army Black Knights
+DTSTART;VALUE=DATE-TIME:20160910T160000Z
+DTEND;VALUE=DATE-TIME:20160910T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400868911
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086891
+ 1\nNetworks: CBSSN
+LOCATION:Michie Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868911
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Kentucky Hilltoppers at Alabama Crimson Tide
+DTSTART;VALUE=DATE-TIME:20160910T193000Z
+DTEND;VALUE=DATE-TIME:20160910T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400868980
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086898
+ 0\nNetworks: ESPN2\,WatchESPN
+LOCATION:Bryant-Denny Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868980
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Old Dominion Monarchs at Appalachian State Mountaineers
+DTSTART;VALUE=DATE-TIME:20160910T193000Z
+DTEND;VALUE=DATE-TIME:20160910T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869355
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086935
+ 5\nNetworks: ESPN3
+LOCATION:Kidd Brewer Stadium\, Boone\, NC
+URL:http://www.espn.com/college-football/game?gameId=400869355
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middle Tennessee Blue Raiders at Vanderbilt Commodores
+DTSTART;VALUE=DATE-TIME:20160910T200000Z
+DTEND;VALUE=DATE-TIME:20160910T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400868991
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086899
+ 1\nNetworks: SECN\,WatchESPN
+LOCATION:Vanderbilt Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868991
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas San Antonio Roadrunners at Colorado State Rams
+DTSTART;VALUE=DATE-TIME:20160910T200000Z
+DTEND;VALUE=DATE-TIME:20160910T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869185
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086918
+ 5\nNetworks: CAMP
+LOCATION:Hughes Stadium \, Fort Collins\, CO
+URL:http://www.espn.com/college-football/game?gameId=400869185
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elon Phoenix at Charlotte 49ers
+DTSTART;VALUE=DATE-TIME:20160910T220000Z
+DTEND;VALUE=DATE-TIME:20160911T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869350
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086935
+ 0\nNetworks: 
+LOCATION:McColl-Richardson Field\, Charlotte\, NC
+URL:http://www.espn.com/college-football/game?gameId=400869350
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morgan State Bears at Marshall Thundering Herd
+DTSTART;VALUE=DATE-TIME:20160910T220000Z
+DTEND;VALUE=DATE-TIME:20160911T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869353
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086935
+ 3\nNetworks: 
+LOCATION:Joan C. Edwards Stadium\, Huntington\, WV
+URL:http://www.espn.com/college-football/game?gameId=400869353
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Florida Atlantic Owls at Miami Hurricanes
+DTSTART;VALUE=DATE-TIME:20160910T220000Z
+DTEND;VALUE=DATE-TIME:20160911T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869719
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086971
+ 9\nNetworks: 
+LOCATION:New Miami Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869719
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Savannah State Tigers at Southern Mississippi Golden Eagles
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869356
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086935
+ 6\nNetworks: 
+LOCATION:M. M. Roberts Stadium\, Hattiesburg\, MS
+URL:http://www.espn.com/college-football/game?gameId=400869356
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UTEP Miners at Texas Longhorns
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869357
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086935
+ 7\nNetworks: LHN\,WatchESPN
+LOCATION:Royal Texas Memorial Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869357
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bethune-Cookman Wildcats at North Texas Mean Green
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869354
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086935
+ 4\nNetworks: 
+LOCATION:Mean Green Stadium\, Denton\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Carolina State Bulldogs at Louisiana Tech Bulldogs
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869352
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086935
+ 2\nNetworks: 
+LOCATION:Joe Aillet Stadium\, Ruston\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869352
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baylor Bears at Rice Owls
+DTSTART;VALUE=DATE-TIME:20160917T000000Z
+DTEND;VALUE=DATE-TIME:20160917T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869361
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086936
+ 1\nNetworks: ESPN\,WatchESPN
+LOCATION:Rice Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869361
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arizona State Sun Devils at Texas San Antonio Roadrunners
+DTSTART;VALUE=DATE-TIME:20160917T013000Z
+DTEND;VALUE=DATE-TIME:20160917T050000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869109
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086910
+ 9\nNetworks: ESPN2\,WatchESPN
+LOCATION:Alamodome\, San Antonio\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Akron Zips at Marshall Thundering Herd
+DTSTART;VALUE=DATE-TIME:20160917T160000Z
+DTEND;VALUE=DATE-TIME:20160917T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869278
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086927
+ 8\nNetworks: CBSSN
+LOCATION:Joan C. Edwards Stadium\, Huntington\, WV
+URL:http://www.espn.com/college-football/game?gameId=400869278
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middle Tennessee Blue Raiders at Bowling Green Falcons
+DTSTART;VALUE=DATE-TIME:20160917T160000Z
+DTEND;VALUE=DATE-TIME:20160917T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869281
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086928
+ 1\nNetworks: ESPN3
+LOCATION:Doyt Perry Stadium\, Bowling Green\, OH
+URL:http://www.espn.com/college-football/game?gameId=400869281
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Florida Atlantic Owls at Kansas State Wildcats
+DTSTART;VALUE=DATE-TIME:20160917T183000Z
+DTEND;VALUE=DATE-TIME:20160917T220000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869358
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086935
+ 8\nNetworks: 
+LOCATION:Bill Snyder Family Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869358
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Kentucky Hilltoppers at Miami (OH) RedHawks
+DTSTART;VALUE=DATE-TIME:20160917T193000Z
+DTEND;VALUE=DATE-TIME:20160917T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869283
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086928
+ 3\nNetworks: ESPN3
+LOCATION:Yager Stadium\, Oxford\, OH
+URL:http://www.espn.com/college-football/game?gameId=400869283
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Florida Intl Golden Panthers at Massachusetts Minutemen
+DTSTART;VALUE=DATE-TIME:20160917T193000Z
+DTEND;VALUE=DATE-TIME:20160917T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400868959
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086895
+ 9\nNetworks: ESPN3
+LOCATION:Warren McGuirk Alumni Stadium\, Amherst\, MA
+URL:http://www.espn.com/college-football/game?gameId=400868959
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eastern Michigan Eagles at Charlotte 49ers
+DTSTART;VALUE=DATE-TIME:20160917T220000Z
+DTEND;VALUE=DATE-TIME:20160918T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869280
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086928
+ 0\nNetworks: 
+LOCATION:McColl-Richardson Field\, Charlotte\, NC
+URL:http://www.espn.com/college-football/game?gameId=400869280
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Old Dominion Monarchs at NC State Wolfpack
+DTSTART;VALUE=DATE-TIME:20160917T220000Z
+DTEND;VALUE=DATE-TIME:20160918T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165115Z
+UID:400869360
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086936
+ 0\nNetworks: 
+LOCATION:Carter-Finley Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869360
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Army Black Knights at UTEP Miners
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165116Z
+UID:400868912
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086891
+ 2\nNetworks: 
+LOCATION:Sun Bowl\, El Paso\, TX
+URL:http://www.espn.com/college-football/game?gameId=400868912
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Troy Trojans at Southern Mississippi Golden Eagles
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165116Z
+UID:400869362
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086936
+ 2\nNetworks: 
+LOCATION:M. M. Roberts Stadium\, Hattiesburg\, MS
+URL:http://www.espn.com/college-football/game?gameId=400869362
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Tech Bulldogs at Texas Tech Red Raiders
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165116Z
+UID:400869359
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086935
+ 9\nNetworks: 
+LOCATION:Jones AT&T\; Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869359
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Texas Mean Green at Florida Gators
+DTSTART;VALUE=DATE-TIME:20160917T233000Z
+DTEND;VALUE=DATE-TIME:20160918T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165116Z
+UID:400868994
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086899
+ 4\nNetworks: ESPNU\,WatchESPN
+LOCATION:Ben Hill Griffin Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868994
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charlotte 49ers at Temple Owls
+DTSTART;VALUE=DATE-TIME:20160924T160000Z
+DTEND;VALUE=DATE-TIME:20160924T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165116Z
+UID:400869363
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086936
+ 3\nNetworks: 
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+URL:http://www.espn.com/college-football/game?gameId=400869363
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas San Antonio Roadrunners at Old Dominion Monarchs
+DTSTART;VALUE=DATE-TIME:20160924T193000Z
+DTEND;VALUE=DATE-TIME:20160924T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165116Z
+UID:400869368
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086936
+ 8\nNetworks: 
+LOCATION:S.B. Ballard Stadium\, Norfolk\, VA
+URL:http://www.espn.com/college-football/game?gameId=400869368
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vanderbilt Commodores at Western Kentucky Hilltoppers
+DTSTART;VALUE=DATE-TIME:20160924T203000Z
+DTEND;VALUE=DATE-TIME:20160925T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165116Z
+UID:400869009
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086900
+ 9\nNetworks: CBSSN
+LOCATION:L.T. Smith Stadium\, Bowling Green\, KY
+URL:http://www.espn.com/college-football/game?gameId=400869009
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ball State Cardinals at Florida Atlantic Owls
+DTSTART;VALUE=DATE-TIME:20160924T220000Z
+DTEND;VALUE=DATE-TIME:20160925T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165116Z
+UID:400869286
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086928
+ 6\nNetworks: 
+LOCATION:FAU Football Stadium\, Boca Raton\, FL
+URL:http://www.espn.com/college-football/game?gameId=400869286
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Texas Mean Green at Rice Owls
+DTSTART;VALUE=DATE-TIME:20160924T220000Z
+DTEND;VALUE=DATE-TIME:20160925T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165116Z
+UID:400869367
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086936
+ 7\nNetworks: 
+LOCATION:Rice Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869367
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UCF Knights at Florida Intl Golden Panthers
+DTSTART;VALUE=DATE-TIME:20160924T230000Z
+DTEND;VALUE=DATE-TIME:20160925T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165116Z
+UID:400869364
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086936
+ 4\nNetworks: 
+LOCATION:FIU Stadium\, Miami\, FL
+URL:http://www.espn.com/college-football/game?gameId=400869364
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Tech Bulldogs at Middle Tennessee Blue Raiders
+DTSTART;VALUE=DATE-TIME:20160924T230000Z
+DTEND;VALUE=DATE-TIME:20160925T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165116Z
+UID:400869365
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086936
+ 5\nNetworks: 
+LOCATION:Floyd Stadium\, Murfreesboro\, TN
+URL:http://www.espn.com/college-football/game?gameId=400869365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisville Cardinals at Marshall Thundering Herd
+DTSTART;VALUE=DATE-TIME:20160925T000000Z
+DTEND;VALUE=DATE-TIME:20160925T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165116Z
+UID:400869366
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086936
+ 6\nNetworks: 
+LOCATION:Joan C. Edwards Stadium\, Huntington\, WV
+URL:http://www.espn.com/college-football/game?gameId=400869366
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Mississippi Golden Eagles at UTEP Miners
+DTSTART;VALUE=DATE-TIME:20160925T000000Z
+DTEND;VALUE=DATE-TIME:20160925T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165116Z
+UID:400869369
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086936
+ 9\nNetworks: 
+LOCATION:Sun Bowl\, El Paso\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869369
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marshall Thundering Herd at Pittsburgh Panthers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161001T160000
+DTEND;VALUE=DATE-TIME:20161001T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165116Z
+UID:400869373
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086937
+ 3\nNetworks: 
+LOCATION:Heinz Field
+URL:http://www.espn.com/college-football/game?gameId=400869373
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Old Dominion Monarchs at Charlotte 49ers
+DTSTART;VALUE=DATE-TIME:20161001T220000Z
+DTEND;VALUE=DATE-TIME:20161002T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165116Z
+UID:400869370
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086937
+ 0\nNetworks: 
+LOCATION:McColl-Richardson Field\, Charlotte\, NC
+URL:http://www.espn.com/college-football/game?gameId=400869370
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Florida Atlantic Owls at Florida Intl Golden Panthers
+DTSTART;VALUE=DATE-TIME:20161001T230000Z
+DTEND;VALUE=DATE-TIME:20161002T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165116Z
+UID:400869371
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086937
+ 1\nNetworks: 
+LOCATION:FIU Stadium\, Miami\, FL
+URL:http://www.espn.com/college-football/game?gameId=400869371
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UTEP Miners at Louisiana Tech Bulldogs
+DTSTART;VALUE=DATE-TIME:20161001T230000Z
+DTEND;VALUE=DATE-TIME:20161002T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165116Z
+UID:400869372
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086937
+ 2\nNetworks: 
+LOCATION:Joe Aillet Stadium\, Ruston\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869372
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middle Tennessee Blue Raiders at North Texas Mean Green
+DTSTART;VALUE=DATE-TIME:20161001T230000Z
+DTEND;VALUE=DATE-TIME:20161002T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165116Z
+UID:400869374
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086937
+ 4\nNetworks: 
+LOCATION:Mean Green Stadium\, Denton\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rice Owls at Southern Mississippi Golden Eagles
+DTSTART;VALUE=DATE-TIME:20161001T230000Z
+DTEND;VALUE=DATE-TIME:20161002T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165116Z
+UID:400869375
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086937
+ 5\nNetworks: 
+LOCATION:M. M. Roberts Stadium\, Hattiesburg\, MS
+URL:http://www.espn.com/college-football/game?gameId=400869375
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Baptist Huskies at Western Kentucky Hilltoppers
+DTSTART;VALUE=DATE-TIME:20161001T230000Z
+DTEND;VALUE=DATE-TIME:20161002T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165116Z
+UID:400869376
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086937
+ 6\nNetworks: 
+LOCATION:L.T. Smith Stadium\, Bowling Green\, KY
+URL:http://www.espn.com/college-football/game?gameId=400869376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Kentucky Hilltoppers at Louisiana Tech Bulldogs
+DTSTART;VALUE=DATE-TIME:20161007T000000Z
+DTEND;VALUE=DATE-TIME:20161007T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165117Z
+UID:400869379
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086937
+ 9\nNetworks: CBSSN
+LOCATION:Joe Aillet Stadium\, Ruston\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869379
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Massachusetts Minutemen at Old Dominion Monarchs (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161008T160000
+DTEND;VALUE=DATE-TIME:20161008T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165117Z
+UID:400868962
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086896
+ 2\nNetworks: 
+LOCATION:S.B. Ballard Stadium\, Norfolk\, VA
+URL:http://www.espn.com/college-football/game?gameId=400868962
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Mississippi Golden Eagles at Texas San Antonio Roadrunner
+ s
+DTSTART;VALUE=DATE-TIME:20161008T160000Z
+DTEND;VALUE=DATE-TIME:20161008T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165117Z
+UID:400869381
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086938
+ 1\nNetworks: 
+LOCATION:Alamodome\, San Antonio\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869381
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charlotte 49ers at Florida Atlantic Owls
+DTSTART;VALUE=DATE-TIME:20161008T193000Z
+DTEND;VALUE=DATE-TIME:20161008T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165117Z
+UID:400869377
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086937
+ 7\nNetworks: 
+LOCATION:FAU Football Stadium\, Boca Raton\, FL
+URL:http://www.espn.com/college-football/game?gameId=400869377
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marshall Thundering Herd at North Texas Mean Green
+DTSTART;VALUE=DATE-TIME:20161008T230000Z
+DTEND;VALUE=DATE-TIME:20161009T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165117Z
+UID:400869380
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086938
+ 0\nNetworks: 
+LOCATION:Mean Green Stadium\, Denton\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869380
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Florida Intl Golden Panthers at UTEP Miners
+DTSTART;VALUE=DATE-TIME:20161009T000000Z
+DTEND;VALUE=DATE-TIME:20161009T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165117Z
+UID:400869378
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086937
+ 8\nNetworks: 
+LOCATION:Sun Bowl\, El Paso\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869378
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Mississippi Golden Eagles at LSU Tigers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161015T160000
+DTEND;VALUE=DATE-TIME:20161015T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165117Z
+UID:400869027
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086902
+ 7\nNetworks: 
+LOCATION:Tiger Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Kentucky Hilltoppers at Middle Tennessee Blue Raiders
+DTSTART;VALUE=DATE-TIME:20161015T183000Z
+DTEND;VALUE=DATE-TIME:20161015T220000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165117Z
+UID:400869384
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086938
+ 4\nNetworks: ESPN3
+LOCATION:Floyd Stadium\, Murfreesboro\, TN
+URL:http://www.espn.com/college-football/game?gameId=400869384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Tech Bulldogs at Massachusetts Minutemen
+DTSTART;VALUE=DATE-TIME:20161015T193000Z
+DTEND;VALUE=DATE-TIME:20161015T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165117Z
+UID:400868963
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086896
+ 3\nNetworks: 
+LOCATION:Gillette Stadium\, Foxboro\, MA
+URL:http://www.espn.com/college-football/game?gameId=400868963
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Florida Intl Golden Panthers at Charlotte 49ers
+DTSTART;VALUE=DATE-TIME:20161015T220000Z
+DTEND;VALUE=DATE-TIME:20161016T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165117Z
+UID:400869382
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086938
+ 2\nNetworks: 
+LOCATION:McColl-Richardson Field\, Charlotte\, NC
+URL:http://www.espn.com/college-football/game?gameId=400869382
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Florida Atlantic Owls at Marshall Thundering Herd
+DTSTART;VALUE=DATE-TIME:20161015T230000Z
+DTEND;VALUE=DATE-TIME:20161016T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165117Z
+UID:400869383
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086938
+ 3\nNetworks: 
+LOCATION:Joan C. Edwards Stadium\, Huntington\, WV
+URL:http://www.espn.com/college-football/game?gameId=400869383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas San Antonio Roadrunners at Rice Owls
+DTSTART;VALUE=DATE-TIME:20161015T230000Z
+DTEND;VALUE=DATE-TIME:20161016T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165117Z
+UID:400869385
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086938
+ 5\nNetworks: 
+LOCATION:Rice Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869385
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middle Tennessee Blue Raiders at Missouri Tigers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161022T160000
+DTEND;VALUE=DATE-TIME:20161022T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165118Z
+UID:400869033
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086903
+ 3\nNetworks: 
+LOCATION:Memorial Stadium/Faurot Field
+URL:http://www.espn.com/college-football/game?gameId=400869033
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UTEP Miners at Texas San Antonio Roadrunners (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161022T160000
+DTEND;VALUE=DATE-TIME:20161022T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165118Z
+UID:400869390
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086939
+ 0\nNetworks: 
+LOCATION:Alamodome\, San Antonio\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869390
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Texas Mean Green at Army Black Knights
+DTSTART;VALUE=DATE-TIME:20161022T160000Z
+DTEND;VALUE=DATE-TIME:20161022T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165118Z
+UID:400868916
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086891
+ 6\nNetworks: 
+LOCATION:Michie Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868916
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prairie View A&M Panthers at Rice Owls
+DTSTART;VALUE=DATE-TIME:20161022T193000Z
+DTEND;VALUE=DATE-TIME:20161022T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165118Z
+UID:400869389
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086938
+ 9\nNetworks: 
+LOCATION:Rice Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869389
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charlotte 49ers at Marshall Thundering Herd
+DTSTART;VALUE=DATE-TIME:20161022T213000Z
+DTEND;VALUE=DATE-TIME:20161023T010000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165118Z
+UID:400869386
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086938
+ 6\nNetworks: 
+LOCATION:Joan C. Edwards Stadium\, Huntington\, WV
+URL:http://www.espn.com/college-football/game?gameId=400869386
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Tech Bulldogs at Florida Intl Golden Panthers
+DTSTART;VALUE=DATE-TIME:20161022T230000Z
+DTEND;VALUE=DATE-TIME:20161023T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165118Z
+UID:400869387
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086938
+ 7\nNetworks: ESPN3
+LOCATION:FIU Stadium\, Miami\, FL
+URL:http://www.espn.com/college-football/game?gameId=400869387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Old Dominion Monarchs at Western Kentucky Hilltoppers
+DTSTART;VALUE=DATE-TIME:20161022T230000Z
+DTEND;VALUE=DATE-TIME:20161023T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165118Z
+UID:400869388
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086938
+ 8\nNetworks: 
+LOCATION:L.T. Smith Stadium\, Bowling Green\, KY
+URL:http://www.espn.com/college-football/game?gameId=400869388
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Kentucky Hilltoppers at Florida Atlantic Owls
+DTSTART;VALUE=DATE-TIME:20161029T193000Z
+DTEND;VALUE=DATE-TIME:20161029T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165118Z
+UID:400869392
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086939
+ 2\nNetworks: 
+LOCATION:FAU Football Stadium\, Boca Raton\, FL
+URL:http://www.espn.com/college-football/game?gameId=400869392
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rice Owls at Louisiana Tech Bulldogs
+DTSTART;VALUE=DATE-TIME:20161029T230000Z
+DTEND;VALUE=DATE-TIME:20161030T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165118Z
+UID:400869393
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086939
+ 3\nNetworks: 
+LOCATION:Joe Aillet Stadium\, Ruston\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869393
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marshall Thundering Herd at Southern Mississippi Golden Eagles
+DTSTART;VALUE=DATE-TIME:20161029T230000Z
+DTEND;VALUE=DATE-TIME:20161030T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165118Z
+UID:400869394
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086939
+ 4\nNetworks: 
+LOCATION:M. M. Roberts Stadium\, Hattiesburg\, MS
+URL:http://www.espn.com/college-football/game?gameId=400869394
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Texas Mean Green at Texas San Antonio Roadrunners
+DTSTART;VALUE=DATE-TIME:20161029T230000Z
+DTEND;VALUE=DATE-TIME:20161030T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165118Z
+UID:400869395
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086939
+ 5\nNetworks: 
+LOCATION:Alamodome\, San Antonio\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869395
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middle Tennessee Blue Raiders at Florida Intl Golden Panthers
+DTSTART;VALUE=DATE-TIME:20161029T230000Z
+DTEND;VALUE=DATE-TIME:20161030T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165118Z
+UID:400869391
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086939
+ 1\nNetworks: ESPN3
+LOCATION:FIU Stadium\, Miami\, FL
+URL:http://www.espn.com/college-football/game?gameId=400869391
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Old Dominion Monarchs at UTEP Miners
+DTSTART;VALUE=DATE-TIME:20161030T000000Z
+DTEND;VALUE=DATE-TIME:20161030T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165118Z
+UID:400869396
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086939
+ 6\nNetworks: 
+LOCATION:Sun Bowl\, El Paso\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869396
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas San Antonio Roadrunners at Middle Tennessee Blue Raiders
+DTSTART;VALUE=DATE-TIME:20161105T183000Z
+DTEND;VALUE=DATE-TIME:20161105T220000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165118Z
+UID:400869403
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086940
+ 3\nNetworks: ESPN3
+LOCATION:Floyd Stadium\, Murfreesboro\, TN
+URL:http://www.espn.com/college-football/game?gameId=400869403
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charlotte 49ers at Southern Mississippi Golden Eagles
+DTSTART;VALUE=DATE-TIME:20161105T193000Z
+DTEND;VALUE=DATE-TIME:20161105T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165118Z
+UID:400869397
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086939
+ 7\nNetworks: 
+LOCATION:M. M. Roberts Stadium\, Hattiesburg\, MS
+URL:http://www.espn.com/college-football/game?gameId=400869397
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Florida Atlantic Owls at Rice Owls
+DTSTART;VALUE=DATE-TIME:20161105T193000Z
+DTEND;VALUE=DATE-TIME:20161105T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165118Z
+UID:400869399
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086939
+ 9\nNetworks: ESPN3
+LOCATION:Rice Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869399
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Tech Bulldogs at North Texas Mean Green
+DTSTART;VALUE=DATE-TIME:20161105T213000Z
+DTEND;VALUE=DATE-TIME:20161106T010000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165118Z
+UID:400869400
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086940
+ 0\nNetworks: ESPN3
+LOCATION:Mean Green Stadium\, Denton\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869400
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Florida Intl Golden Panthers at Western Kentucky Hilltoppers
+DTSTART;VALUE=DATE-TIME:20161105T213000Z
+DTEND;VALUE=DATE-TIME:20161106T010000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165118Z
+UID:400869398
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086939
+ 8\nNetworks: 
+LOCATION:L.T. Smith Stadium\, Bowling Green\, KY
+URL:http://www.espn.com/college-football/game?gameId=400869398
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marshall Thundering Herd at Old Dominion Monarchs
+DTSTART;VALUE=DATE-TIME:20161105T230000Z
+DTEND;VALUE=DATE-TIME:20161106T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165118Z
+UID:400869401
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086940
+ 1\nNetworks: 
+LOCATION:S.B. Ballard Stadium\, Norfolk\, VA
+URL:http://www.espn.com/college-football/game?gameId=400869401
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Baptist Huskies at UTEP Miners
+DTSTART;VALUE=DATE-TIME:20161106T000000Z
+DTEND;VALUE=DATE-TIME:20161106T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165118Z
+UID:400869402
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086940
+ 2\nNetworks: 
+LOCATION:Sun Bowl\, El Paso\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869402
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rice Owls at Charlotte 49ers
+DTSTART;VALUE=DATE-TIME:20161112T190000Z
+DTEND;VALUE=DATE-TIME:20161112T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165119Z
+UID:400869404
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086940
+ 4\nNetworks: 
+LOCATION:McColl-Richardson Field\, Charlotte\, NC
+URL:http://www.espn.com/college-football/game?gameId=400869404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas San Antonio Roadrunners at Louisiana Tech Bulldogs
+DTSTART;VALUE=DATE-TIME:20161112T203000Z
+DTEND;VALUE=DATE-TIME:20161113T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165119Z
+UID:400869406
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086940
+ 6\nNetworks: 
+LOCATION:Joe Aillet Stadium\, Ruston\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869406
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Texas Mean Green at Western Kentucky Hilltoppers
+DTSTART;VALUE=DATE-TIME:20161112T203000Z
+DTEND;VALUE=DATE-TIME:20161113T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165119Z
+UID:400869408
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086940
+ 8\nNetworks: ESPN3
+LOCATION:L.T. Smith Stadium\, Bowling Green\, KY
+URL:http://www.espn.com/college-football/game?gameId=400869408
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Mississippi Golden Eagles at Old Dominion Monarchs
+DTSTART;VALUE=DATE-TIME:20161112T203000Z
+DTEND;VALUE=DATE-TIME:20161113T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165119Z
+UID:400869409
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086940
+ 9\nNetworks: 
+LOCATION:S.B. Ballard Stadium\, Norfolk\, VA
+URL:http://www.espn.com/college-football/game?gameId=400869409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UTEP Miners at Florida Atlantic Owls
+DTSTART;VALUE=DATE-TIME:20161112T230000Z
+DTEND;VALUE=DATE-TIME:20161113T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165119Z
+UID:400869405
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086940
+ 5\nNetworks: 
+LOCATION:FAU Football Stadium\, Boca Raton\, FL
+URL:http://www.espn.com/college-football/game?gameId=400869405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middle Tennessee Blue Raiders at Marshall Thundering Herd
+DTSTART;VALUE=DATE-TIME:20161113T000000Z
+DTEND;VALUE=DATE-TIME:20161113T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165119Z
+UID:400869407
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086940
+ 7\nNetworks: 
+LOCATION:Joan C. Edwards Stadium\, Huntington\, WV
+URL:http://www.espn.com/college-football/game?gameId=400869407
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas San Antonio Roadrunners at Texas A&M Aggies (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165119Z
+UID:400869065
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086906
+ 5\nNetworks: 
+LOCATION:Kyle Field
+URL:http://www.espn.com/college-football/game?gameId=400869065
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UTEP Miners at Rice Owls
+DTSTART;VALUE=DATE-TIME:20161119T170000Z
+DTEND;VALUE=DATE-TIME:20161119T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165119Z
+UID:400869414
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086941
+ 4\nNetworks: ESPN3
+LOCATION:Rice Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middle Tennessee Blue Raiders at Charlotte 49ers
+DTSTART;VALUE=DATE-TIME:20161119T190000Z
+DTEND;VALUE=DATE-TIME:20161119T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165119Z
+UID:400869410
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086941
+ 0\nNetworks: ESPN3
+LOCATION:McColl-Richardson Field\, Charlotte\, NC
+URL:http://www.espn.com/college-football/game?gameId=400869410
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Mississippi Golden Eagles at North Texas Mean Green
+DTSTART;VALUE=DATE-TIME:20161119T223000Z
+DTEND;VALUE=DATE-TIME:20161120T020000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165119Z
+UID:400869413
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086941
+ 3\nNetworks: 
+LOCATION:Mean Green Stadium\, Denton\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869413
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Old Dominion Monarchs at Florida Atlantic Owls
+DTSTART;VALUE=DATE-TIME:20161119T230000Z
+DTEND;VALUE=DATE-TIME:20161120T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165119Z
+UID:400869412
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086941
+ 2\nNetworks: 
+LOCATION:FAU Football Stadium\, Boca Raton\, FL
+URL:http://www.espn.com/college-football/game?gameId=400869412
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marshall Thundering Herd at Florida Intl Golden Panthers
+DTSTART;VALUE=DATE-TIME:20161120T000000Z
+DTEND;VALUE=DATE-TIME:20161120T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165119Z
+UID:400869411
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086941
+ 1\nNetworks: 
+LOCATION:FIU Stadium\, Miami\, FL
+URL:http://www.espn.com/college-football/game?gameId=400869411
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Tech Bulldogs at Southern Mississippi Golden Eagles (TIM
+ E TBD)
+DTSTART;VALUE=DATE-TIME:20161125T160000
+DTEND;VALUE=DATE-TIME:20161125T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165119Z
+UID:400869418
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086941
+ 8\nNetworks: 
+LOCATION:M. M. Roberts Stadium\, Hattiesburg\, MS
+URL:http://www.espn.com/college-football/game?gameId=400869418
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Kentucky Hilltoppers at Marshall Thundering Herd (TIME TBD
+ )
+DTSTART;VALUE=DATE-TIME:20161126T160000
+DTEND;VALUE=DATE-TIME:20161126T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165119Z
+UID:400869419
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086941
+ 9\nNetworks: ESPN\,WatchESPN
+LOCATION:Joan C. Edwards Stadium\, Huntington\, WV
+URL:http://www.espn.com/college-football/game?gameId=400869419
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Texas Mean Green at UTEP Miners (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161126T160000
+DTEND;VALUE=DATE-TIME:20161126T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165119Z
+UID:400869420
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086942
+ 0\nNetworks: 
+LOCATION:Sun Bowl\, El Paso\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869420
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rice Owls at Stanford Cardinal (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161126T160000
+DTEND;VALUE=DATE-TIME:20161126T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165119Z
+UID:400869172
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086917
+ 2\nNetworks: 
+LOCATION:Stanford Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869172
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Florida Intl Golden Panthers at Old Dominion Monarchs (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161126T160000
+DTEND;VALUE=DATE-TIME:20161126T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165119Z
+UID:400869416
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086941
+ 6\nNetworks: ESPN3
+LOCATION:S.B. Ballard Stadium\, Norfolk\, VA
+URL:http://www.espn.com/college-football/game?gameId=400869416
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Florida Atlantic Owls at Middle Tennessee Blue Raiders
+DTSTART;VALUE=DATE-TIME:20161126T223000Z
+DTEND;VALUE=DATE-TIME:20161127T020000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165119Z
+UID:400869417
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086941
+ 7\nNetworks: 
+LOCATION:Floyd Stadium\, Murfreesboro\, TN
+URL:http://www.espn.com/college-football/game?gameId=400869417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charlotte 49ers at Texas San Antonio Roadrunners
+DTSTART;VALUE=DATE-TIME:20161127T000000Z
+DTEND;VALUE=DATE-TIME:20161127T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165119Z
+UID:400869415
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086941
+ 5\nNetworks: 
+LOCATION:Alamodome\, San Antonio\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869415
+END:VEVENT
+END:VCALENDAR

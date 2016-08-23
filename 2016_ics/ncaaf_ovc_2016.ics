@@ -1,0 +1,721 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ncaaf-calendar//jiva//
+DTSTART;VALUE=DATE-TIME:20160823T165155
+SUMMARY:2016 NCAAF Schedule
+BEGIN:VEVENT
+SUMMARY:Tennessee-Martin Skyhawks at Cincinnati Bearcats
+DTSTART;VALUE=DATE-TIME:20160901T230000Z
+DTEND;VALUE=DATE-TIME:20160902T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165155Z
+UID:400869502
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086950
+ 2\nNetworks: ESPN3
+LOCATION:Nippert Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869502
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Illinois Leathernecks at Eastern Illinois Panthers
+DTSTART;VALUE=DATE-TIME:20160901T230000Z
+DTEND;VALUE=DATE-TIME:20160902T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165155Z
+UID:400871388
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087138
+ 8\nNetworks: 
+LOCATION:O'Brien Stadium\, Charleston\, IL
+URL:http://www.espn.com/college-football/game?gameId=400871388
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wofford Terriers at Tennessee Tech Golden Eagles
+DTSTART;VALUE=DATE-TIME:20160901T230000Z
+DTEND;VALUE=DATE-TIME:20160902T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165155Z
+UID:400871448
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087144
+ 8\nNetworks: 
+LOCATION:Tucker Stadium\, Cookeville\, TN
+URL:http://www.espn.com/college-football/game?gameId=400871448
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Alabama Lions at Jacksonville State Gamecocks
+DTSTART;VALUE=DATE-TIME:20160901T230000Z
+DTEND;VALUE=DATE-TIME:20160902T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165155Z
+UID:400872860
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087286
+ 0\nNetworks: 
+LOCATION:Burgess-Snow Field\, Jacksonville\, AL
+URL:http://www.espn.com/college-football/game?gameId=400872860
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eastern Kentucky Colonels at Purdue Boilermakers
+DTSTART;VALUE=DATE-TIME:20160903T160000Z
+DTEND;VALUE=DATE-TIME:20160903T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165155Z
+UID:400869578
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086957
+ 8\nNetworks: ESPNN\,WatchESPN
+LOCATION:Ross-Ade Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869578
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Murray State Racers at Illinois Fighting Illini
+DTSTART;VALUE=DATE-TIME:20160903T193000Z
+DTEND;VALUE=DATE-TIME:20160903T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165155Z
+UID:400869652
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086965
+ 2\nNetworks: BTN
+LOCATION:Memorial Stadium \, Champaign\, IL
+URL:http://www.espn.com/college-football/game?gameId=400869652
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin Peay Governors at Troy Trojans
+DTSTART;VALUE=DATE-TIME:20160903T220000Z
+DTEND;VALUE=DATE-TIME:20160904T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165155Z
+UID:400869810
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086981
+ 0\nNetworks: ESPN3
+LOCATION:Veterans Memorial Stadium \, Troy\, AL
+URL:http://www.espn.com/college-football/game?gameId=400869810
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southeast Missouri State Redhawks at Memphis Tigers
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165155Z
+UID:400869508
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086950
+ 8\nNetworks: ESPN3
+LOCATION:Liberty Bowl Memorial Stadium\, Memphis\, TN
+URL:http://www.espn.com/college-football/game?gameId=400869508
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arkansas-Pine Bluff Golden Lions at Tennessee State Tigers
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165155Z
+UID:400872869
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087286
+ 9\nNetworks: 
+LOCATION:Nissan Stadium\, Nashville\, TN
+URL:http://www.espn.com/college-football/game?gameId=400872869
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pikeville Bears at Eastern Kentucky Colonels
+DTSTART;VALUE=DATE-TIME:20160908T230000Z
+DTEND;VALUE=DATE-TIME:20160909T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165155Z
+UID:400872853
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087285
+ 3\nNetworks: 
+LOCATION:Roy Kidd Stadium\, Richmond\, KY
+URL:http://www.espn.com/college-football/game?gameId=400872853
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eastern Illinois Panthers at Miami (OH) RedHawks
+DTSTART;VALUE=DATE-TIME:20160910T193000Z
+DTEND;VALUE=DATE-TIME:20160910T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165155Z
+UID:400869271
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086927
+ 1\nNetworks: ESPN3
+LOCATION:Yager Stadium\, Oxford\, OH
+URL:http://www.espn.com/college-football/game?gameId=400869271
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Missouri State Bears at Murray State Racers
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165155Z
+UID:400871359
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087135
+ 9\nNetworks: 
+LOCATION:Roy Stewart Stadium\, Murray\, KY
+URL:http://www.espn.com/college-football/game?gameId=400871359
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southeast Missouri State Redhawks at Southern Illinois Salukis
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165155Z
+UID:400871384
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087138
+ 4\nNetworks: 
+LOCATION:Saluki Stadium\, Carbondale\, IL
+URL:http://www.espn.com/college-football/game?gameId=400871384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee Tech Golden Eagles at Austin Peay Governors
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165155Z
+UID:400872838
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087283
+ 8\nNetworks: 
+LOCATION:Governors Stadium\, Clarksville\, TN
+URL:http://www.espn.com/college-football/game?gameId=400872838
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jackson State Tigers at Tennessee State Tigers
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165155Z
+UID:400872870
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087287
+ 0\nNetworks: 
+LOCATION:Nissan Stadium\, Nashville\, TN
+URL:http://www.espn.com/college-football/game?gameId=400872870
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville State Gamecocks at LSU Tigers
+DTSTART;VALUE=DATE-TIME:20160910T233000Z
+DTEND;VALUE=DATE-TIME:20160911T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165155Z
+UID:400868985
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086898
+ 5\nNetworks: ESPNU\,WatchESPN
+LOCATION:Tiger Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400868985
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee-Martin Skyhawks at Hawaii Rainbow Warriors
+DTSTART;VALUE=DATE-TIME:20160911T035900Z
+DTEND;VALUE=DATE-TIME:20160911T072900Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165155Z
+UID:400869189
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086918
+ 9\nNetworks: 
+LOCATION:Aloha Stadium\, Honolulu\, HI
+URL:http://www.espn.com/college-football/game?gameId=400869189
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coastal Carolina Chanticleers at Jacksonville State Gamecocks
+DTSTART;VALUE=DATE-TIME:20160917T180000Z
+DTEND;VALUE=DATE-TIME:20160917T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165156Z
+UID:400868936
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086893
+ 6\nNetworks: 
+LOCATION:Burgess-Snow Field\, Jacksonville\, AL
+URL:http://www.espn.com/college-football/game?gameId=400868936
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eastern Kentucky Colonels at Ball State Cardinals
+DTSTART;VALUE=DATE-TIME:20160917T190000Z
+DTEND;VALUE=DATE-TIME:20160917T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165156Z
+UID:400869279
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086927
+ 9\nNetworks: ESPN3
+LOCATION:Scheumann Stadium\, Muncie\, IN
+URL:http://www.espn.com/college-football/game?gameId=400869279
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eastern Illinois Panthers at Illinois State Redbirds
+DTSTART;VALUE=DATE-TIME:20160917T190000Z
+DTEND;VALUE=DATE-TIME:20160917T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165156Z
+UID:400871340
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087134
+ 0\nNetworks: 
+LOCATION:Hancock Stadium\, Normal\, IL
+URL:http://www.espn.com/college-football/game?gameId=400871340
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bacone College Warriors at Tennessee-Martin Skyhawks
+DTSTART;VALUE=DATE-TIME:20160917T190000Z
+DTEND;VALUE=DATE-TIME:20160917T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165156Z
+UID:400900737
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40090073
+ 7\nNetworks: 
+LOCATION:Hardy M. Graham Stadium\, Martin\, TN
+URL:http://www.espn.com/college-football/game?gameId=400900737
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee Tech Golden Eagles at Mercer Bears
+DTSTART;VALUE=DATE-TIME:20160917T200000Z
+DTEND;VALUE=DATE-TIME:20160917T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165156Z
+UID:400871403
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087140
+ 3\nNetworks: 
+LOCATION:Moye Complex\, Macon\, GA
+URL:http://www.espn.com/college-football/game?gameId=400871403
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee State Tigers at Bethune-Cookman Wildcats
+DTSTART;VALUE=DATE-TIME:20160917T200000Z
+DTEND;VALUE=DATE-TIME:20160917T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165156Z
+UID:400872761
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087276
+ 1\nNetworks: 
+LOCATION:Municipal Stadium \, Daytona Beach\, FL
+URL:http://www.espn.com/college-football/game?gameId=400872761
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana State Sycamores at Southeast Missouri State Redhawks
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165156Z
+UID:400871350
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087135
+ 0\nNetworks: 
+LOCATION:Houck Stadium\, Cape Girardeau\, MO
+URL:http://www.espn.com/college-football/game?gameId=400871350
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Murray State Racers at Southern Illinois Salukis
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165156Z
+UID:400871385
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087138
+ 5\nNetworks: 
+LOCATION:Saluki Stadium\, Carbondale\, IL
+URL:http://www.espn.com/college-football/game?gameId=400871385
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin Peay Governors at Eastern Illinois Panthers
+DTSTART;VALUE=DATE-TIME:20160924T180000Z
+DTEND;VALUE=DATE-TIME:20160924T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165156Z
+UID:400872839
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087283
+ 9\nNetworks: 
+LOCATION:O'Brien Stadium\, Charleston\, IL
+URL:http://www.espn.com/college-football/game?gameId=400872839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee Tech Golden Eagles at Tennessee-Martin Skyhawks
+DTSTART;VALUE=DATE-TIME:20160924T190000Z
+DTEND;VALUE=DATE-TIME:20160924T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165156Z
+UID:400872875
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087287
+ 5\nNetworks: 
+LOCATION:Hardy M. Graham Stadium\, Martin\, TN
+URL:http://www.espn.com/college-football/game?gameId=400872875
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville State Gamecocks at Liberty Flames
+DTSTART;VALUE=DATE-TIME:20160924T230000Z
+DTEND;VALUE=DATE-TIME:20160925T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165156Z
+UID:400872687
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087268
+ 7\nNetworks: ESPN3
+LOCATION:Williams Stadium \, Lynchburg\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872687
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southeast Missouri State Redhawks at Murray State Racers
+DTSTART;VALUE=DATE-TIME:20160924T230000Z
+DTEND;VALUE=DATE-TIME:20160925T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165156Z
+UID:400872865
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087286
+ 5\nNetworks: 
+LOCATION:Roy Stewart Stadium\, Murray\, KY
+URL:http://www.espn.com/college-football/game?gameId=400872865
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee-Martin Skyhawks at Tennessee State Tigers
+DTSTART;VALUE=DATE-TIME:20161001T190000Z
+DTEND;VALUE=DATE-TIME:20161001T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165156Z
+UID:400872871
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087287
+ 1\nNetworks: 
+LOCATION:Nissan Stadium\, Nashville\, TN
+URL:http://www.espn.com/college-football/game?gameId=400872871
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Murray State Racers at Austin Peay Governors
+DTSTART;VALUE=DATE-TIME:20161001T210000Z
+DTEND;VALUE=DATE-TIME:20161002T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165156Z
+UID:400872840
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087284
+ 0\nNetworks: 
+LOCATION:Governors Stadium\, Clarksville\, TN
+URL:http://www.espn.com/college-football/game?gameId=400872840
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eastern Kentucky Colonels at Tennessee Tech Golden Eagles
+DTSTART;VALUE=DATE-TIME:20161001T230000Z
+DTEND;VALUE=DATE-TIME:20161002T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165156Z
+UID:400872854
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087285
+ 4\nNetworks: 
+LOCATION:Tucker Stadium\, Cookeville\, TN
+URL:http://www.espn.com/college-football/game?gameId=400872854
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eastern Illinois Panthers at Southeast Missouri State Redhawks
+DTSTART;VALUE=DATE-TIME:20161001T230000Z
+DTEND;VALUE=DATE-TIME:20161002T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165156Z
+UID:400872664
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087266
+ 4\nNetworks: 
+LOCATION:Houck Stadium\, Cape Girardeau\, MO
+URL:http://www.espn.com/college-football/game?gameId=400872664
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee Tech Golden Eagles at Jacksonville State Gamecocks
+DTSTART;VALUE=DATE-TIME:20161008T180000Z
+DTEND;VALUE=DATE-TIME:20161008T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165157Z
+UID:400872861
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087286
+ 1\nNetworks: 
+LOCATION:Burgess-Snow Field\, Jacksonville\, AL
+URL:http://www.espn.com/college-football/game?gameId=400872861
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin Peay Governors at Tennessee-Martin Skyhawks
+DTSTART;VALUE=DATE-TIME:20161008T190000Z
+DTEND;VALUE=DATE-TIME:20161008T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165157Z
+UID:400872841
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087284
+ 1\nNetworks: 
+LOCATION:Hardy M. Graham Stadium\, Martin\, TN
+URL:http://www.espn.com/college-football/game?gameId=400872841
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southeast Missouri State Redhawks at Eastern Kentucky Colonels
+DTSTART;VALUE=DATE-TIME:20161008T220000Z
+DTEND;VALUE=DATE-TIME:20161009T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165157Z
+UID:400872855
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087285
+ 5\nNetworks: 
+LOCATION:Roy Kidd Stadium\, Richmond\, KY
+URL:http://www.espn.com/college-football/game?gameId=400872855
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee State Tigers at Eastern Illinois Panthers
+DTSTART;VALUE=DATE-TIME:20161008T230000Z
+DTEND;VALUE=DATE-TIME:20161009T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165157Z
+UID:400872847
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087284
+ 7\nNetworks: 
+LOCATION:O'Brien Stadium\, Charleston\, IL
+URL:http://www.espn.com/college-football/game?gameId=400872847
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin Peay Governors at Jacksonville State Gamecocks
+DTSTART;VALUE=DATE-TIME:20161015T180000Z
+DTEND;VALUE=DATE-TIME:20161015T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165157Z
+UID:400872842
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087284
+ 2\nNetworks: 
+LOCATION:Burgess-Snow Field\, Jacksonville\, AL
+URL:http://www.espn.com/college-football/game?gameId=400872842
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eastern Illinois Panthers at Tennessee Tech Golden Eagles
+DTSTART;VALUE=DATE-TIME:20161015T230000Z
+DTEND;VALUE=DATE-TIME:20161016T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165157Z
+UID:400872848
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087284
+ 8\nNetworks: 
+LOCATION:Tucker Stadium\, Cookeville\, TN
+URL:http://www.espn.com/college-football/game?gameId=400872848
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eastern Kentucky Colonels at Tennessee State Tigers
+DTSTART;VALUE=DATE-TIME:20161015T230000Z
+DTEND;VALUE=DATE-TIME:20161016T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165157Z
+UID:400872856
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087285
+ 6\nNetworks: 
+LOCATION:Nissan Stadium\, Nashville\, TN
+URL:http://www.espn.com/college-football/game?gameId=400872856
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee-Martin Skyhawks at Murray State Racers
+DTSTART;VALUE=DATE-TIME:20161015T230000Z
+DTEND;VALUE=DATE-TIME:20161016T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165157Z
+UID:400872877
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087287
+ 7\nNetworks: 
+LOCATION:Roy Stewart Stadium\, Murray\, KY
+URL:http://www.espn.com/college-football/game?gameId=400872877
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee State Tigers at Vanderbilt Commodores (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161022T160000
+DTEND;VALUE=DATE-TIME:20161022T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165157Z
+UID:400869034
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086903
+ 4\nNetworks: 
+LOCATION:Vanderbilt Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869034
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee-Martin Skyhawks at Georgia State Panthers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161022T160000
+DTEND;VALUE=DATE-TIME:20161022T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165157Z
+UID:400869833
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086983
+ 3\nNetworks: 
+LOCATION:Georgia Dome\, Atlanta\, GA
+URL:http://www.espn.com/college-football/game?gameId=400869833
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Murray State Racers at Eastern Illinois Panthers
+DTSTART;VALUE=DATE-TIME:20161022T180000Z
+DTEND;VALUE=DATE-TIME:20161022T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165157Z
+UID:400872849
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087284
+ 9\nNetworks: 
+LOCATION:O'Brien Stadium\, Charleston\, IL
+URL:http://www.espn.com/college-football/game?gameId=400872849
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southeast Missouri State Redhawks at Tennessee Tech Golden Eagles
+DTSTART;VALUE=DATE-TIME:20161022T183000Z
+DTEND;VALUE=DATE-TIME:20161022T220000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165157Z
+UID:400872866
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087286
+ 6\nNetworks: 
+LOCATION:Tucker Stadium\, Cookeville\, TN
+URL:http://www.espn.com/college-football/game?gameId=400872866
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville State Gamecocks at Eastern Kentucky Colonels
+DTSTART;VALUE=DATE-TIME:20161022T190000Z
+DTEND;VALUE=DATE-TIME:20161022T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165157Z
+UID:400872857
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087285
+ 7\nNetworks: 
+LOCATION:Roy Kidd Stadium\, Richmond\, KY
+URL:http://www.espn.com/college-football/game?gameId=400872857
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercer Bears at Austin Peay Governors
+DTSTART;VALUE=DATE-TIME:20161022T210000Z
+DTEND;VALUE=DATE-TIME:20161023T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165157Z
+UID:400871407
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087140
+ 7\nNetworks: 
+LOCATION:Governors Stadium\, Clarksville\, TN
+URL:http://www.espn.com/college-football/game?gameId=400871407
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin Peay Governors at Southeast Missouri State Redhawks
+DTSTART;VALUE=DATE-TIME:20161029T180000Z
+DTEND;VALUE=DATE-TIME:20161029T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165158Z
+UID:400872843
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087284
+ 3\nNetworks: 
+LOCATION:Houck Stadium\, Cape Girardeau\, MO
+URL:http://www.espn.com/college-football/game?gameId=400872843
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eastern Illinois Panthers at Jacksonville State Gamecocks
+DTSTART;VALUE=DATE-TIME:20161029T190000Z
+DTEND;VALUE=DATE-TIME:20161029T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165158Z
+UID:400872850
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087285
+ 0\nNetworks: 
+LOCATION:Burgess-Snow Field\, Jacksonville\, AL
+URL:http://www.espn.com/college-football/game?gameId=400872850
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eastern Kentucky Colonels at Tennessee-Martin Skyhawks
+DTSTART;VALUE=DATE-TIME:20161029T190000Z
+DTEND;VALUE=DATE-TIME:20161029T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165158Z
+UID:400872858
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087285
+ 8\nNetworks: 
+LOCATION:Hardy M. Graham Stadium\, Martin\, TN
+URL:http://www.espn.com/college-football/game?gameId=400872858
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee State Tigers at Murray State Racers
+DTSTART;VALUE=DATE-TIME:20161029T200000Z
+DTEND;VALUE=DATE-TIME:20161029T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165158Z
+UID:400872872
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087287
+ 2\nNetworks: 
+LOCATION:Roy Stewart Stadium\, Murray\, KY
+URL:http://www.espn.com/college-football/game?gameId=400872872
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee Tech Golden Eagles at Tennessee Volunteers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161105T160000
+DTEND;VALUE=DATE-TIME:20161105T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165158Z
+UID:400869048
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086904
+ 8\nNetworks: 
+LOCATION:Neyland Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869048
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Murray State Racers at Eastern Kentucky Colonels (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161105T160000
+DTEND;VALUE=DATE-TIME:20161105T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165158Z
+UID:400872859
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087285
+ 9\nNetworks: 
+LOCATION:Roy Kidd Stadium\, Richmond\, KY
+URL:http://www.espn.com/college-football/game?gameId=400872859
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville State Gamecocks at Southeast Missouri State Redhawks
+DTSTART;VALUE=DATE-TIME:20161105T180000Z
+DTEND;VALUE=DATE-TIME:20161105T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165158Z
+UID:400872862
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087286
+ 2\nNetworks: 
+LOCATION:Houck Stadium\, Cape Girardeau\, MO
+URL:http://www.espn.com/college-football/game?gameId=400872862
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee-Martin Skyhawks at Eastern Illinois Panthers
+DTSTART;VALUE=DATE-TIME:20161105T180000Z
+DTEND;VALUE=DATE-TIME:20161105T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165158Z
+UID:400872851
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087285
+ 1\nNetworks: 
+LOCATION:O'Brien Stadium\, Charleston\, IL
+URL:http://www.espn.com/college-football/game?gameId=400872851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee State Tigers at Austin Peay Governors
+DTSTART;VALUE=DATE-TIME:20161105T210000Z
+DTEND;VALUE=DATE-TIME:20161106T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165158Z
+UID:400872844
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087284
+ 4\nNetworks: 
+LOCATION:Governors Stadium\, Clarksville\, TN
+URL:http://www.espn.com/college-football/game?gameId=400872844
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville State Gamecocks at Murray State Racers
+DTSTART;VALUE=DATE-TIME:20161112T190000Z
+DTEND;VALUE=DATE-TIME:20161112T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165158Z
+UID:400872863
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087286
+ 3\nNetworks: 
+LOCATION:Roy Stewart Stadium\, Murray\, KY
+URL:http://www.espn.com/college-football/game?gameId=400872863
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southeast Missouri State Redhawks at Tennessee-Martin Skyhawks
+DTSTART;VALUE=DATE-TIME:20161112T200000Z
+DTEND;VALUE=DATE-TIME:20161112T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165158Z
+UID:400872867
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087286
+ 7\nNetworks: 
+LOCATION:Hardy M. Graham Stadium\, Martin\, TN
+URL:http://www.espn.com/college-football/game?gameId=400872867
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee Tech Golden Eagles at Tennessee State Tigers
+DTSTART;VALUE=DATE-TIME:20161112T210000Z
+DTEND;VALUE=DATE-TIME:20161113T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165158Z
+UID:400872873
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087287
+ 3\nNetworks: 
+LOCATION:Nissan Stadium\, Nashville\, TN
+URL:http://www.espn.com/college-football/game?gameId=400872873
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eastern Kentucky Colonels at Austin Peay Governors
+DTSTART;VALUE=DATE-TIME:20161112T220000Z
+DTEND;VALUE=DATE-TIME:20161113T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165158Z
+UID:400872845
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087284
+ 5\nNetworks: 
+LOCATION:Governors Stadium\, Clarksville\, TN
+URL:http://www.espn.com/college-football/game?gameId=400872845
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin Peay Governors at Kentucky Wildcats (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165158Z
+UID:400869060
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086906
+ 0\nNetworks: 
+LOCATION:Commonwealth Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869060
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eastern Illinois Panthers at Eastern Kentucky Colonels (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165158Z
+UID:400872852
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087285
+ 2\nNetworks: 
+LOCATION:Roy Kidd Stadium\, Richmond\, KY
+URL:http://www.espn.com/college-football/game?gameId=400872852
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee-Martin Skyhawks at Jacksonville State Gamecocks
+DTSTART;VALUE=DATE-TIME:20161119T190000Z
+DTEND;VALUE=DATE-TIME:20161119T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165158Z
+UID:400872864
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087286
+ 4\nNetworks: 
+LOCATION:Burgess-Snow Field\, Jacksonville\, AL
+URL:http://www.espn.com/college-football/game?gameId=400872864
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee State Tigers at Southeast Missouri State Redhawks
+DTSTART;VALUE=DATE-TIME:20161119T190000Z
+DTEND;VALUE=DATE-TIME:20161119T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165158Z
+UID:400872868
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087286
+ 8\nNetworks: 
+LOCATION:Houck Stadium\, Cape Girardeau\, MO
+URL:http://www.espn.com/college-football/game?gameId=400872868
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Murray State Racers at Tennessee Tech Golden Eagles
+DTSTART;VALUE=DATE-TIME:20161119T193000Z
+DTEND;VALUE=DATE-TIME:20161119T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165158Z
+UID:400872876
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087287
+ 6\nNetworks: 
+LOCATION:Tucker Stadium\, Cookeville\, TN
+URL:http://www.espn.com/college-football/game?gameId=400872876
+END:VEVENT
+END:VCALENDAR

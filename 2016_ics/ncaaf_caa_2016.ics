@@ -1,0 +1,930 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ncaaf-calendar//jiva//
+DTSTART;VALUE=DATE-TIME:20160823T165309
+SUMMARY:2016 NCAAF Schedule
+BEGIN:VEVENT
+SUMMARY:Maine Black Bears at Connecticut Huskies
+DTSTART;VALUE=DATE-TIME:20160901T230000Z
+DTEND;VALUE=DATE-TIME:20160902T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165309Z
+UID:400869503
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086950
+ 3\nNetworks: ESPN3
+LOCATION:Rentschler Field
+URL:http://www.espn.com/college-football/game?gameId=400869503
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Dakota Fighting Hawks at Stony Brook Seawolves
+DTSTART;VALUE=DATE-TIME:20160901T230000Z
+DTEND;VALUE=DATE-TIME:20160902T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165309Z
+UID:400869731
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086973
+ 1\nNetworks: 
+LOCATION:Kenneth P. LaValle Stadium\, Stony Brook\, NY
+URL:http://www.espn.com/college-football/game?gameId=400869731
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Delaware State Hornets at Delaware Blue Hens
+DTSTART;VALUE=DATE-TIME:20160901T230000Z
+DTEND;VALUE=DATE-TIME:20160902T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165309Z
+UID:400872706
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087270
+ 6\nNetworks: 
+LOCATION:Delaware Stadium\, Newark\, DE
+URL:http://www.espn.com/college-football/game?gameId=400872706
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:William & Mary Tribe at NC State Wolfpack
+DTSTART;VALUE=DATE-TIME:20160901T233000Z
+DTEND;VALUE=DATE-TIME:20160902T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165309Z
+UID:400869422
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086942
+ 2\nNetworks: 
+LOCATION:Carter-Finley Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869422
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Albany Great Danes at Buffalo Bulls
+DTSTART;VALUE=DATE-TIME:20160902T230000Z
+DTEND;VALUE=DATE-TIME:20160903T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165309Z
+UID:400869259
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086925
+ 9\nNetworks: ESPN3
+LOCATION:UB Stadium\, Buffalo\, NY
+URL:http://www.espn.com/college-football/game?gameId=400869259
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Villanova Wildcats at Pittsburgh Panthers
+DTSTART;VALUE=DATE-TIME:20160903T173000Z
+DTEND;VALUE=DATE-TIME:20160903T210000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165309Z
+UID:400869426
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086942
+ 6\nNetworks: 
+LOCATION:Heinz Field
+URL:http://www.espn.com/college-football/game?gameId=400869426
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Richmond Spiders at Virginia Cavaliers
+DTSTART;VALUE=DATE-TIME:20160903T193000Z
+DTEND;VALUE=DATE-TIME:20160903T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165309Z
+UID:400869427
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086942
+ 7\nNetworks: 
+LOCATION:Scott Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869427
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gardner-Webb Bulldogs at Elon Phoenix
+DTSTART;VALUE=DATE-TIME:20160903T193000Z
+DTEND;VALUE=DATE-TIME:20160903T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165309Z
+UID:400872671
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087267
+ 1\nNetworks: 
+LOCATION:Rhodes Stadium\, Elon\, NC
+URL:http://www.espn.com/college-football/game?gameId=400872671
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morehead State Eagles at James Madison Dukes
+DTSTART;VALUE=DATE-TIME:20160903T220000Z
+DTEND;VALUE=DATE-TIME:20160904T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165309Z
+UID:400872723
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087272
+ 3\nNetworks: 
+LOCATION:Bridgeforth Stadium\, Harrisonburg\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872723
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Towson Tigers at South Florida Bulls
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165309Z
+UID:400869506
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086950
+ 6\nNetworks: ESPN3
+LOCATION:Raymond James Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869506
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhode Island Rams at Kansas Jayhawks
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165309Z
+UID:400869597
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086959
+ 7\nNetworks: ESPN3
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869597
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Hampshire Wildcats at San Diego State Aztecs
+DTSTART;VALUE=DATE-TIME:20160904T003000Z
+DTEND;VALUE=DATE-TIME:20160904T040000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165309Z
+UID:400869182
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086918
+ 2\nNetworks: 
+LOCATION:Qualcomm Stadium\, San Diego\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869182
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stony Brook Seawolves at Temple Owls
+DTSTART;VALUE=DATE-TIME:20160910T170000Z
+DTEND;VALUE=DATE-TIME:20160910T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165309Z
+UID:400869513
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086951
+ 3\nNetworks: ESPN3
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA
+URL:http://www.espn.com/college-football/game?gameId=400869513
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Albany Great Danes at Rhode Island Rams
+DTSTART;VALUE=DATE-TIME:20160910T170000Z
+DTEND;VALUE=DATE-TIME:20160910T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165309Z
+UID:400872696
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087269
+ 6\nNetworks: 
+LOCATION:Meade Stadium\, Kingston\, RI
+URL:http://www.espn.com/college-football/game?gameId=400872696
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Delaware Blue Hens at Lafayette Leopards
+DTSTART;VALUE=DATE-TIME:20160910T220000Z
+DTEND;VALUE=DATE-TIME:20160911T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165309Z
+UID:400872707
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087270
+ 7\nNetworks: 
+LOCATION:Fisher Stadium\, Easton\, PA
+URL:http://www.espn.com/college-football/game?gameId=400872707
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Connecticut Blue Devils at James Madison Dukes
+DTSTART;VALUE=DATE-TIME:20160910T220000Z
+DTEND;VALUE=DATE-TIME:20160911T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165309Z
+UID:400872724
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087272
+ 4\nNetworks: 
+LOCATION:Bridgeforth Stadium\, Harrisonburg\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872724
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St Francis (PA) Red Flash at Towson Tigers
+DTSTART;VALUE=DATE-TIME:20160910T220000Z
+DTEND;VALUE=DATE-TIME:20160911T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165309Z
+UID:400872750
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087275
+ 0\nNetworks: 
+LOCATION:Johnny Unitas Stadium\, Towson\, MD
+URL:http://www.espn.com/college-football/game?gameId=400872750
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lehigh Mountain Hawks at Villanova Wildcats
+DTSTART;VALUE=DATE-TIME:20160910T220000Z
+DTEND;VALUE=DATE-TIME:20160911T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165309Z
+UID:400872754
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087275
+ 4\nNetworks: 
+LOCATION:Villanova Stadium\, Philadelphia\, PA
+URL:http://www.espn.com/college-football/game?gameId=400872754
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:William & Mary Tribe at Hampton Pirates
+DTSTART;VALUE=DATE-TIME:20160910T220000Z
+DTEND;VALUE=DATE-TIME:20160911T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165309Z
+UID:400872758
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087275
+ 8\nNetworks: 
+LOCATION:Armstrong Stadium\, Hampton\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872758
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Norfolk State Spartans at Richmond Spiders
+DTSTART;VALUE=DATE-TIME:20160910T220000Z
+DTEND;VALUE=DATE-TIME:20160911T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165309Z
+UID:400872797
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087279
+ 7\nNetworks: 
+LOCATION:Robins Stadium\, Richmond\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872797
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elon Phoenix at Charlotte 49ers
+DTSTART;VALUE=DATE-TIME:20160910T220000Z
+DTEND;VALUE=DATE-TIME:20160911T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165309Z
+UID:400869350
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086935
+ 0\nNetworks: 
+LOCATION:McColl-Richardson Field\, Charlotte\, NC
+URL:http://www.espn.com/college-football/game?gameId=400869350
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maine Black Bears at Toledo Rockets
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165309Z
+UID:400869272
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086927
+ 2\nNetworks: ESPN3
+LOCATION:Glass Bowl\, Toledo\, OH
+URL:http://www.espn.com/college-football/game?gameId=400869272
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holy Cross Crusaders at New Hampshire Wildcats
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165309Z
+UID:400872737
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087273
+ 7\nNetworks: 
+LOCATION:Cowell Stadium\, Durham\, NH
+URL:http://www.espn.com/college-football/game?gameId=400872737
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhode Island Rams at Harvard Crimson
+DTSTART;VALUE=DATE-TIME:20160916T230000Z
+DTEND;VALUE=DATE-TIME:20160917T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165310Z
+UID:400871336
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087133
+ 6\nNetworks: 
+LOCATION:Harvard Stadium\, Cambridge\, MA
+URL:http://www.espn.com/college-football/game?gameId=400871336
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Richmond Spiders at Stony Brook Seawolves
+DTSTART;VALUE=DATE-TIME:20160917T160000Z
+DTEND;VALUE=DATE-TIME:20160917T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165310Z
+UID:400872746
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087274
+ 6\nNetworks: 
+LOCATION:Kenneth P. LaValle Stadium\, Stony Brook\, NY
+URL:http://www.espn.com/college-football/game?gameId=400872746
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Towson Tigers at Villanova Wildcats
+DTSTART;VALUE=DATE-TIME:20160917T193000Z
+DTEND;VALUE=DATE-TIME:20160917T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165310Z
+UID:400872751
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087275
+ 1\nNetworks: 
+LOCATION:Villanova Stadium\, Philadelphia\, PA
+URL:http://www.espn.com/college-football/game?gameId=400872751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:James Madison Dukes at North Carolina Tar Heels
+DTSTART;VALUE=DATE-TIME:20160917T193000Z
+DTEND;VALUE=DATE-TIME:20160917T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165310Z
+UID:400869441
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086944
+ 1\nNetworks: ESPN3
+LOCATION:Kenan Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869441
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Norfolk State Spartans at William & Mary Tribe
+DTSTART;VALUE=DATE-TIME:20160917T220000Z
+DTEND;VALUE=DATE-TIME:20160918T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165310Z
+UID:400872759
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087275
+ 9\nNetworks: 
+LOCATION:Zable Stadium\, Williamsburg\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872759
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fayetteville State Broncos at Elon Phoenix
+DTSTART;VALUE=DATE-TIME:20160917T220000Z
+DTEND;VALUE=DATE-TIME:20160918T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165310Z
+UID:400872715
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087271
+ 5\nNetworks: 
+LOCATION:Rhodes Stadium\, Elon\, NC
+URL:http://www.espn.com/college-football/game?gameId=400872715
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Delaware Blue Hens at Wake Forest Demon Deacons
+DTSTART;VALUE=DATE-TIME:20160917T223000Z
+DTEND;VALUE=DATE-TIME:20160918T020000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165310Z
+UID:400869445
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086944
+ 5\nNetworks: 
+LOCATION:BB&T\; Field
+URL:http://www.espn.com/college-football/game?gameId=400869445
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Hampshire Wildcats at Dartmouth Big Green
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165310Z
+UID:400871306
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087130
+ 6\nNetworks: 
+LOCATION:Memorial Field \, Hanover\, NH
+URL:http://www.espn.com/college-football/game?gameId=400871306
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holy Cross Crusaders at Albany Great Danes
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165310Z
+UID:400872697
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087269
+ 7\nNetworks: 
+LOCATION:Bob Ford Field\, Albany\, NY
+URL:http://www.espn.com/college-football/game?gameId=400872697
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:James Madison Dukes at Maine Black Bears
+DTSTART;VALUE=DATE-TIME:20160924T160000Z
+DTEND;VALUE=DATE-TIME:20160924T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165310Z
+UID:400872725
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087272
+ 5\nNetworks: 
+LOCATION:Alfond Stadium \, Orono\, ME
+URL:http://www.espn.com/college-football/game?gameId=400872725
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Hampshire Wildcats at Rhode Island Rams
+DTSTART;VALUE=DATE-TIME:20160924T170000Z
+DTEND;VALUE=DATE-TIME:20160924T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165310Z
+UID:400872738
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087273
+ 8\nNetworks: 
+LOCATION:Meade Stadium\, Kingston\, RI
+URL:http://www.espn.com/college-football/game?gameId=400872738
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colgate Raiders at Richmond Spiders
+DTSTART;VALUE=DATE-TIME:20160924T193000Z
+DTEND;VALUE=DATE-TIME:20160924T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165310Z
+UID:400873089
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087308
+ 9\nNetworks: 
+LOCATION:Robins Stadium\, Richmond\, VA
+URL:http://www.espn.com/college-football/game?gameId=400873089
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sacred Heart Pioneers at Stony Brook Seawolves
+DTSTART;VALUE=DATE-TIME:20160924T220000Z
+DTEND;VALUE=DATE-TIME:20160925T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165310Z
+UID:400872747
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087274
+ 7\nNetworks: 
+LOCATION:Kenneth P. LaValle Stadium\, Stony Brook\, NY
+URL:http://www.espn.com/college-football/game?gameId=400872747
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Villanova Wildcats at Lafayette Leopards
+DTSTART;VALUE=DATE-TIME:20160924T220000Z
+DTEND;VALUE=DATE-TIME:20160925T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165310Z
+UID:400872755
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087275
+ 5\nNetworks: 
+LOCATION:Fisher Stadium\, Easton\, PA
+URL:http://www.espn.com/college-football/game?gameId=400872755
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St Francis (PA) Red Flash at Albany Great Danes
+DTSTART;VALUE=DATE-TIME:20160924T230000Z
+DTEND;VALUE=DATE-TIME:20160925T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165310Z
+UID:400872698
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087269
+ 8\nNetworks: 
+LOCATION:Bob Ford Field\, Albany\, NY
+URL:http://www.espn.com/college-football/game?gameId=400872698
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elon Phoenix at William & Mary Tribe
+DTSTART;VALUE=DATE-TIME:20160924T230000Z
+DTEND;VALUE=DATE-TIME:20160925T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165310Z
+UID:400872716
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087271
+ 6\nNetworks: 
+LOCATION:Zable Stadium\, Williamsburg\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872716
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brown Bears at Rhode Island Rams
+DTSTART;VALUE=DATE-TIME:20161001T160000Z
+DTEND;VALUE=DATE-TIME:20161001T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165310Z
+UID:400871269
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087126
+ 9\nNetworks: 
+LOCATION:Meade Stadium\, Kingston\, RI
+URL:http://www.espn.com/college-football/game?gameId=400871269
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Delaware Blue Hens at James Madison Dukes
+DTSTART;VALUE=DATE-TIME:20161001T173000Z
+DTEND;VALUE=DATE-TIME:20161001T210000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165310Z
+UID:400872708
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087270
+ 8\nNetworks: 
+LOCATION:Bridgeforth Stadium\, Harrisonburg\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872708
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Villanova Wildcats at Elon Phoenix
+DTSTART;VALUE=DATE-TIME:20161001T193000Z
+DTEND;VALUE=DATE-TIME:20161001T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165310Z
+UID:400872717
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087271
+ 7\nNetworks: 
+LOCATION:Rhodes Stadium\, Elon\, NC
+URL:http://www.espn.com/college-football/game?gameId=400872717
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bryant Bulldogs at Maine Black Bears
+DTSTART;VALUE=DATE-TIME:20161001T193000Z
+DTEND;VALUE=DATE-TIME:20161001T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165310Z
+UID:400872731
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087273
+ 1\nNetworks: 
+LOCATION:Alfond Stadium \, Orono\, ME
+URL:http://www.espn.com/college-football/game?gameId=400872731
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:William & Mary Tribe at New Hampshire Wildcats
+DTSTART;VALUE=DATE-TIME:20161001T193000Z
+DTEND;VALUE=DATE-TIME:20161001T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165310Z
+UID:400872739
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087273
+ 9\nNetworks: 
+LOCATION:Cowell Stadium\, Durham\, NH
+URL:http://www.espn.com/college-football/game?gameId=400872739
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Towson Tigers at Richmond Spiders
+DTSTART;VALUE=DATE-TIME:20161001T193000Z
+DTEND;VALUE=DATE-TIME:20161001T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165310Z
+UID:400872752
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087275
+ 2\nNetworks: 
+LOCATION:Robins Stadium\, Richmond\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872752
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhode Island Rams at Villanova Wildcats
+DTSTART;VALUE=DATE-TIME:20161008T160000Z
+DTEND;VALUE=DATE-TIME:20161008T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165311Z
+UID:400872742
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087274
+ 2\nNetworks: 
+LOCATION:Villanova Stadium\, Philadelphia\, PA
+URL:http://www.espn.com/college-football/game?gameId=400872742
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Richmond Spiders at Albany Great Danes
+DTSTART;VALUE=DATE-TIME:20161008T193000Z
+DTEND;VALUE=DATE-TIME:20161008T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165311Z
+UID:400872699
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087269
+ 9\nNetworks: 
+LOCATION:Bob Ford Field\, Albany\, NY
+URL:http://www.espn.com/college-football/game?gameId=400872699
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maine Black Bears at Delaware Blue Hens
+DTSTART;VALUE=DATE-TIME:20161008T193000Z
+DTEND;VALUE=DATE-TIME:20161008T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165311Z
+UID:400872709
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087270
+ 9\nNetworks: 
+LOCATION:Delaware Stadium\, Newark\, DE
+URL:http://www.espn.com/college-football/game?gameId=400872709
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Hampshire Wildcats at Elon Phoenix
+DTSTART;VALUE=DATE-TIME:20161008T193000Z
+DTEND;VALUE=DATE-TIME:20161008T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165311Z
+UID:400872718
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087271
+ 8\nNetworks: 
+LOCATION:Rhodes Stadium\, Elon\, NC
+URL:http://www.espn.com/college-football/game?gameId=400872718
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:William & Mary Tribe at James Madison Dukes
+DTSTART;VALUE=DATE-TIME:20161008T193000Z
+DTEND;VALUE=DATE-TIME:20161008T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165311Z
+UID:400872726
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087272
+ 6\nNetworks: 
+LOCATION:Bridgeforth Stadium\, Harrisonburg\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872726
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stony Brook Seawolves at Towson Tigers
+DTSTART;VALUE=DATE-TIME:20161008T230000Z
+DTEND;VALUE=DATE-TIME:20161009T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165311Z
+UID:400872748
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087274
+ 8\nNetworks: 
+LOCATION:Johnny Unitas Stadium\, Towson\, MD
+URL:http://www.espn.com/college-football/game?gameId=400872748
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Albany Great Danes at Maine Black Bears
+DTSTART;VALUE=DATE-TIME:20161015T160000Z
+DTEND;VALUE=DATE-TIME:20161015T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165311Z
+UID:400872700
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087270
+ 0\nNetworks: 
+LOCATION:Alfond Stadium \, Orono\, ME
+URL:http://www.espn.com/college-football/game?gameId=400872700
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:James Madison Dukes at New Hampshire Wildcats
+DTSTART;VALUE=DATE-TIME:20161015T160000Z
+DTEND;VALUE=DATE-TIME:20161015T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165311Z
+UID:400872727
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087272
+ 7\nNetworks: 
+LOCATION:Cowell Stadium\, Durham\, NH
+URL:http://www.espn.com/college-football/game?gameId=400872727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Towson Tigers at Dartmouth Big Green
+DTSTART;VALUE=DATE-TIME:20161015T173000Z
+DTEND;VALUE=DATE-TIME:20161015T210000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165311Z
+UID:400871310
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087131
+ 0\nNetworks: 
+LOCATION:Memorial Field \, Hanover\, NH
+URL:http://www.espn.com/college-football/game?gameId=400871310
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Villanova Wildcats at Richmond Spiders
+DTSTART;VALUE=DATE-TIME:20161015T193000Z
+DTEND;VALUE=DATE-TIME:20161015T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165311Z
+UID:400872756
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087275
+ 6\nNetworks: 
+LOCATION:Robins Stadium\, Richmond\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872756
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Delaware Blue Hens at William & Mary Tribe
+DTSTART;VALUE=DATE-TIME:20161015T193000Z
+DTEND;VALUE=DATE-TIME:20161015T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165311Z
+UID:400872710
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087271
+ 0\nNetworks: 
+LOCATION:Zable Stadium\, Williamsburg\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872710
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhode Island Rams at Stony Brook Seawolves
+DTSTART;VALUE=DATE-TIME:20161015T200000Z
+DTEND;VALUE=DATE-TIME:20161015T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165311Z
+UID:400872743
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087274
+ 3\nNetworks: 
+LOCATION:Kenneth P. LaValle Stadium\, Stony Brook\, NY
+URL:http://www.espn.com/college-football/game?gameId=400872743
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maine Black Bears at Rhode Island Rams
+DTSTART;VALUE=DATE-TIME:20161022T160000Z
+DTEND;VALUE=DATE-TIME:20161022T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165311Z
+UID:400872732
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087273
+ 2\nNetworks: 
+LOCATION:Meade Stadium\, Kingston\, RI
+URL:http://www.espn.com/college-football/game?gameId=400872732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stony Brook Seawolves at Delaware Blue Hens
+DTSTART;VALUE=DATE-TIME:20161022T170000Z
+DTEND;VALUE=DATE-TIME:20161022T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165311Z
+UID:400872711
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087271
+ 1\nNetworks: 
+LOCATION:Delaware Stadium\, Newark\, DE
+URL:http://www.espn.com/college-football/game?gameId=400872711
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Richmond Spiders at Elon Phoenix
+DTSTART;VALUE=DATE-TIME:20161022T193000Z
+DTEND;VALUE=DATE-TIME:20161022T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165311Z
+UID:400872719
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087271
+ 9\nNetworks: 
+LOCATION:Rhodes Stadium\, Elon\, NC
+URL:http://www.espn.com/college-football/game?gameId=400872719
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Hampshire Wildcats at Towson Tigers
+DTSTART;VALUE=DATE-TIME:20161022T193000Z
+DTEND;VALUE=DATE-TIME:20161022T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165311Z
+UID:400872740
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087274
+ 0\nNetworks: 
+LOCATION:Johnny Unitas Stadium\, Towson\, MD
+URL:http://www.espn.com/college-football/game?gameId=400872740
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Albany Great Danes at Villanova Wildcats
+DTSTART;VALUE=DATE-TIME:20161022T193000Z
+DTEND;VALUE=DATE-TIME:20161022T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165311Z
+UID:400872701
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087270
+ 1\nNetworks: 
+LOCATION:Villanova Stadium\, Philadelphia\, PA
+URL:http://www.espn.com/college-football/game?gameId=400872701
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elon Phoenix at Albany Great Danes
+DTSTART;VALUE=DATE-TIME:20161029T160000Z
+DTEND;VALUE=DATE-TIME:20161029T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165312Z
+UID:400872702
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087270
+ 2\nNetworks: 
+LOCATION:Bob Ford Field\, Albany\, NY
+URL:http://www.espn.com/college-football/game?gameId=400872702
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stony Brook Seawolves at New Hampshire Wildcats
+DTSTART;VALUE=DATE-TIME:20161029T160000Z
+DTEND;VALUE=DATE-TIME:20161029T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165312Z
+UID:400872741
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087274
+ 1\nNetworks: 
+LOCATION:Cowell Stadium\, Durham\, NH
+URL:http://www.espn.com/college-football/game?gameId=400872741
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Towson Tigers at Delaware Blue Hens
+DTSTART;VALUE=DATE-TIME:20161029T193000Z
+DTEND;VALUE=DATE-TIME:20161029T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165312Z
+UID:400872712
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087271
+ 2\nNetworks: 
+LOCATION:Delaware Stadium\, Newark\, DE
+URL:http://www.espn.com/college-football/game?gameId=400872712
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhode Island Rams at James Madison Dukes
+DTSTART;VALUE=DATE-TIME:20161029T193000Z
+DTEND;VALUE=DATE-TIME:20161029T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165312Z
+UID:400872728
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087272
+ 8\nNetworks: 
+LOCATION:Bridgeforth Stadium\, Harrisonburg\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872728
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maine Black Bears at William & Mary Tribe
+DTSTART;VALUE=DATE-TIME:20161029T193000Z
+DTEND;VALUE=DATE-TIME:20161029T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165312Z
+UID:400872733
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087273
+ 3\nNetworks: 
+LOCATION:Zable Stadium\, Williamsburg\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872733
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Villanova Wildcats at Maine Black Bears
+DTSTART;VALUE=DATE-TIME:20161105T160000Z
+DTEND;VALUE=DATE-TIME:20161105T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165312Z
+UID:400872734
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087273
+ 4\nNetworks: 
+LOCATION:Alfond Stadium \, Orono\, ME
+URL:http://www.espn.com/college-football/game?gameId=400872734
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Delaware Blue Hens at Albany Great Danes
+DTSTART;VALUE=DATE-TIME:20161105T170000Z
+DTEND;VALUE=DATE-TIME:20161105T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165312Z
+UID:400872703
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087270
+ 3\nNetworks: 
+LOCATION:Bob Ford Field\, Albany\, NY
+URL:http://www.espn.com/college-football/game?gameId=400872703
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elon Phoenix at Towson Tigers
+DTSTART;VALUE=DATE-TIME:20161105T180000Z
+DTEND;VALUE=DATE-TIME:20161105T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165312Z
+UID:400872720
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087272
+ 0\nNetworks: 
+LOCATION:Johnny Unitas Stadium\, Towson\, MD
+URL:http://www.espn.com/college-football/game?gameId=400872720
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:William & Mary Tribe at Stony Brook Seawolves
+DTSTART;VALUE=DATE-TIME:20161105T180000Z
+DTEND;VALUE=DATE-TIME:20161105T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165312Z
+UID:400872749
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087274
+ 9\nNetworks: 
+LOCATION:Kenneth P. LaValle Stadium\, Stony Brook\, NY
+URL:http://www.espn.com/college-football/game?gameId=400872749
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:James Madison Dukes at Richmond Spiders
+DTSTART;VALUE=DATE-TIME:20161105T193000Z
+DTEND;VALUE=DATE-TIME:20161105T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165312Z
+UID:400872729
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087272
+ 9\nNetworks: 
+LOCATION:Robins Stadium\, Richmond\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872729
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Albany Great Danes at New Hampshire Wildcats
+DTSTART;VALUE=DATE-TIME:20161112T170000Z
+DTEND;VALUE=DATE-TIME:20161112T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165312Z
+UID:400872704
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087270
+ 4\nNetworks: 
+LOCATION:Cowell Stadium\, Durham\, NH
+URL:http://www.espn.com/college-football/game?gameId=400872704
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:William & Mary Tribe at Towson Tigers
+DTSTART;VALUE=DATE-TIME:20161112T170000Z
+DTEND;VALUE=DATE-TIME:20161112T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165312Z
+UID:400872753
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087275
+ 3\nNetworks: 
+LOCATION:Johnny Unitas Stadium\, Towson\, MD
+URL:http://www.espn.com/college-football/game?gameId=400872753
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:James Madison Dukes at Villanova Wildcats
+DTSTART;VALUE=DATE-TIME:20161112T180000Z
+DTEND;VALUE=DATE-TIME:20161112T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165312Z
+UID:400872730
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087273
+ 0\nNetworks: 
+LOCATION:Villanova Stadium\, Philadelphia\, PA
+URL:http://www.espn.com/college-football/game?gameId=400872730
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhode Island Rams at Elon Phoenix
+DTSTART;VALUE=DATE-TIME:20161112T183000Z
+DTEND;VALUE=DATE-TIME:20161112T220000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165312Z
+UID:400872721
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087272
+ 1\nNetworks: 
+LOCATION:Rhodes Stadium\, Elon\, NC
+URL:http://www.espn.com/college-football/game?gameId=400872721
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maine Black Bears at Stony Brook Seawolves
+DTSTART;VALUE=DATE-TIME:20161112T190000Z
+DTEND;VALUE=DATE-TIME:20161112T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165312Z
+UID:400872735
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087273
+ 5\nNetworks: 
+LOCATION:Kenneth P. LaValle Stadium\, Stony Brook\, NY
+URL:http://www.espn.com/college-football/game?gameId=400872735
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Delaware Blue Hens at Richmond Spiders
+DTSTART;VALUE=DATE-TIME:20161112T203000Z
+DTEND;VALUE=DATE-TIME:20161113T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165312Z
+UID:400872713
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087271
+ 3\nNetworks: 
+LOCATION:Robins Stadium\, Richmond\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872713
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Hampshire Wildcats at Maine Black Bears (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165313Z
+UID:400872736
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087273
+ 6\nNetworks: 
+LOCATION:Alfond Stadium \, Orono\, ME
+URL:http://www.espn.com/college-football/game?gameId=400872736
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Richmond Spiders at William & Mary Tribe (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165313Z
+UID:400872760
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087276
+ 0\nNetworks: 
+LOCATION:Zable Stadium\, Williamsburg\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872760
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Towson Tigers at Rhode Island Rams
+DTSTART;VALUE=DATE-TIME:20161119T170000Z
+DTEND;VALUE=DATE-TIME:20161119T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165313Z
+UID:400872744
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087274
+ 4\nNetworks: 
+LOCATION:Meade Stadium\, Kingston\, RI
+URL:http://www.espn.com/college-football/game?gameId=400872744
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stony Brook Seawolves at Albany Great Danes
+DTSTART;VALUE=DATE-TIME:20161119T180000Z
+DTEND;VALUE=DATE-TIME:20161119T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165313Z
+UID:400872705
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087270
+ 5\nNetworks: 
+LOCATION:Bob Ford Field\, Albany\, NY
+URL:http://www.espn.com/college-football/game?gameId=400872705
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Villanova Wildcats at Delaware Blue Hens
+DTSTART;VALUE=DATE-TIME:20161119T180000Z
+DTEND;VALUE=DATE-TIME:20161119T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165313Z
+UID:400872714
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087271
+ 4\nNetworks: 
+LOCATION:Delaware Stadium\, Newark\, DE
+URL:http://www.espn.com/college-football/game?gameId=400872714
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elon Phoenix at James Madison Dukes
+DTSTART;VALUE=DATE-TIME:20161119T183000Z
+DTEND;VALUE=DATE-TIME:20161119T220000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165313Z
+UID:400872722
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087272
+ 2\nNetworks: 
+LOCATION:Bridgeforth Stadium\, Harrisonburg\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872722
+END:VEVENT
+END:VCALENDAR

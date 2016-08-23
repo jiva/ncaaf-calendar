@@ -1,0 +1,996 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ncaaf-calendar//jiva//
+DTSTART;VALUE=DATE-TIME:20160823T165149
+SUMMARY:2016 NCAAF Schedule
+BEGIN:VEVENT
+SUMMARY:North Dakota Fighting Hawks at Stony Brook Seawolves
+DTSTART;VALUE=DATE-TIME:20160901T230000Z
+DTEND;VALUE=DATE-TIME:20160902T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869731
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086973
+ 1\nNetworks: 
+LOCATION:Kenneth P. LaValle Stadium\, Stony Brook\, NY
+URL:http://www.espn.com/college-football/game?gameId=400869731
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Utah Thunderbirds at Utah Utes
+DTSTART;VALUE=DATE-TIME:20160902T000000Z
+DTEND;VALUE=DATE-TIME:20160902T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869091
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086909
+ 1\nNetworks: PAC12
+LOCATION:Rice-Eccles Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869091
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weber State Wildcats at Utah State Aggies
+DTSTART;VALUE=DATE-TIME:20160902T000000Z
+DTEND;VALUE=DATE-TIME:20160902T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869173
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086917
+ 3\nNetworks: 
+LOCATION:Romney Stadium\, Logan\, UT
+URL:http://www.espn.com/college-football/game?gameId=400869173
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Montana State Bobcats at Idaho Vandals
+DTSTART;VALUE=DATE-TIME:20160902T010000Z
+DTEND;VALUE=DATE-TIME:20160902T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869725
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086972
+ 5\nNetworks: ESPN3
+LOCATION:Kibbie Dome\, Moscow\, ID
+URL:http://www.espn.com/college-football/game?gameId=400869725
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cal Poly Mustangs at Nevada Wolf Pack
+DTSTART;VALUE=DATE-TIME:20160903T013000Z
+DTEND;VALUE=DATE-TIME:20160903T050000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869181
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086918
+ 1\nNetworks: 
+LOCATION:Mackay Stadium\, Reno\, NV
+URL:http://www.espn.com/college-football/game?gameId=400869181
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rocky Mountain Bears at Northern Colorado Bears
+DTSTART;VALUE=DATE-TIME:20160903T200000Z
+DTEND;VALUE=DATE-TIME:20160903T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869728
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086972
+ 8\nNetworks: 
+LOCATION:Nottingham Field\, Greeley\, CO
+URL:http://www.espn.com/college-football/game?gameId=400869728
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Simon Fraser Clansmen at Idaho State Bengals
+DTSTART;VALUE=DATE-TIME:20160903T203500Z
+DTEND;VALUE=DATE-TIME:20160904T000500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869726
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086972
+ 6\nNetworks: 
+LOCATION:Holt Arena\, Pocatello\, ID
+URL:http://www.espn.com/college-football/game?gameId=400869726
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UC Davis Aggies at Oregon Ducks
+DTSTART;VALUE=DATE-TIME:20160903T210000Z
+DTEND;VALUE=DATE-TIME:20160904T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869096
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086909
+ 6\nNetworks: PAC12
+LOCATION:Autzen Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869096
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Washington Wildcats at Portland State Vikings
+DTSTART;VALUE=DATE-TIME:20160903T213000Z
+DTEND;VALUE=DATE-TIME:20160904T010000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869729
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086972
+ 9\nNetworks: 
+LOCATION:PROVIDENCE PARK\, Portland\, OR
+URL:http://www.espn.com/college-football/game?gameId=400869729
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eastern Washington Eagles at Washington State Cougars
+DTSTART;VALUE=DATE-TIME:20160904T000000Z
+DTEND;VALUE=DATE-TIME:20160904T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869098
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086909
+ 8\nNetworks: PAC12
+LOCATION:Martin Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869098
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St Francis (PA) Red Flash at Montana Grizzlies
+DTSTART;VALUE=DATE-TIME:20160904T010000Z
+DTEND;VALUE=DATE-TIME:20160904T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869727
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086972
+ 7\nNetworks: 
+LOCATION:Washington Grizzly\, Missoula\, MT
+URL:http://www.espn.com/college-football/game?gameId=400869727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Oregon Wolves at Sacramento State Hornets
+DTSTART;VALUE=DATE-TIME:20160904T010500Z
+DTEND;VALUE=DATE-TIME:20160904T043500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869730
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086973
+ 0\nNetworks: 
+LOCATION:Hornet Stadium\, Sacramento\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869730
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Arizona Lumberjacks at Arizona State Sun Devils
+DTSTART;VALUE=DATE-TIME:20160904T024500Z
+DTEND;VALUE=DATE-TIME:20160904T061500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869095
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086909
+ 5\nNetworks: PAC12
+LOCATION:Sun Devil Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869095
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weber State Wildcats at South Dakota Coyotes
+DTSTART;VALUE=DATE-TIME:20160910T190000Z
+DTEND;VALUE=DATE-TIME:20160910T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869738
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086973
+ 8\nNetworks: 
+LOCATION:DakotaDome\, Vermillion\, SD
+URL:http://www.espn.com/college-football/game?gameId=400869738
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Dakota Fighting Hawks at Bowling Green Falcons
+DTSTART;VALUE=DATE-TIME:20160910T193000Z
+DTEND;VALUE=DATE-TIME:20160910T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869276
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086927
+ 6\nNetworks: ESPN3
+LOCATION:Doyt Perry Stadium\, Bowling Green\, OH
+URL:http://www.espn.com/college-football/game?gameId=400869276
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eastern Washington Eagles at North Dakota State Bison
+DTSTART;VALUE=DATE-TIME:20160910T193000Z
+DTEND;VALUE=DATE-TIME:20160910T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869736
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086973
+ 6\nNetworks: 
+LOCATION:Fargodome\, Fargo\, ND
+URL:http://www.espn.com/college-football/game?gameId=400869736
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bryant Bulldogs at Montana State Bobcats
+DTSTART;VALUE=DATE-TIME:20160910T200000Z
+DTEND;VALUE=DATE-TIME:20160910T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869735
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086973
+ 5\nNetworks: 
+LOCATION:Bobcat Stadium \, Bozeman\, MT
+URL:http://www.espn.com/college-football/game?gameId=400869735
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Arizona Lumberjacks at Western Illinois Leathernecks
+DTSTART;VALUE=DATE-TIME:20160910T200000Z
+DTEND;VALUE=DATE-TIME:20160910T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869741
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086974
+ 1\nNetworks: 
+LOCATION:Hanson Field\, Macomb\, IL
+URL:http://www.espn.com/college-football/game?gameId=400869741
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland State Vikings at San José State Spartans
+DTSTART;VALUE=DATE-TIME:20160910T203000Z
+DTEND;VALUE=DATE-TIME:20160911T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869190
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086919
+ 0\nNetworks: 
+LOCATION:CEFCU Stadium - Home of the Spartans\, San Jose\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869190
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Montana Grizzlies at Northern Iowa Panthers
+DTSTART;VALUE=DATE-TIME:20160910T210000Z
+DTEND;VALUE=DATE-TIME:20160911T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869737
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086973
+ 7\nNetworks: 
+LOCATION:UNI-Dome\, Cedar Falls\, IA
+URL:http://www.espn.com/college-football/game?gameId=400869737
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Idaho State Bengals at Colorado Buffaloes
+DTSTART;VALUE=DATE-TIME:20160910T213000Z
+DTEND;VALUE=DATE-TIME:20160911T010000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869103
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086910
+ 3\nNetworks: 
+LOCATION:Folsom Field
+URL:http://www.espn.com/college-football/game?gameId=400869103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Colorado Bears at Abilene Christian Wildcats
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869733
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086973
+ 3\nNetworks: 
+LOCATION:Shotwell Stadium\, Abilene\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869733
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego Toreros at Cal Poly Mustangs
+DTSTART;VALUE=DATE-TIME:20160910T230500Z
+DTEND;VALUE=DATE-TIME:20160911T023500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869734
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086973
+ 4\nNetworks: 
+LOCATION:Alex G. Spanos Stadium\, San Luis Obispo\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869734
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southeastern Louisiana Lions at Southern Utah Thunderbirds
+DTSTART;VALUE=DATE-TIME:20160911T000000Z
+DTEND;VALUE=DATE-TIME:20160911T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869739
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086973
+ 9\nNetworks: 
+LOCATION:Eccles Coliseum\, Cedar City\, UT
+URL:http://www.espn.com/college-football/game?gameId=400869739
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Oregon Raiders at UC Davis Aggies
+DTSTART;VALUE=DATE-TIME:20160911T010000Z
+DTEND;VALUE=DATE-TIME:20160911T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869740
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086974
+ 0\nNetworks: 
+LOCATION:Aggie Stadium \, Davis\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869740
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sacramento State Hornets at Fresno State Bulldogs
+DTSTART;VALUE=DATE-TIME:20160911T020000Z
+DTEND;VALUE=DATE-TIME:20160911T053000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165150Z
+UID:400869188
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086918
+ 8\nNetworks: 
+LOCATION:Bulldog Stadium \, Fresno\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869188
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Colorado Bears at Colorado State Rams
+DTSTART;VALUE=DATE-TIME:20160917T200000Z
+DTEND;VALUE=DATE-TIME:20160917T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165151Z
+UID:400869191
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086919
+ 1\nNetworks: 
+LOCATION:Hughes Stadium \, Fort Collins\, CO
+URL:http://www.espn.com/college-football/game?gameId=400869191
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UC Davis Aggies at Wyoming Cowboys
+DTSTART;VALUE=DATE-TIME:20160917T200000Z
+DTEND;VALUE=DATE-TIME:20160917T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165151Z
+UID:400869194
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086919
+ 4\nNetworks: 
+LOCATION:War Memorial Stadium \, Laramie\, WY
+URL:http://www.espn.com/college-football/game?gameId=400869194
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Oregon Wolves at Montana State Bobcats
+DTSTART;VALUE=DATE-TIME:20160917T200000Z
+DTEND;VALUE=DATE-TIME:20160917T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165151Z
+UID:400869743
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086974
+ 3\nNetworks: 
+LOCATION:Bobcat Stadium \, Bozeman\, MT
+URL:http://www.espn.com/college-football/game?gameId=400869743
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Dakota Coyotes at North Dakota Fighting Hawks
+DTSTART;VALUE=DATE-TIME:20160917T210000Z
+DTEND;VALUE=DATE-TIME:20160918T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165151Z
+UID:400869744
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086974
+ 4\nNetworks: 
+LOCATION:Alerus Center\, Grand Forks\, ND
+URL:http://www.espn.com/college-football/game?gameId=400869744
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Idaho State Bengals at Oregon State Beavers
+DTSTART;VALUE=DATE-TIME:20160917T210000Z
+DTEND;VALUE=DATE-TIME:20160918T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165151Z
+UID:400869114
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086911
+ 4\nNetworks: PAC12
+LOCATION:Reser Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Mexico Highlands Cowboys at Northern Arizona Lumberjacks
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165151Z
+UID:400869745
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086974
+ 5\nNetworks: 
+LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
+URL:http://www.espn.com/college-football/game?gameId=400869745
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cal Poly Mustangs at South Dakota State Jackrabbits
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165151Z
+UID:400869746
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086974
+ 6\nNetworks: 
+LOCATION:Dana J. Dykhouse Stadium\, Brookings\, SD
+URL:http://www.espn.com/college-football/game?gameId=400869746
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Iowa Panthers at Eastern Washington Eagles
+DTSTART;VALUE=DATE-TIME:20160917T230500Z
+DTEND;VALUE=DATE-TIME:20160918T023500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165151Z
+UID:400869742
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086974
+ 2\nNetworks: 
+LOCATION:Roos Field\, Cheney\, WA
+URL:http://www.espn.com/college-football/game?gameId=400869742
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland State Vikings at Washington Huskies
+DTSTART;VALUE=DATE-TIME:20160918T000000Z
+DTEND;VALUE=DATE-TIME:20160918T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165151Z
+UID:400869115
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086911
+ 5\nNetworks: PAC12
+LOCATION:Husky Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869115
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sacramento State Hornets at Weber State Wildcats
+DTSTART;VALUE=DATE-TIME:20160918T000000Z
+DTEND;VALUE=DATE-TIME:20160918T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165151Z
+UID:400869747
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086974
+ 7\nNetworks: 
+LOCATION:Stewart Stadium\, Ogden\, UT
+URL:http://www.espn.com/college-football/game?gameId=400869747
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Montana Grizzlies at Cal Poly Mustangs
+DTSTART;VALUE=DATE-TIME:20160924T190000Z
+DTEND;VALUE=DATE-TIME:20160924T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165151Z
+UID:400869748
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086974
+ 8\nNetworks: 
+LOCATION:Alex G. Spanos Stadium\, San Luis Obispo\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869748
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Dakota Fighting Hawks at Montana State Bobcats
+DTSTART;VALUE=DATE-TIME:20160924T200000Z
+DTEND;VALUE=DATE-TIME:20160924T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165151Z
+UID:400869750
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086975
+ 0\nNetworks: 
+LOCATION:Bobcat Stadium \, Bozeman\, MT
+URL:http://www.espn.com/college-football/game?gameId=400869750
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sacramento State Hornets at Idaho State Bengals
+DTSTART;VALUE=DATE-TIME:20160924T203500Z
+DTEND;VALUE=DATE-TIME:20160925T000500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165151Z
+UID:400869749
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086974
+ 9\nNetworks: 
+LOCATION:Holt Arena\, Pocatello\, ID
+URL:http://www.espn.com/college-football/game?gameId=400869749
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eastern Washington Eagles at Northern Arizona Lumberjacks
+DTSTART;VALUE=DATE-TIME:20160924T230000Z
+DTEND;VALUE=DATE-TIME:20160925T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165151Z
+UID:400869751
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086975
+ 1\nNetworks: 
+LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
+URL:http://www.espn.com/college-football/game?gameId=400869751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland State Vikings at Southern Utah Thunderbirds
+DTSTART;VALUE=DATE-TIME:20160925T000000Z
+DTEND;VALUE=DATE-TIME:20160925T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165151Z
+UID:400869752
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086975
+ 2\nNetworks: 
+LOCATION:Eccles Coliseum\, Cedar City\, UT
+URL:http://www.espn.com/college-football/game?gameId=400869752
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weber State Wildcats at UC Davis Aggies
+DTSTART;VALUE=DATE-TIME:20160925T010000Z
+DTEND;VALUE=DATE-TIME:20160925T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165151Z
+UID:400869753
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086975
+ 3\nNetworks: 
+LOCATION:Aggie Stadium \, Davis\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869753
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cal Poly Mustangs at North Dakota Fighting Hawks
+DTSTART;VALUE=DATE-TIME:20161001T180000Z
+DTEND;VALUE=DATE-TIME:20161001T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165151Z
+UID:400869756
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086975
+ 6\nNetworks: 
+LOCATION:Alerus Center\, Grand Forks\, ND
+URL:http://www.espn.com/college-football/game?gameId=400869756
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Arizona Lumberjacks at Northern Colorado Bears
+DTSTART;VALUE=DATE-TIME:20161001T190000Z
+DTEND;VALUE=DATE-TIME:20161001T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165151Z
+UID:400869757
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086975
+ 7\nNetworks: 
+LOCATION:Nottingham Field\, Greeley\, CO
+URL:http://www.espn.com/college-football/game?gameId=400869757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UC Davis Aggies at Eastern Washington Eagles
+DTSTART;VALUE=DATE-TIME:20161001T200500Z
+DTEND;VALUE=DATE-TIME:20161001T233500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165151Z
+UID:400869754
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086975
+ 4\nNetworks: 
+LOCATION:Roos Field\, Cheney\, WA
+URL:http://www.espn.com/college-football/game?gameId=400869754
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Utah Thunderbirds at Montana Grizzlies
+DTSTART;VALUE=DATE-TIME:20161001T203000Z
+DTEND;VALUE=DATE-TIME:20161002T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165151Z
+UID:400869755
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086975
+ 5\nNetworks: 
+LOCATION:Washington Grizzly\, Missoula\, MT
+URL:http://www.espn.com/college-football/game?gameId=400869755
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Idaho State Bengals at Portland State Vikings
+DTSTART;VALUE=DATE-TIME:20161001T213000Z
+DTEND;VALUE=DATE-TIME:20161002T010000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165151Z
+UID:400869758
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086975
+ 8\nNetworks: 
+LOCATION:PROVIDENCE PARK\, Portland\, OR
+URL:http://www.espn.com/college-football/game?gameId=400869758
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Montana State Bobcats at Sacramento State Hornets
+DTSTART;VALUE=DATE-TIME:20161002T010000Z
+DTEND;VALUE=DATE-TIME:20161002T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165151Z
+UID:400869799
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086979
+ 9\nNetworks: 
+LOCATION:Hornet Stadium\, Sacramento\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869799
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Colorado Bears at Eastern Washington Eagles
+DTSTART;VALUE=DATE-TIME:20161008T200000Z
+DTEND;VALUE=DATE-TIME:20161008T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165152Z
+UID:400869759
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086975
+ 9\nNetworks: 
+LOCATION:Roos Field\, Cheney\, WA
+URL:http://www.espn.com/college-football/game?gameId=400869759
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mississippi Valley State Delta Devils at Montana Grizzlies
+DTSTART;VALUE=DATE-TIME:20161008T203000Z
+DTEND;VALUE=DATE-TIME:20161009T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165152Z
+UID:400873136
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087313
+ 6\nNetworks: 
+LOCATION:Washington Grizzly\, Missoula\, MT
+URL:http://www.espn.com/college-football/game?gameId=400873136
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Arizona Lumberjacks at Montana State Bobcats
+DTSTART;VALUE=DATE-TIME:20161008T230000Z
+DTEND;VALUE=DATE-TIME:20161009T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165152Z
+UID:400869760
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086976
+ 0\nNetworks: 
+LOCATION:Bobcat Stadium \, Bozeman\, MT
+URL:http://www.espn.com/college-football/game?gameId=400869760
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UC Davis Aggies at Southern Utah Thunderbirds
+DTSTART;VALUE=DATE-TIME:20161009T000000Z
+DTEND;VALUE=DATE-TIME:20161009T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165152Z
+UID:400869762
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086976
+ 2\nNetworks: 
+LOCATION:Eccles Coliseum\, Cedar City\, UT
+URL:http://www.espn.com/college-football/game?gameId=400869762
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland State Vikings at Weber State Wildcats
+DTSTART;VALUE=DATE-TIME:20161009T010000Z
+DTEND;VALUE=DATE-TIME:20161009T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165152Z
+UID:400869763
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086976
+ 3\nNetworks: 
+LOCATION:Stewart Stadium\, Ogden\, UT
+URL:http://www.espn.com/college-football/game?gameId=400869763
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Dakota Fighting Hawks at Sacramento State Hornets
+DTSTART;VALUE=DATE-TIME:20161009T010000Z
+DTEND;VALUE=DATE-TIME:20161009T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165152Z
+UID:400869761
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086976
+ 1\nNetworks: 
+LOCATION:Hornet Stadium\, Sacramento\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869761
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Utah Thunderbirds at North Dakota Fighting Hawks
+DTSTART;VALUE=DATE-TIME:20161015T180000Z
+DTEND;VALUE=DATE-TIME:20161015T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165152Z
+UID:400869765
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086976
+ 5\nNetworks: 
+LOCATION:Alerus Center\, Grand Forks\, ND
+URL:http://www.espn.com/college-football/game?gameId=400869765
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Montana State Bobcats at Weber State Wildcats
+DTSTART;VALUE=DATE-TIME:20161015T193000Z
+DTEND;VALUE=DATE-TIME:20161015T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165152Z
+UID:400869769
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086976
+ 9\nNetworks: 
+LOCATION:Stewart Stadium\, Ogden\, UT
+URL:http://www.espn.com/college-football/game?gameId=400869769
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sacramento State Hornets at Montana Grizzlies
+DTSTART;VALUE=DATE-TIME:20161015T203000Z
+DTEND;VALUE=DATE-TIME:20161016T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165152Z
+UID:400869764
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086976
+ 4\nNetworks: 
+LOCATION:Washington Grizzly\, Missoula\, MT
+URL:http://www.espn.com/college-football/game?gameId=400869764
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cal Poly Mustangs at Portland State Vikings
+DTSTART;VALUE=DATE-TIME:20161015T213000Z
+DTEND;VALUE=DATE-TIME:20161016T010000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165152Z
+UID:400869767
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086976
+ 7\nNetworks: 
+LOCATION:PROVIDENCE PARK\, Portland\, OR
+URL:http://www.espn.com/college-football/game?gameId=400869767
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Colorado Bears at UC Davis Aggies
+DTSTART;VALUE=DATE-TIME:20161015T230000Z
+DTEND;VALUE=DATE-TIME:20161016T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165152Z
+UID:400869768
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086976
+ 8\nNetworks: 
+LOCATION:Aggie Stadium \, Davis\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869768
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Idaho State Bengals at Northern Arizona Lumberjacks
+DTSTART;VALUE=DATE-TIME:20161015T230000Z
+DTEND;VALUE=DATE-TIME:20161016T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165152Z
+UID:400869766
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086976
+ 6\nNetworks: 
+LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
+URL:http://www.espn.com/college-football/game?gameId=400869766
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eastern Washington Eagles at Montana State Bobcats
+DTSTART;VALUE=DATE-TIME:20161022T180000Z
+DTEND;VALUE=DATE-TIME:20161022T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165152Z
+UID:400869772
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086977
+ 2\nNetworks: 
+LOCATION:Bobcat Stadium \, Bozeman\, MT
+URL:http://www.espn.com/college-football/game?gameId=400869772
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sacramento State Hornets at Northern Colorado Bears
+DTSTART;VALUE=DATE-TIME:20161022T190000Z
+DTEND;VALUE=DATE-TIME:20161022T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165152Z
+UID:400869774
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086977
+ 4\nNetworks: 
+LOCATION:Nottingham Field\, Greeley\, CO
+URL:http://www.espn.com/college-football/game?gameId=400869774
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Dakota Fighting Hawks at Idaho State Bengals
+DTSTART;VALUE=DATE-TIME:20161022T203500Z
+DTEND;VALUE=DATE-TIME:20161023T000500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165152Z
+UID:400869771
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086977
+ 1\nNetworks: 
+LOCATION:Holt Arena\, Pocatello\, ID
+URL:http://www.espn.com/college-football/game?gameId=400869771
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Montana Grizzlies at Northern Arizona Lumberjacks
+DTSTART;VALUE=DATE-TIME:20161022T230000Z
+DTEND;VALUE=DATE-TIME:20161023T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165152Z
+UID:400869773
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086977
+ 3\nNetworks: 
+LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
+URL:http://www.espn.com/college-football/game?gameId=400869773
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weber State Wildcats at Southern Utah Thunderbirds
+DTSTART;VALUE=DATE-TIME:20161023T000000Z
+DTEND;VALUE=DATE-TIME:20161023T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165152Z
+UID:400869775
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086977
+ 5\nNetworks: 
+LOCATION:Eccles Coliseum\, Cedar City\, UT
+URL:http://www.espn.com/college-football/game?gameId=400869775
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UC Davis Aggies at Cal Poly Mustangs
+DTSTART;VALUE=DATE-TIME:20161023T010500Z
+DTEND;VALUE=DATE-TIME:20161023T043500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165152Z
+UID:400869770
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086977
+ 0\nNetworks: 
+LOCATION:Alex G. Spanos Stadium\, San Luis Obispo\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869770
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Montana Grizzlies at Eastern Washington Eagles (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161029T160000
+DTEND;VALUE=DATE-TIME:20161029T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165153Z
+UID:400869776
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086977
+ 6\nNetworks: 
+LOCATION:Roos Field\, Cheney\, WA
+URL:http://www.espn.com/college-football/game?gameId=400869776
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weber State Wildcats at North Dakota Fighting Hawks
+DTSTART;VALUE=DATE-TIME:20161029T180000Z
+DTEND;VALUE=DATE-TIME:20161029T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165153Z
+UID:400869778
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086977
+ 8\nNetworks: 
+LOCATION:Alerus Center\, Grand Forks\, ND
+URL:http://www.espn.com/college-football/game?gameId=400869778
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Colorado Bears at Portland State Vikings
+DTSTART;VALUE=DATE-TIME:20161029T193000Z
+DTEND;VALUE=DATE-TIME:20161029T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165153Z
+UID:400869779
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086977
+ 9\nNetworks: 
+LOCATION:PROVIDENCE PARK\, Portland\, OR
+URL:http://www.espn.com/college-football/game?gameId=400869779
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Utah Thunderbirds at Idaho State Bengals
+DTSTART;VALUE=DATE-TIME:20161029T203500Z
+DTEND;VALUE=DATE-TIME:20161030T000500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165153Z
+UID:400869777
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086977
+ 7\nNetworks: 
+LOCATION:Holt Arena\, Pocatello\, ID
+URL:http://www.espn.com/college-football/game?gameId=400869777
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cal Poly Mustangs at Sacramento State Hornets
+DTSTART;VALUE=DATE-TIME:20161030T010000Z
+DTEND;VALUE=DATE-TIME:20161030T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165153Z
+UID:400869780
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086978
+ 0\nNetworks: 
+LOCATION:Hornet Stadium\, Sacramento\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869780
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Idaho State Bengals at Montana Grizzlies (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161105T160000
+DTEND;VALUE=DATE-TIME:20161105T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165153Z
+UID:400869782
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086978
+ 2\nNetworks: 
+LOCATION:Washington Grizzly\, Missoula\, MT
+URL:http://www.espn.com/college-football/game?gameId=400869782
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Montana State Bobcats at Southern Utah Thunderbirds
+DTSTART;VALUE=DATE-TIME:20161105T180000Z
+DTEND;VALUE=DATE-TIME:20161105T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165153Z
+UID:400869784
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086978
+ 4\nNetworks: 
+LOCATION:Eccles Coliseum\, Cedar City\, UT
+URL:http://www.espn.com/college-football/game?gameId=400869784
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Arizona Lumberjacks at Weber State Wildcats
+DTSTART;VALUE=DATE-TIME:20161105T180000Z
+DTEND;VALUE=DATE-TIME:20161105T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165153Z
+UID:400869786
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086978
+ 6\nNetworks: 
+LOCATION:Stewart Stadium\, Ogden\, UT
+URL:http://www.espn.com/college-football/game?gameId=400869786
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Dakota Fighting Hawks at Northern Colorado Bears
+DTSTART;VALUE=DATE-TIME:20161105T180500Z
+DTEND;VALUE=DATE-TIME:20161105T213500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165153Z
+UID:400869783
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086978
+ 3\nNetworks: 
+LOCATION:Nottingham Field\, Greeley\, CO
+URL:http://www.espn.com/college-football/game?gameId=400869783
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland State Vikings at UC Davis Aggies
+DTSTART;VALUE=DATE-TIME:20161105T230000Z
+DTEND;VALUE=DATE-TIME:20161106T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165153Z
+UID:400869785
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086978
+ 5\nNetworks: 
+LOCATION:Aggie Stadium \, Davis\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869785
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eastern Washington Eagles at Cal Poly Mustangs
+DTSTART;VALUE=DATE-TIME:20161106T010500Z
+DTEND;VALUE=DATE-TIME:20161106T043500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165153Z
+UID:400869781
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086978
+ 1\nNetworks: 
+LOCATION:Alex G. Spanos Stadium\, San Luis Obispo\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869781
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Idaho State Bengals at Eastern Washington Eagles (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161112T160000
+DTEND;VALUE=DATE-TIME:20161112T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165153Z
+UID:400869787
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086978
+ 7\nNetworks: 
+LOCATION:Roos Field\, Cheney\, WA
+URL:http://www.espn.com/college-football/game?gameId=400869787
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UC Davis Aggies at Montana State Bobcats (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161112T160000
+DTEND;VALUE=DATE-TIME:20161112T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165153Z
+UID:400869788
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086978
+ 8\nNetworks: 
+LOCATION:Bobcat Stadium \, Bozeman\, MT
+URL:http://www.espn.com/college-football/game?gameId=400869788
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Arizona Lumberjacks at North Dakota Fighting Hawks
+DTSTART;VALUE=DATE-TIME:20161112T190000Z
+DTEND;VALUE=DATE-TIME:20161112T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165153Z
+UID:400869789
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086978
+ 9\nNetworks: 
+LOCATION:Alerus Center\, Grand Forks\, ND
+URL:http://www.espn.com/college-football/game?gameId=400869789
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Montana Grizzlies at Northern Colorado Bears
+DTSTART;VALUE=DATE-TIME:20161112T190000Z
+DTEND;VALUE=DATE-TIME:20161112T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165153Z
+UID:400869790
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086979
+ 0\nNetworks: 
+LOCATION:Nottingham Field\, Greeley\, CO
+URL:http://www.espn.com/college-football/game?gameId=400869790
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cal Poly Mustangs at Weber State Wildcats
+DTSTART;VALUE=DATE-TIME:20161112T190000Z
+DTEND;VALUE=DATE-TIME:20161112T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165153Z
+UID:400869792
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086979
+ 2\nNetworks: 
+LOCATION:Stewart Stadium\, Ogden\, UT
+URL:http://www.espn.com/college-football/game?gameId=400869792
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Utah Thunderbirds at BYU Cougars
+DTSTART;VALUE=DATE-TIME:20161112T200000Z
+DTEND;VALUE=DATE-TIME:20161112T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165153Z
+UID:400868931
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086893
+ 1\nNetworks: 
+LOCATION:LaVell Edwards Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868931
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland State Vikings at Sacramento State Hornets
+DTSTART;VALUE=DATE-TIME:20161113T020000Z
+DTEND;VALUE=DATE-TIME:20161113T053000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165153Z
+UID:400869791
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086979
+ 1\nNetworks: 
+LOCATION:Hornet Stadium\, Sacramento\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869791
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eastern Washington Eagles at Portland State Vikings
+DTSTART;VALUE=DATE-TIME:20161119T030000Z
+DTEND;VALUE=DATE-TIME:20161119T063000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165154Z
+UID:400869797
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086979
+ 7\nNetworks: 
+LOCATION:PROVIDENCE PARK\, Portland\, OR
+URL:http://www.espn.com/college-football/game?gameId=400869797
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sacramento State Hornets at UC Davis Aggies (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165154Z
+UID:400869798
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086979
+ 8\nNetworks: 
+LOCATION:Aggie Stadium \, Davis\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869798
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Montana State Bobcats at Montana Grizzlies (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165154Z
+UID:400869795
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086979
+ 5\nNetworks: 
+LOCATION:Washington Grizzly\, Missoula\, MT
+URL:http://www.espn.com/college-football/game?gameId=400869795
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weber State Wildcats at Idaho State Bengals
+DTSTART;VALUE=DATE-TIME:20161119T213000Z
+DTEND;VALUE=DATE-TIME:20161120T010000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165154Z
+UID:400869794
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086979
+ 4\nNetworks: 
+LOCATION:Holt Arena\, Pocatello\, ID
+URL:http://www.espn.com/college-football/game?gameId=400869794
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Utah Thunderbirds at Northern Arizona Lumberjacks
+DTSTART;VALUE=DATE-TIME:20161119T220000Z
+DTEND;VALUE=DATE-TIME:20161120T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165154Z
+UID:400869796
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086979
+ 6\nNetworks: 
+LOCATION:J. Lawrence Walkup Skydome\, Flagstaff\, AZ
+URL:http://www.espn.com/college-football/game?gameId=400869796
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Colorado Bears at Cal Poly Mustangs
+DTSTART;VALUE=DATE-TIME:20161120T020500Z
+DTEND;VALUE=DATE-TIME:20161120T053500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165154Z
+UID:400869793
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086979
+ 3\nNetworks: 
+LOCATION:Alex G. Spanos Stadium\, San Luis Obispo\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869793
+END:VEVENT
+END:VCALENDAR

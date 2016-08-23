@@ -1,0 +1,831 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ncaaf-calendar//jiva//
+DTSTART;VALUE=DATE-TIME:20160823T165215
+SUMMARY:2016 NCAAF Schedule
+BEGIN:VEVENT
+SUMMARY:Northwestern State Demons at Baylor Bears
+DTSTART;VALUE=DATE-TIME:20160902T233000Z
+DTEND;VALUE=DATE-TIME:20160903T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165216Z
+UID:400868876
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086887
+ 6\nNetworks: 
+LOCATION:McLane Stadium\, Waco\, TX
+URL:http://www.espn.com/college-football/game?gameId=400868876
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas State Wildcats at Stanford Cardinal
+DTSTART;VALUE=DATE-TIME:20160903T010000Z
+DTEND;VALUE=DATE-TIME:20160903T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165216Z
+UID:400869094
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086909
+ 4\nNetworks: FS1
+LOCATION:Stanford Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869094
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oklahoma Sooners vs Houston Cougars
+DTSTART;VALUE=DATE-TIME:20160903T160000Z
+DTEND;VALUE=DATE-TIME:20160903T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165216Z
+UID:400869507
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086950
+ 7\nNetworks: ABC\,WatchESPN
+LOCATION:NRG Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869507
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Missouri Tigers at West Virginia Mountaineers
+DTSTART;VALUE=DATE-TIME:20160903T160000Z
+DTEND;VALUE=DATE-TIME:20160903T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165216Z
+UID:400868976
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086897
+ 6\nNetworks: FS1
+LOCATION:Milan Puskar Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868976
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southeastern Louisiana Lions at Oklahoma State Cowboys
+DTSTART;VALUE=DATE-TIME:20160903T193000Z
+DTEND;VALUE=DATE-TIME:20160903T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165216Z
+UID:400869619
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086961
+ 9\nNetworks: 
+LOCATION:Boone Pickens Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869619
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhode Island Rams at Kansas Jayhawks
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165216Z
+UID:400869597
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086959
+ 7\nNetworks: ESPN3
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869597
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Iowa Panthers at Iowa State Cyclones
+DTSTART;VALUE=DATE-TIME:20160904T000000Z
+DTEND;VALUE=DATE-TIME:20160904T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165216Z
+UID:400868887
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086888
+ 7\nNetworks: 
+LOCATION:Jack Trice Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868887
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Dakota State Jackrabbits at TCU Horned Frogs
+DTSTART;VALUE=DATE-TIME:20160904T000000Z
+DTEND;VALUE=DATE-TIME:20160904T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165216Z
+UID:400869624
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086962
+ 4\nNetworks: 
+LOCATION:Amon G. Carter Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stephen F Austin Lumberjacks at Texas Tech Red Raiders
+DTSTART;VALUE=DATE-TIME:20160904T000000Z
+DTEND;VALUE=DATE-TIME:20160904T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165216Z
+UID:400869625
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086962
+ 5\nNetworks: 
+LOCATION:Jones AT&T\; Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869625
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Notre Dame Fighting Irish at Texas Longhorns
+DTSTART;VALUE=DATE-TIME:20160904T233000Z
+DTEND;VALUE=DATE-TIME:20160905T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165216Z
+UID:400868946
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086894
+ 6\nNetworks: ABC\,WatchESPN
+LOCATION:Royal Texas Memorial Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Michigan Chippewas at Oklahoma State Cowboys
+DTSTART;VALUE=DATE-TIME:20160910T160000Z
+DTEND;VALUE=DATE-TIME:20160910T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165216Z
+UID:400869270
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086927
+ 0\nNetworks: FS1
+LOCATION:Boone Pickens Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869270
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Youngstown State Penguins at West Virginia Mountaineers
+DTSTART;VALUE=DATE-TIME:20160910T180000Z
+DTEND;VALUE=DATE-TIME:20160910T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165216Z
+UID:400869626
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086962
+ 6\nNetworks: 
+LOCATION:Milan Puskar Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869626
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ohio Bobcats at Kansas Jayhawks
+DTSTART;VALUE=DATE-TIME:20160910T183000Z
+DTEND;VALUE=DATE-TIME:20160910T220000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165216Z
+UID:400869277
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086927
+ 7\nNetworks: FSN
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869277
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMU Mustangs at Baylor Bears
+DTSTART;VALUE=DATE-TIME:20160910T193000Z
+DTEND;VALUE=DATE-TIME:20160910T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165216Z
+UID:400868877
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086887
+ 7\nNetworks: FS1
+LOCATION:McLane Stadium\, Waco\, TX
+URL:http://www.espn.com/college-football/game?gameId=400868877
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arkansas Razorbacks at TCU Horned Frogs
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165216Z
+UID:400868981
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086898
+ 1\nNetworks: ESPN\,ESPN2\,WatchESPN
+LOCATION:Amon G. Carter Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868981
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UTEP Miners at Texas Longhorns
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165216Z
+UID:400869357
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086935
+ 7\nNetworks: LHN\,WatchESPN
+LOCATION:Royal Texas Memorial Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869357
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Monroe Warhawks at Oklahoma Sooners
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165216Z
+UID:400869612
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086961
+ 2\nNetworks: 
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869612
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iowa State Cyclones at Iowa Hawkeyes
+DTSTART;VALUE=DATE-TIME:20160910T233000Z
+DTEND;VALUE=DATE-TIME:20160911T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165216Z
+UID:400868888
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086888
+ 8\nNetworks: BTN
+LOCATION:Kinnick Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868888
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas Tech Red Raiders at Arizona State Sun Devils
+DTSTART;VALUE=DATE-TIME:20160911T020000Z
+DTEND;VALUE=DATE-TIME:20160911T053000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165216Z
+UID:400869100
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086910
+ 0\nNetworks: FS1
+LOCATION:Sun Devil Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869100
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baylor Bears at Rice Owls
+DTSTART;VALUE=DATE-TIME:20160917T000000Z
+DTEND;VALUE=DATE-TIME:20160917T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165217Z
+UID:400869361
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086936
+ 1\nNetworks: ESPN\,WatchESPN
+LOCATION:Rice Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869361
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas Jayhawks at Memphis Tigers
+DTSTART;VALUE=DATE-TIME:20160917T160000Z
+DTEND;VALUE=DATE-TIME:20160917T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165217Z
+UID:400869520
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086952
+ 0\nNetworks: ESPNU\,WatchESPN
+LOCATION:Liberty Bowl Memorial Stadium\, Memphis\, TN
+URL:http://www.espn.com/college-football/game?gameId=400869520
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iowa State Cyclones at TCU Horned Frogs
+DTSTART;VALUE=DATE-TIME:20160917T160000Z
+DTEND;VALUE=DATE-TIME:20160917T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165217Z
+UID:400868889
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086888
+ 9\nNetworks: FS1
+LOCATION:Amon G. Carter Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868889
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Florida Atlantic Owls at Kansas State Wildcats
+DTSTART;VALUE=DATE-TIME:20160917T183000Z
+DTEND;VALUE=DATE-TIME:20160917T220000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165217Z
+UID:400869358
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086935
+ 8\nNetworks: 
+LOCATION:Bill Snyder Family Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869358
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pittsburgh Panthers at Oklahoma State Cowboys
+DTSTART;VALUE=DATE-TIME:20160917T193000Z
+DTEND;VALUE=DATE-TIME:20160917T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165217Z
+UID:400869442
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086944
+ 2\nNetworks: ESPN\,WatchESPN
+LOCATION:Boone Pickens Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869442
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Tech Bulldogs at Texas Tech Red Raiders
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165217Z
+UID:400869359
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086935
+ 9\nNetworks: 
+LOCATION:Jones AT&T\; Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869359
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ohio State Buckeyes at Oklahoma Sooners
+DTSTART;VALUE=DATE-TIME:20160917T233000Z
+DTEND;VALUE=DATE-TIME:20160918T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165217Z
+UID:400869613
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086961
+ 3\nNetworks: FOX
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869613
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas Longhorns at California Golden Bears
+DTSTART;VALUE=DATE-TIME:20160918T023000Z
+DTEND;VALUE=DATE-TIME:20160918T060000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165217Z
+UID:400869117
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086911
+ 7\nNetworks: ESPN\,ESPN2\,WatchESPN
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869117
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TCU Horned Frogs at SMU Mustangs
+DTSTART;VALUE=DATE-TIME:20160924T000000Z
+DTEND;VALUE=DATE-TIME:20160924T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165217Z
+UID:400869524
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086952
+ 4\nNetworks: ESPN\,WatchESPN
+LOCATION:Gerald J. Ford Stadium\, Dallas\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oklahoma State Cowboys at Baylor Bears (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165217Z
+UID:400868878
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086887
+ 8\nNetworks: 
+LOCATION:McLane Stadium\, Waco\, TX
+URL:http://www.espn.com/college-football/game?gameId=400868878
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Virginia Mountaineers vs BYU Cougars (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165217Z
+UID:400868925
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086892
+ 5\nNetworks: 
+LOCATION:FedExField\, Landover\, MD
+URL:http://www.espn.com/college-football/game?gameId=400868925
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San José State Spartans at Iowa State Cyclones
+DTSTART;VALUE=DATE-TIME:20160924T160000Z
+DTEND;VALUE=DATE-TIME:20160924T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165217Z
+UID:400869204
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086920
+ 4\nNetworks: 
+LOCATION:Jack Trice Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869204
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Missouri State Bears at Kansas State Wildcats
+DTSTART;VALUE=DATE-TIME:20160924T231000Z
+DTEND;VALUE=DATE-TIME:20160925T024000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165217Z
+UID:400869605
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086960
+ 5\nNetworks: 
+LOCATION:Bill Snyder Family Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869605
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas Jayhawks at Texas Tech Red Raiders
+DTSTART;VALUE=DATE-TIME:20160930T003000Z
+DTEND;VALUE=DATE-TIME:20160930T040000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165218Z
+UID:400869598
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086959
+ 8\nNetworks: FS1
+LOCATION:Jones AT&T\; Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869598
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas State Wildcats at West Virginia Mountaineers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161001T160000
+DTEND;VALUE=DATE-TIME:20161001T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165218Z
+UID:400869606
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086960
+ 6\nNetworks: 
+LOCATION:Milan Puskar Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869606
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oklahoma Sooners at TCU Horned Frogs (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161001T160000
+DTEND;VALUE=DATE-TIME:20161001T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165218Z
+UID:400869614
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086961
+ 4\nNetworks: 
+LOCATION:Amon G. Carter Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869614
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas Longhorns at Oklahoma State Cowboys (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161001T160000
+DTEND;VALUE=DATE-TIME:20161001T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165218Z
+UID:400869620
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086962
+ 0\nNetworks: 
+LOCATION:Boone Pickens Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869620
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baylor Bears at Iowa State Cyclones (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161001T160000
+DTEND;VALUE=DATE-TIME:20161001T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165218Z
+UID:400868879
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086887
+ 9\nNetworks: 
+LOCATION:Jack Trice Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868879
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iowa State Cyclones at Oklahoma State Cowboys (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161008T160000
+DTEND;VALUE=DATE-TIME:20161008T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165218Z
+UID:400869590
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086959
+ 0\nNetworks: 
+LOCATION:Boone Pickens Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869590
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TCU Horned Frogs at Kansas Jayhawks (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161008T160000
+DTEND;VALUE=DATE-TIME:20161008T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165218Z
+UID:400869599
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086959
+ 9\nNetworks: 
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869599
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas Tech Red Raiders at Kansas State Wildcats (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161008T160000
+DTEND;VALUE=DATE-TIME:20161008T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165218Z
+UID:400869607
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086960
+ 7\nNetworks: 
+LOCATION:Bill Snyder Family Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869607
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas Longhorns vs Oklahoma Sooners (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161008T160000
+DTEND;VALUE=DATE-TIME:20161008T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165218Z
+UID:400869615
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086961
+ 5\nNetworks: FS1
+LOCATION:Cotton Bowl\, Dallas\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869615
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas Jayhawks at Baylor Bears (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161015T160000
+DTEND;VALUE=DATE-TIME:20161015T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165218Z
+UID:400868880
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086888
+ 0\nNetworks: 
+LOCATION:McLane Stadium\, Waco\, TX
+URL:http://www.espn.com/college-football/game?gameId=400868880
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iowa State Cyclones at Texas Longhorns (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161015T160000
+DTEND;VALUE=DATE-TIME:20161015T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165218Z
+UID:400869591
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086959
+ 1\nNetworks: LHN\,WatchESPN
+LOCATION:Royal Texas Memorial Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869591
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas State Wildcats at Oklahoma Sooners (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161015T160000
+DTEND;VALUE=DATE-TIME:20161015T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165218Z
+UID:400869608
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086960
+ 8\nNetworks: 
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869608
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Virginia Mountaineers at Texas Tech Red Raiders (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161015T160000
+DTEND;VALUE=DATE-TIME:20161015T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165218Z
+UID:400869627
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086962
+ 7\nNetworks: 
+LOCATION:Jones AT&T\; Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869627
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oklahoma State Cowboys at Kansas Jayhawks (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161022T160000
+DTEND;VALUE=DATE-TIME:20161022T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165218Z
+UID:400869600
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086960
+ 0\nNetworks: 
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas Longhorns at Kansas State Wildcats (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161022T160000
+DTEND;VALUE=DATE-TIME:20161022T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165218Z
+UID:400869609
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086960
+ 9\nNetworks: 
+LOCATION:Bill Snyder Family Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869609
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oklahoma Sooners at Texas Tech Red Raiders (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161022T160000
+DTEND;VALUE=DATE-TIME:20161022T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165218Z
+UID:400869616
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086961
+ 6\nNetworks: 
+LOCATION:Jones AT&T\; Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869616
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TCU Horned Frogs at West Virginia Mountaineers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161022T160000
+DTEND;VALUE=DATE-TIME:20161022T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165218Z
+UID:400869628
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086962
+ 8\nNetworks: 
+LOCATION:Milan Puskar Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869628
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baylor Bears at Texas Longhorns (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161029T160000
+DTEND;VALUE=DATE-TIME:20161029T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165219Z
+UID:400868881
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086888
+ 1\nNetworks: 
+LOCATION:Royal Texas Memorial Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868881
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas State Wildcats at Iowa State Cyclones (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161029T160000
+DTEND;VALUE=DATE-TIME:20161029T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165219Z
+UID:400869592
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086959
+ 2\nNetworks: 
+LOCATION:Jack Trice Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869592
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas Jayhawks at Oklahoma Sooners (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161029T160000
+DTEND;VALUE=DATE-TIME:20161029T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165219Z
+UID:400869601
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086960
+ 1\nNetworks: 
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869601
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Virginia Mountaineers at Oklahoma State Cowboys (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161029T160000
+DTEND;VALUE=DATE-TIME:20161029T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165219Z
+UID:400869621
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086962
+ 1\nNetworks: 
+LOCATION:Boone Pickens Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas Tech Red Raiders at TCU Horned Frogs (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161029T160000
+DTEND;VALUE=DATE-TIME:20161029T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165219Z
+UID:400869629
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086962
+ 9\nNetworks: 
+LOCATION:Amon G. Carter Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869629
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oklahoma Sooners at Iowa State Cyclones
+DTSTART;VALUE=DATE-TIME:20161103T233000Z
+DTEND;VALUE=DATE-TIME:20161104T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165219Z
+UID:400869593
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086959
+ 3\nNetworks: ESPN\,WatchESPN
+LOCATION:Jack Trice Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869593
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas Jayhawks at West Virginia Mountaineers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161105T160000
+DTEND;VALUE=DATE-TIME:20161105T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165219Z
+UID:400869602
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086960
+ 2\nNetworks: 
+LOCATION:Milan Puskar Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869602
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oklahoma State Cowboys at Kansas State Wildcats (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161105T160000
+DTEND;VALUE=DATE-TIME:20161105T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165219Z
+UID:400869610
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086961
+ 0\nNetworks: 
+LOCATION:Bill Snyder Family Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869610
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas Longhorns at Texas Tech Red Raiders (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161105T160000
+DTEND;VALUE=DATE-TIME:20161105T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165219Z
+UID:400869630
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086963
+ 0\nNetworks: 
+LOCATION:Jones AT&T\; Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869630
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TCU Horned Frogs at Baylor Bears (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161105T160000
+DTEND;VALUE=DATE-TIME:20161105T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165219Z
+UID:400868882
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086888
+ 2\nNetworks: 
+LOCATION:McLane Stadium\, Waco\, TX
+URL:http://www.espn.com/college-football/game?gameId=400868882
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baylor Bears at Oklahoma Sooners (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161112T160000
+DTEND;VALUE=DATE-TIME:20161112T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165220Z
+UID:400868883
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086888
+ 3\nNetworks: 
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400868883
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iowa State Cyclones at Kansas Jayhawks (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161112T160000
+DTEND;VALUE=DATE-TIME:20161112T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165220Z
+UID:400869594
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086959
+ 4\nNetworks: 
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869594
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas Tech Red Raiders at Oklahoma State Cowboys (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161112T160000
+DTEND;VALUE=DATE-TIME:20161112T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165220Z
+UID:400869622
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086962
+ 2\nNetworks: 
+LOCATION:Boone Pickens Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Virginia Mountaineers at Texas Longhorns (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161112T160000
+DTEND;VALUE=DATE-TIME:20161112T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165220Z
+UID:400869631
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086963
+ 1\nNetworks: 
+LOCATION:Royal Texas Memorial Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869631
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas State Wildcats at Baylor Bears (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165220Z
+UID:400868884
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086888
+ 4\nNetworks: 
+LOCATION:McLane Stadium\, Waco\, TX
+URL:http://www.espn.com/college-football/game?gameId=400868884
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas Tech Red Raiders at Iowa State Cyclones (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165220Z
+UID:400869595
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086959
+ 5\nNetworks: 
+LOCATION:Jack Trice Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869595
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas Longhorns at Kansas Jayhawks (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165220Z
+UID:400869603
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086960
+ 3\nNetworks: 
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869603
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oklahoma Sooners at West Virginia Mountaineers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165220Z
+UID:400869617
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086961
+ 7\nNetworks: 
+LOCATION:Milan Puskar Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869617
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oklahoma State Cowboys at TCU Horned Frogs (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165220Z
+UID:400869623
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086962
+ 3\nNetworks: 
+LOCATION:Amon G. Carter Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869623
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TCU Horned Frogs at Texas Longhorns
+DTSTART;VALUE=DATE-TIME:20161125T203000Z
+DTEND;VALUE=DATE-TIME:20161126T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165221Z
+UID:400869632
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086963
+ 2\nNetworks: 
+LOCATION:Royal Texas Memorial Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869632
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baylor Bears vs Texas Tech Red Raiders
+DTSTART;VALUE=DATE-TIME:20161125T230000Z
+DTEND;VALUE=DATE-TIME:20161126T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165221Z
+UID:400868885
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086888
+ 5\nNetworks: ESPN\,WatchESPN
+LOCATION:AT&T\; Stadium\, Arlington\, TX
+URL:http://www.espn.com/college-football/game?gameId=400868885
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Virginia Mountaineers at Iowa State Cyclones (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161126T160000
+DTEND;VALUE=DATE-TIME:20161126T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165221Z
+UID:400869596
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086959
+ 6\nNetworks: 
+LOCATION:Jack Trice Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869596
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas Jayhawks at Kansas State Wildcats (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161126T160000
+DTEND;VALUE=DATE-TIME:20161126T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165221Z
+UID:400869604
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086960
+ 4\nNetworks: 
+LOCATION:Bill Snyder Family Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869604
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baylor Bears at West Virginia Mountaineers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161203T160000
+DTEND;VALUE=DATE-TIME:20161203T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165221Z
+UID:400868886
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086888
+ 6\nNetworks: 
+LOCATION:Milan Puskar Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868886
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kansas State Wildcats at TCU Horned Frogs (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161203T160000
+DTEND;VALUE=DATE-TIME:20161203T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165221Z
+UID:400869611
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086961
+ 1\nNetworks: 
+LOCATION:Amon G. Carter Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869611
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oklahoma State Cowboys at Oklahoma Sooners (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161203T160000
+DTEND;VALUE=DATE-TIME:20161203T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165221Z
+UID:400869618
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086961
+ 8\nNetworks: 
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869618
+END:VEVENT
+END:VCALENDAR

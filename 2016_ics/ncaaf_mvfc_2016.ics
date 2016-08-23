@@ -1,0 +1,777 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ncaaf-calendar//jiva//
+DTSTART;VALUE=DATE-TIME:20160823T165303
+SUMMARY:2016 NCAAF Schedule
+BEGIN:VEVENT
+SUMMARY:Charleston Southern Buccaneers at North Dakota State Bison
+DTSTART;VALUE=DATE-TIME:20160827T233000Z
+DTEND;VALUE=DATE-TIME:20160828T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165304Z
+UID:400873307
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087330
+ 7\nNetworks: ESPN\,WatchESPN
+LOCATION:Fargodome\, Fargo\, ND
+URL:http://www.espn.com/college-football/game?gameId=400873307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southwestern College Moundbuilders at Missouri State Bears
+DTSTART;VALUE=DATE-TIME:20160901T230000Z
+DTEND;VALUE=DATE-TIME:20160902T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165304Z
+UID:400871358
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087135
+ 8\nNetworks: 
+LOCATION:Plaster Sports Complex\, Springfield\, MO
+URL:http://www.espn.com/college-football/game?gameId=400871358
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Illinois Leathernecks at Eastern Illinois Panthers
+DTSTART;VALUE=DATE-TIME:20160901T230000Z
+DTEND;VALUE=DATE-TIME:20160902T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165304Z
+UID:400871388
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087138
+ 8\nNetworks: 
+LOCATION:O'Brien Stadium\, Charleston\, IL
+URL:http://www.espn.com/college-football/game?gameId=400871388
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Duquesne Dukes at Youngstown State Penguins
+DTSTART;VALUE=DATE-TIME:20160901T233000Z
+DTEND;VALUE=DATE-TIME:20160902T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165304Z
+UID:400871389
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087138
+ 9\nNetworks: 
+LOCATION:Stambaugh Stadium\, Youngstown\, OH
+URL:http://www.espn.com/college-football/game?gameId=400871389
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Dakota Coyotes at New Mexico Lobos
+DTSTART;VALUE=DATE-TIME:20160902T010000Z
+DTEND;VALUE=DATE-TIME:20160902T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165304Z
+UID:400869177
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086917
+ 7\nNetworks: 
+LOCATION:University Stadium \, Albuquerque\, NM
+URL:http://www.espn.com/college-football/game?gameId=400869177
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Butler Bulldogs at Indiana State Sycamores
+DTSTART;VALUE=DATE-TIME:20160903T190000Z
+DTEND;VALUE=DATE-TIME:20160903T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165304Z
+UID:400871349
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087134
+ 9\nNetworks: 
+LOCATION:Memorial Stadium \, Terre Haute\, IN
+URL:http://www.espn.com/college-football/game?gameId=400871349
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Illinois Salukis at Florida Atlantic Owls
+DTSTART;VALUE=DATE-TIME:20160903T220000Z
+DTEND;VALUE=DATE-TIME:20160904T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165304Z
+UID:400869343
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086934
+ 3\nNetworks: 
+LOCATION:FAU Football Stadium\, Boca Raton\, FL
+URL:http://www.espn.com/college-football/game?gameId=400869343
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valparaiso Crusaders at Illinois State Redbirds
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165304Z
+UID:400871339
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087133
+ 9\nNetworks: 
+LOCATION:Hancock Stadium\, Normal\, IL
+URL:http://www.espn.com/college-football/game?gameId=400871339
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Iowa Panthers at Iowa State Cyclones
+DTSTART;VALUE=DATE-TIME:20160904T000000Z
+DTEND;VALUE=DATE-TIME:20160904T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165304Z
+UID:400868887
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086888
+ 7\nNetworks: 
+LOCATION:Jack Trice Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868887
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Dakota State Jackrabbits at TCU Horned Frogs
+DTSTART;VALUE=DATE-TIME:20160904T000000Z
+DTEND;VALUE=DATE-TIME:20160904T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165304Z
+UID:400869624
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086962
+ 4\nNetworks: 
+LOCATION:Amon G. Carter Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana State Sycamores at Minnesota Golden Gophers
+DTSTART;VALUE=DATE-TIME:20160910T160000Z
+DTEND;VALUE=DATE-TIME:20160910T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165304Z
+UID:400869654
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086965
+ 4\nNetworks: ESPNN\,WatchESPN
+LOCATION:TCF Bank Stadium\, Minneapolis\, MN
+URL:http://www.espn.com/college-football/game?gameId=400869654
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Youngstown State Penguins at West Virginia Mountaineers
+DTSTART;VALUE=DATE-TIME:20160910T180000Z
+DTEND;VALUE=DATE-TIME:20160910T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165304Z
+UID:400869626
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086962
+ 6\nNetworks: 
+LOCATION:Milan Puskar Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869626
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weber State Wildcats at South Dakota Coyotes
+DTSTART;VALUE=DATE-TIME:20160910T190000Z
+DTEND;VALUE=DATE-TIME:20160910T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165304Z
+UID:400869738
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086973
+ 8\nNetworks: 
+LOCATION:DakotaDome\, Vermillion\, SD
+URL:http://www.espn.com/college-football/game?gameId=400869738
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Illinois State Redbirds at Northwestern Wildcats
+DTSTART;VALUE=DATE-TIME:20160910T193000Z
+DTEND;VALUE=DATE-TIME:20160910T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165304Z
+UID:400869655
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086965
+ 5\nNetworks: BTN
+LOCATION:Ryan Field
+URL:http://www.espn.com/college-football/game?gameId=400869655
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eastern Washington Eagles at North Dakota State Bison
+DTSTART;VALUE=DATE-TIME:20160910T193000Z
+DTEND;VALUE=DATE-TIME:20160910T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165304Z
+UID:400869736
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086973
+ 6\nNetworks: 
+LOCATION:Fargodome\, Fargo\, ND
+URL:http://www.espn.com/college-football/game?gameId=400869736
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Arizona Lumberjacks at Western Illinois Leathernecks
+DTSTART;VALUE=DATE-TIME:20160910T200000Z
+DTEND;VALUE=DATE-TIME:20160910T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165304Z
+UID:400869741
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086974
+ 1\nNetworks: 
+LOCATION:Hanson Field\, Macomb\, IL
+URL:http://www.espn.com/college-football/game?gameId=400869741
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Montana Grizzlies at Northern Iowa Panthers
+DTSTART;VALUE=DATE-TIME:20160910T210000Z
+DTEND;VALUE=DATE-TIME:20160911T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165304Z
+UID:400869737
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086973
+ 7\nNetworks: 
+LOCATION:UNI-Dome\, Cedar Falls\, IA
+URL:http://www.espn.com/college-football/game?gameId=400869737
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Missouri State Bears at Murray State Racers
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165304Z
+UID:400871359
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087135
+ 9\nNetworks: 
+LOCATION:Roy Stewart Stadium\, Murray\, KY
+URL:http://www.espn.com/college-football/game?gameId=400871359
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drake Bulldogs at South Dakota State Jackrabbits
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165304Z
+UID:400871376
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087137
+ 6\nNetworks: 
+LOCATION:Dana J. Dykhouse Stadium\, Brookings\, SD
+URL:http://www.espn.com/college-football/game?gameId=400871376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southeast Missouri State Redhawks at Southern Illinois Salukis
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165304Z
+UID:400871384
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087138
+ 4\nNetworks: 
+LOCATION:Saluki Stadium\, Carbondale\, IL
+URL:http://www.espn.com/college-football/game?gameId=400871384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Dakota State Bison at Iowa Hawkeyes
+DTSTART;VALUE=DATE-TIME:20160917T160000Z
+DTEND;VALUE=DATE-TIME:20160917T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165305Z
+UID:400869656
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086965
+ 6\nNetworks: ESPN\,ESPN2\,WatchESPN
+LOCATION:Kinnick Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869656
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eastern Illinois Panthers at Illinois State Redbirds
+DTSTART;VALUE=DATE-TIME:20160917T190000Z
+DTEND;VALUE=DATE-TIME:20160917T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165305Z
+UID:400871340
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087134
+ 0\nNetworks: 
+LOCATION:Hancock Stadium\, Normal\, IL
+URL:http://www.espn.com/college-football/game?gameId=400871340
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robert Morris Colonials at Youngstown State Penguins
+DTSTART;VALUE=DATE-TIME:20160917T200000Z
+DTEND;VALUE=DATE-TIME:20160917T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165305Z
+UID:400871390
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087139
+ 0\nNetworks: 
+LOCATION:Stambaugh Stadium\, Youngstown\, OH
+URL:http://www.espn.com/college-football/game?gameId=400871390
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Dakota Coyotes at North Dakota Fighting Hawks
+DTSTART;VALUE=DATE-TIME:20160917T210000Z
+DTEND;VALUE=DATE-TIME:20160918T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165305Z
+UID:400869744
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086974
+ 4\nNetworks: 
+LOCATION:Alerus Center\, Grand Forks\, ND
+URL:http://www.espn.com/college-football/game?gameId=400869744
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cal Poly Mustangs at South Dakota State Jackrabbits
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165305Z
+UID:400869746
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086974
+ 6\nNetworks: 
+LOCATION:Dana J. Dykhouse Stadium\, Brookings\, SD
+URL:http://www.espn.com/college-football/game?gameId=400869746
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana State Sycamores at Southeast Missouri State Redhawks
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165305Z
+UID:400871350
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087135
+ 0\nNetworks: 
+LOCATION:Houck Stadium\, Cape Girardeau\, MO
+URL:http://www.espn.com/college-football/game?gameId=400871350
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Murray State Racers at Southern Illinois Salukis
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165305Z
+UID:400871385
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087138
+ 5\nNetworks: 
+LOCATION:Saluki Stadium\, Carbondale\, IL
+URL:http://www.espn.com/college-football/game?gameId=400871385
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Iowa Panthers at Eastern Washington Eagles
+DTSTART;VALUE=DATE-TIME:20160917T230500Z
+DTEND;VALUE=DATE-TIME:20160918T023500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165305Z
+UID:400869742
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086974
+ 2\nNetworks: 
+LOCATION:Roos Field\, Cheney\, WA
+URL:http://www.espn.com/college-football/game?gameId=400869742
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Illinois Leathernecks at Northern Illinois Huskies (TIME T
+ BD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165305Z
+UID:400869292
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086929
+ 2\nNetworks: 
+LOCATION:Huskie Stadium\, DeKalb\, IL
+URL:http://www.espn.com/college-football/game?gameId=400869292
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Illinois State Redbirds at Indiana State Sycamores
+DTSTART;VALUE=DATE-TIME:20160924T190000Z
+DTEND;VALUE=DATE-TIME:20160924T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165305Z
+UID:400871341
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087134
+ 1\nNetworks: 
+LOCATION:Memorial Stadium \, Terre Haute\, IN
+URL:http://www.espn.com/college-football/game?gameId=400871341
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Missouri State Bears at Kansas State Wildcats
+DTSTART;VALUE=DATE-TIME:20160924T231000Z
+DTEND;VALUE=DATE-TIME:20160925T024000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165305Z
+UID:400869605
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086960
+ 5\nNetworks: 
+LOCATION:Bill Snyder Family Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869605
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Illinois State Redbirds at North Dakota State Bison
+DTSTART;VALUE=DATE-TIME:20161001T180000Z
+DTEND;VALUE=DATE-TIME:20161001T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165306Z
+UID:400871342
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087134
+ 2\nNetworks: 
+LOCATION:Fargodome\, Fargo\, ND
+URL:http://www.espn.com/college-football/game?gameId=400871342
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Missouri State Bears at Indiana State Sycamores
+DTSTART;VALUE=DATE-TIME:20161001T190000Z
+DTEND;VALUE=DATE-TIME:20161001T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165306Z
+UID:400871351
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087135
+ 1\nNetworks: 
+LOCATION:Memorial Stadium \, Terre Haute\, IN
+URL:http://www.espn.com/college-football/game?gameId=400871351
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Dakota Coyotes at Youngstown State Penguins
+DTSTART;VALUE=DATE-TIME:20161001T200000Z
+DTEND;VALUE=DATE-TIME:20161001T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165306Z
+UID:400871381
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087138
+ 1\nNetworks: 
+LOCATION:Stambaugh Stadium\, Youngstown\, OH
+URL:http://www.espn.com/college-football/game?gameId=400871381
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Illinois Salukis at Northern Iowa Panthers
+DTSTART;VALUE=DATE-TIME:20161001T210000Z
+DTEND;VALUE=DATE-TIME:20161002T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165306Z
+UID:400871371
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087137
+ 1\nNetworks: 
+LOCATION:UNI-Dome\, Cedar Falls\, IA
+URL:http://www.espn.com/college-football/game?gameId=400871371
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Illinois Leathernecks at South Dakota State Jackrabbits
+DTSTART;VALUE=DATE-TIME:20161001T230000Z
+DTEND;VALUE=DATE-TIME:20161002T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165306Z
+UID:400871377
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087137
+ 7\nNetworks: ESPN3
+LOCATION:Dana J. Dykhouse Stadium\, Brookings\, SD
+URL:http://www.espn.com/college-football/game?gameId=400871377
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Youngstown State Penguins at Illinois State Redbirds
+DTSTART;VALUE=DATE-TIME:20161008T190000Z
+DTEND;VALUE=DATE-TIME:20161008T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165306Z
+UID:400871343
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087134
+ 3\nNetworks: 
+LOCATION:Hancock Stadium\, Normal\, IL
+URL:http://www.espn.com/college-football/game?gameId=400871343
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Dakota State Bison at Missouri State Bears
+DTSTART;VALUE=DATE-TIME:20161008T190000Z
+DTEND;VALUE=DATE-TIME:20161008T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165306Z
+UID:400871360
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087136
+ 0\nNetworks: 
+LOCATION:Plaster Sports Complex\, Springfield\, MO
+URL:http://www.espn.com/college-football/game?gameId=400871360
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Iowa Panthers at South Dakota Coyotes
+DTSTART;VALUE=DATE-TIME:20161008T190000Z
+DTEND;VALUE=DATE-TIME:20161008T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165306Z
+UID:400871372
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087137
+ 2\nNetworks: 
+LOCATION:DakotaDome\, Vermillion\, SD
+URL:http://www.espn.com/college-football/game?gameId=400871372
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana State Sycamores at Western Illinois Leathernecks
+DTSTART;VALUE=DATE-TIME:20161008T200000Z
+DTEND;VALUE=DATE-TIME:20161008T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165306Z
+UID:400871352
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087135
+ 2\nNetworks: ESPN3
+LOCATION:Hanson Field\, Macomb\, IL
+URL:http://www.espn.com/college-football/game?gameId=400871352
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Dakota State Jackrabbits at Southern Illinois Salukis
+DTSTART;VALUE=DATE-TIME:20161008T230000Z
+DTEND;VALUE=DATE-TIME:20161009T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165306Z
+UID:400871378
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087137
+ 8\nNetworks: 
+LOCATION:Saluki Stadium\, Carbondale\, IL
+URL:http://www.espn.com/college-football/game?gameId=400871378
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Dakota Coyotes at Indiana State Sycamores
+DTSTART;VALUE=DATE-TIME:20161015T190000Z
+DTEND;VALUE=DATE-TIME:20161015T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165306Z
+UID:400871353
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087135
+ 3\nNetworks: 
+LOCATION:Memorial Stadium \, Terre Haute\, IN
+URL:http://www.espn.com/college-football/game?gameId=400871353
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Illinois Leathernecks at Missouri State Bears
+DTSTART;VALUE=DATE-TIME:20161015T190000Z
+DTEND;VALUE=DATE-TIME:20161015T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165306Z
+UID:400871361
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087136
+ 1\nNetworks: 
+LOCATION:Plaster Sports Complex\, Springfield\, MO
+URL:http://www.espn.com/college-football/game?gameId=400871361
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Dakota State Jackrabbits at North Dakota State Bison
+DTSTART;VALUE=DATE-TIME:20161015T193000Z
+DTEND;VALUE=DATE-TIME:20161015T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165306Z
+UID:400871366
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087136
+ 6\nNetworks: 
+LOCATION:Fargodome\, Fargo\, ND
+URL:http://www.espn.com/college-football/game?gameId=400871366
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Iowa Panthers at Youngstown State Penguins
+DTSTART;VALUE=DATE-TIME:20161015T230000Z
+DTEND;VALUE=DATE-TIME:20161016T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165306Z
+UID:400871373
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087137
+ 3\nNetworks: ESPN3
+LOCATION:Stambaugh Stadium\, Youngstown\, OH
+URL:http://www.espn.com/college-football/game?gameId=400871373
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Illinois Salukis at Illinois State Redbirds
+DTSTART;VALUE=DATE-TIME:20161015T230000Z
+DTEND;VALUE=DATE-TIME:20161016T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165306Z
+UID:400871344
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087134
+ 4\nNetworks: 
+LOCATION:Hancock Stadium\, Normal\, IL
+URL:http://www.espn.com/college-football/game?gameId=400871344
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Missouri State Bears at Northern Iowa Panthers
+DTSTART;VALUE=DATE-TIME:20161022T180000Z
+DTEND;VALUE=DATE-TIME:20161022T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165307Z
+UID:400871362
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087136
+ 2\nNetworks: 
+LOCATION:UNI-Dome\, Cedar Falls\, IA
+URL:http://www.espn.com/college-football/game?gameId=400871362
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Illinois State Redbirds at South Dakota Coyotes
+DTSTART;VALUE=DATE-TIME:20161022T190000Z
+DTEND;VALUE=DATE-TIME:20161022T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165307Z
+UID:400871345
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087134
+ 5\nNetworks: ESPN3
+LOCATION:DakotaDome\, Vermillion\, SD
+URL:http://www.espn.com/college-football/game?gameId=400871345
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana State Sycamores at Southern Illinois Salukis
+DTSTART;VALUE=DATE-TIME:20161022T190000Z
+DTEND;VALUE=DATE-TIME:20161022T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165307Z
+UID:400871354
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087135
+ 4\nNetworks: 
+LOCATION:Saluki Stadium\, Carbondale\, IL
+URL:http://www.espn.com/college-football/game?gameId=400871354
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Youngstown State Penguins at South Dakota State Jackrabbits
+DTSTART;VALUE=DATE-TIME:20161022T190000Z
+DTEND;VALUE=DATE-TIME:20161022T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165307Z
+UID:400871379
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087137
+ 9\nNetworks: 
+LOCATION:Dana J. Dykhouse Stadium\, Brookings\, SD
+URL:http://www.espn.com/college-football/game?gameId=400871379
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Dakota State Bison at Western Illinois Leathernecks
+DTSTART;VALUE=DATE-TIME:20161022T230000Z
+DTEND;VALUE=DATE-TIME:20161023T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165307Z
+UID:400871367
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087136
+ 7\nNetworks: 
+LOCATION:Hanson Field\, Macomb\, IL
+URL:http://www.espn.com/college-football/game?gameId=400871367
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Dakota State Jackrabbits at Illinois State Redbirds
+DTSTART;VALUE=DATE-TIME:20161029T190000Z
+DTEND;VALUE=DATE-TIME:20161029T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165307Z
+UID:400871346
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087134
+ 6\nNetworks: 
+LOCATION:Hancock Stadium\, Normal\, IL
+URL:http://www.espn.com/college-football/game?gameId=400871346
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Illinois Salukis at Missouri State Bears
+DTSTART;VALUE=DATE-TIME:20161029T190000Z
+DTEND;VALUE=DATE-TIME:20161029T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165307Z
+UID:400871363
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087136
+ 3\nNetworks: ESPN3
+LOCATION:Plaster Sports Complex\, Springfield\, MO
+URL:http://www.espn.com/college-football/game?gameId=400871363
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Illinois Leathernecks at South Dakota Coyotes
+DTSTART;VALUE=DATE-TIME:20161029T190000Z
+DTEND;VALUE=DATE-TIME:20161029T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165307Z
+UID:400871382
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087138
+ 2\nNetworks: 
+LOCATION:DakotaDome\, Vermillion\, SD
+URL:http://www.espn.com/college-football/game?gameId=400871382
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana State Sycamores at Youngstown State Penguins
+DTSTART;VALUE=DATE-TIME:20161029T200000Z
+DTEND;VALUE=DATE-TIME:20161029T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165307Z
+UID:400871355
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087135
+ 5\nNetworks: ESPN3
+LOCATION:Stambaugh Stadium\, Youngstown\, OH
+URL:http://www.espn.com/college-football/game?gameId=400871355
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Dakota State Bison at Northern Iowa Panthers
+DTSTART;VALUE=DATE-TIME:20161029T230000Z
+DTEND;VALUE=DATE-TIME:20161030T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165307Z
+UID:400871368
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087136
+ 8\nNetworks: 
+LOCATION:UNI-Dome\, Cedar Falls\, IA
+URL:http://www.espn.com/college-football/game?gameId=400871368
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Iowa Panthers at Indiana State Sycamores
+DTSTART;VALUE=DATE-TIME:20161105T170000Z
+DTEND;VALUE=DATE-TIME:20161105T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165307Z
+UID:400871356
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087135
+ 6\nNetworks: 
+LOCATION:Memorial Stadium \, Terre Haute\, IN
+URL:http://www.espn.com/college-football/game?gameId=400871356
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Illinois State Redbirds at Western Illinois Leathernecks
+DTSTART;VALUE=DATE-TIME:20161105T180000Z
+DTEND;VALUE=DATE-TIME:20161105T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165307Z
+UID:400871347
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087134
+ 7\nNetworks: 
+LOCATION:Hanson Field\, Macomb\, IL
+URL:http://www.espn.com/college-football/game?gameId=400871347
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Dakota Coyotes at Southern Illinois Salukis
+DTSTART;VALUE=DATE-TIME:20161105T190000Z
+DTEND;VALUE=DATE-TIME:20161105T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165307Z
+UID:400871383
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087138
+ 3\nNetworks: ESPN3
+LOCATION:Saluki Stadium\, Carbondale\, IL
+URL:http://www.espn.com/college-football/game?gameId=400871383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Missouri State Bears at South Dakota State Jackrabbits
+DTSTART;VALUE=DATE-TIME:20161105T190000Z
+DTEND;VALUE=DATE-TIME:20161105T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165307Z
+UID:400871364
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087136
+ 4\nNetworks: 
+LOCATION:Dana J. Dykhouse Stadium\, Brookings\, SD
+URL:http://www.espn.com/college-football/game?gameId=400871364
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Youngstown State Penguins at North Dakota State Bison
+DTSTART;VALUE=DATE-TIME:20161105T193000Z
+DTEND;VALUE=DATE-TIME:20161105T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165307Z
+UID:400871369
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087136
+ 9\nNetworks: 
+LOCATION:Fargodome\, Fargo\, ND
+URL:http://www.espn.com/college-football/game?gameId=400871369
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Illinois Salukis at Youngstown State Penguins
+DTSTART;VALUE=DATE-TIME:20161112T170000Z
+DTEND;VALUE=DATE-TIME:20161112T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165308Z
+UID:400871386
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087138
+ 6\nNetworks: 
+LOCATION:Stambaugh Stadium\, Youngstown\, OH
+URL:http://www.espn.com/college-football/game?gameId=400871386
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Missouri State Bears at Illinois State Redbirds
+DTSTART;VALUE=DATE-TIME:20161112T180000Z
+DTEND;VALUE=DATE-TIME:20161112T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165308Z
+UID:400871348
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087134
+ 8\nNetworks: ESPN3
+LOCATION:Hancock Stadium\, Normal\, IL
+URL:http://www.espn.com/college-football/game?gameId=400871348
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Iowa Panthers at Western Illinois Leathernecks
+DTSTART;VALUE=DATE-TIME:20161112T190000Z
+DTEND;VALUE=DATE-TIME:20161112T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165308Z
+UID:400871374
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087137
+ 4\nNetworks: 
+LOCATION:Hanson Field\, Macomb\, IL
+URL:http://www.espn.com/college-football/game?gameId=400871374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Dakota Coyotes at South Dakota State Jackrabbits
+DTSTART;VALUE=DATE-TIME:20161112T200000Z
+DTEND;VALUE=DATE-TIME:20161112T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165308Z
+UID:400871380
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087138
+ 0\nNetworks: 
+LOCATION:Dana J. Dykhouse Stadium\, Brookings\, SD
+URL:http://www.espn.com/college-football/game?gameId=400871380
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana State Sycamores at North Dakota State Bison
+DTSTART;VALUE=DATE-TIME:20161112T203000Z
+DTEND;VALUE=DATE-TIME:20161113T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165308Z
+UID:400871357
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087135
+ 7\nNetworks: 
+LOCATION:Fargodome\, Fargo\, ND
+URL:http://www.espn.com/college-football/game?gameId=400871357
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Youngstown State Penguins at Missouri State Bears
+DTSTART;VALUE=DATE-TIME:20161119T200000Z
+DTEND;VALUE=DATE-TIME:20161119T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165308Z
+UID:400871365
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087136
+ 5\nNetworks: 
+LOCATION:Plaster Sports Complex\, Springfield\, MO
+URL:http://www.espn.com/college-football/game?gameId=400871365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Dakota State Bison at South Dakota Coyotes
+DTSTART;VALUE=DATE-TIME:20161119T200000Z
+DTEND;VALUE=DATE-TIME:20161119T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165308Z
+UID:400871370
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087137
+ 0\nNetworks: 
+LOCATION:DakotaDome\, Vermillion\, SD
+URL:http://www.espn.com/college-football/game?gameId=400871370
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Illinois Leathernecks at Southern Illinois Salukis
+DTSTART;VALUE=DATE-TIME:20161119T200000Z
+DTEND;VALUE=DATE-TIME:20161119T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165308Z
+UID:400871387
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087138
+ 7\nNetworks: 
+LOCATION:Saluki Stadium\, Carbondale\, IL
+URL:http://www.espn.com/college-football/game?gameId=400871387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Dakota State Jackrabbits at Northern Iowa Panthers
+DTSTART;VALUE=DATE-TIME:20161119T220000Z
+DTEND;VALUE=DATE-TIME:20161120T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165308Z
+UID:400871375
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087137
+ 5\nNetworks: ESPN3
+LOCATION:UNI-Dome\, Cedar Falls\, IA
+URL:http://www.espn.com/college-football/game?gameId=400871375
+END:VEVENT
+END:VCALENDAR

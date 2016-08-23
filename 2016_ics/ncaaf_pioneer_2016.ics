@@ -1,0 +1,853 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ncaaf-calendar//jiva//
+DTSTART;VALUE=DATE-TIME:20160823T165125
+SUMMARY:2016 NCAAF Schedule
+BEGIN:VEVENT
+SUMMARY:Bluefield College Rams at Campbell Camels
+DTSTART;VALUE=DATE-TIME:20160901T230000Z
+DTEND;VALUE=DATE-TIME:20160902T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165125Z
+UID:400872888
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087288
+ 8\nNetworks: 
+LOCATION:Barker-Lane Stadium\, Buies Creek\, NC
+URL:http://www.espn.com/college-football/game?gameId=400872888
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Davidson Wildcats at Georgetown Hoyas
+DTSTART;VALUE=DATE-TIME:20160903T170000Z
+DTEND;VALUE=DATE-TIME:20160903T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165125Z
+UID:400873521
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087352
+ 1\nNetworks: 
+LOCATION:Multi-Sport Field\, Washington\, DC
+URL:http://www.espn.com/college-football/game?gameId=400873521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Butler Bulldogs at Indiana State Sycamores
+DTSTART;VALUE=DATE-TIME:20160903T190000Z
+DTEND;VALUE=DATE-TIME:20160903T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165125Z
+UID:400871349
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087134
+ 9\nNetworks: 
+LOCATION:Memorial Stadium \, Terre Haute\, IN
+URL:http://www.espn.com/college-football/game?gameId=400871349
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morehead State Eagles at James Madison Dukes
+DTSTART;VALUE=DATE-TIME:20160903T220000Z
+DTEND;VALUE=DATE-TIME:20160904T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165125Z
+UID:400872723
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087272
+ 3\nNetworks: 
+LOCATION:Bridgeforth Stadium\, Harrisonburg\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872723
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bucknell Bison at Marist Red Foxes
+DTSTART;VALUE=DATE-TIME:20160903T220000Z
+DTEND;VALUE=DATE-TIME:20160904T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165125Z
+UID:400872913
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087291
+ 3\nNetworks: 
+LOCATION:Tenney Stadium\, Poughkeepsie\, NY
+URL:http://www.espn.com/college-football/game?gameId=400872913
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valparaiso Crusaders at Illinois State Redbirds
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165125Z
+UID:400871339
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087133
+ 9\nNetworks: 
+LOCATION:Hancock Stadium\, Normal\, IL
+URL:http://www.espn.com/college-football/game?gameId=400871339
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sacred Heart Pioneers at Stetson Hatters
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165125Z
+UID:400873071
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087307
+ 1\nNetworks: ESPN3
+LOCATION:Spec Martin Stadium\, Deland\, FL
+URL:http://www.espn.com/college-football/game?gameId=400873071
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central State Marauders at Dayton Flyers
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165125Z
+UID:400872897
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087289
+ 7\nNetworks: 
+LOCATION:Welcome Stadium\, Dayton\, OH
+URL:http://www.espn.com/college-football/game?gameId=400872897
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quincy Hawks at Drake Bulldogs
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165125Z
+UID:400872906
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087290
+ 6\nNetworks: 
+LOCATION:Drake Stadium \, Des Moines\, IA
+URL:http://www.espn.com/college-football/game?gameId=400872906
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western New Mexico Mustangs at San Diego Toreros
+DTSTART;VALUE=DATE-TIME:20160904T010000Z
+DTEND;VALUE=DATE-TIME:20160904T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165125Z
+UID:400872925
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087292
+ 5\nNetworks: 
+LOCATION:Torero Stadium\, San Diego\, CA
+URL:http://www.espn.com/college-football/game?gameId=400872925
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robert Morris Colonials at Dayton Flyers
+DTSTART;VALUE=DATE-TIME:20160910T170000Z
+DTEND;VALUE=DATE-TIME:20160910T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165126Z
+UID:400872828
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087282
+ 8\nNetworks: 
+LOCATION:Welcome Stadium\, Dayton\, OH
+URL:http://www.espn.com/college-football/game?gameId=400872828
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valparaiso Crusaders at Sacred Heart Pioneers
+DTSTART;VALUE=DATE-TIME:20160910T170000Z
+DTEND;VALUE=DATE-TIME:20160910T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165126Z
+UID:400873076
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087307
+ 6\nNetworks: 
+LOCATION:Campus Field\, Fairfield\, CT
+URL:http://www.espn.com/college-football/game?gameId=400873076
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Davidson Wildcats at Kentucky Wesleyan Panthers
+DTSTART;VALUE=DATE-TIME:20160910T180000Z
+DTEND;VALUE=DATE-TIME:20160910T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165126Z
+UID:400877074
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087707
+ 4\nNetworks: 
+LOCATION:N/A
+URL:http://www.espn.com/college-football/game?gameId=400877074
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Campbell Camels at Chowan Braves
+DTSTART;VALUE=DATE-TIME:20160910T220000Z
+DTEND;VALUE=DATE-TIME:20160911T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165126Z
+UID:400872889
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087288
+ 9\nNetworks: 
+LOCATION:Garrison Stadium\, Murfreesboro\, NC
+URL:http://www.espn.com/college-football/game?gameId=400872889
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgetown Hoyas at Marist Red Foxes
+DTSTART;VALUE=DATE-TIME:20160910T220000Z
+DTEND;VALUE=DATE-TIME:20160911T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165126Z
+UID:400872914
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087291
+ 4\nNetworks: 
+LOCATION:Tenney Stadium\, Poughkeepsie\, NY
+URL:http://www.espn.com/college-football/game?gameId=400872914
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VMI Keydets at Morehead State Eagles
+DTSTART;VALUE=DATE-TIME:20160910T220000Z
+DTEND;VALUE=DATE-TIME:20160911T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165126Z
+UID:400871442
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087144
+ 2\nNetworks: 
+LOCATION:Jayne Stadium\, Morehead\, KY
+URL:http://www.espn.com/college-football/game?gameId=400871442
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Franklin Grizzlies at Butler Bulldogs
+DTSTART;VALUE=DATE-TIME:20160910T223000Z
+DTEND;VALUE=DATE-TIME:20160911T020000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165126Z
+UID:400872878
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087287
+ 8\nNetworks: 
+LOCATION:Butler Bowl\, Indianapolis\, IN
+URL:http://www.espn.com/college-football/game?gameId=400872878
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Warner Royals at Stetson Hatters
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165126Z
+UID:400873072
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087307
+ 2\nNetworks: ESPN3
+LOCATION:Spec Martin Stadium\, Deland\, FL
+URL:http://www.espn.com/college-football/game?gameId=400873072
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville Dolphins at Liberty Flames
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165126Z
+UID:400872686
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087268
+ 6\nNetworks: ESPN3
+LOCATION:Williams Stadium \, Lynchburg\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872686
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drake Bulldogs at South Dakota State Jackrabbits
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165126Z
+UID:400871376
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087137
+ 6\nNetworks: 
+LOCATION:Dana J. Dykhouse Stadium\, Brookings\, SD
+URL:http://www.espn.com/college-football/game?gameId=400871376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego Toreros at Cal Poly Mustangs
+DTSTART;VALUE=DATE-TIME:20160910T230500Z
+DTEND;VALUE=DATE-TIME:20160911T023500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165126Z
+UID:400869734
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086973
+ 4\nNetworks: 
+LOCATION:Alex G. Spanos Stadium\, San Luis Obispo\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869734
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dayton Flyers at Duquesne Dukes
+DTSTART;VALUE=DATE-TIME:20160917T160000Z
+DTEND;VALUE=DATE-TIME:20160917T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165126Z
+UID:400872898
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087289
+ 8\nNetworks: ESPN3
+LOCATION:Arthur J. Rooney Athletic Field\, Pittsburgh\, PA
+URL:http://www.espn.com/college-football/game?gameId=400872898
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:McKendree Bearcats at Drake Bulldogs
+DTSTART;VALUE=DATE-TIME:20160917T180000Z
+DTEND;VALUE=DATE-TIME:20160917T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165126Z
+UID:400872907
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087290
+ 7\nNetworks: 
+LOCATION:Drake Stadium \, Des Moines\, IA
+URL:http://www.espn.com/college-football/game?gameId=400872907
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trinity International (IL) Trojans at Valparaiso Crusaders
+DTSTART;VALUE=DATE-TIME:20160917T180000Z
+DTEND;VALUE=DATE-TIME:20160917T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165126Z
+UID:400873077
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087307
+ 7\nNetworks: 
+LOCATION:Brown Field\, Valparaiso\, IN
+URL:http://www.espn.com/college-football/game?gameId=400873077
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marist Red Foxes at Sacred Heart Pioneers
+DTSTART;VALUE=DATE-TIME:20160917T210000Z
+DTEND;VALUE=DATE-TIME:20160918T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165126Z
+UID:400872915
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087291
+ 5\nNetworks: 
+LOCATION:Campus Field\, Fairfield\, CT
+URL:http://www.espn.com/college-football/game?gameId=400872915
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln (PA) Lions at Morehead State Eagles
+DTSTART;VALUE=DATE-TIME:20160917T220000Z
+DTEND;VALUE=DATE-TIME:20160918T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165126Z
+UID:400872921
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087292
+ 1\nNetworks: 
+LOCATION:Jayne Stadium\, Morehead\, KY
+URL:http://www.espn.com/college-football/game?gameId=400872921
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presbyterian College Blue Hose at Campbell Camels
+DTSTART;VALUE=DATE-TIME:20160917T220000Z
+DTEND;VALUE=DATE-TIME:20160918T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165126Z
+UID:400872692
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087269
+ 2\nNetworks: 
+LOCATION:Barker-Lane Stadium\, Buies Creek\, NC
+URL:http://www.espn.com/college-football/game?gameId=400872692
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Butler Bulldogs at Taylor Trojans
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165126Z
+UID:400872879
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087287
+ 9\nNetworks: 
+LOCATION:Turner Stadium\, Upland\, IN
+URL:http://www.espn.com/college-football/game?gameId=400872879
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Edward Waters Tigers at Jacksonville Dolphins
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165126Z
+UID:400874170
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087417
+ 0\nNetworks: ESPN3
+LOCATION:D.B. Milne Field\, Jacksonville\, FL
+URL:http://www.espn.com/college-football/game?gameId=400874170
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Livingstone Blue Bears at Davidson Wildcats
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165126Z
+UID:400877075
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087707
+ 5\nNetworks: 
+LOCATION:Richardson Stadium \, Davidson\, NC
+URL:http://www.espn.com/college-football/game?gameId=400877075
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morehead State Eagles at Drake Bulldogs
+DTSTART;VALUE=DATE-TIME:20160924T180000Z
+DTEND;VALUE=DATE-TIME:20160924T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165126Z
+UID:400872908
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087290
+ 8\nNetworks: 
+LOCATION:Drake Stadium \, Des Moines\, IA
+URL:http://www.espn.com/college-football/game?gameId=400872908
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Davidson Wildcats at Valparaiso Crusaders
+DTSTART;VALUE=DATE-TIME:20160924T180000Z
+DTEND;VALUE=DATE-TIME:20160924T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165126Z
+UID:400873078
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087307
+ 8\nNetworks: 
+LOCATION:Brown Field\, Valparaiso\, IN
+URL:http://www.espn.com/college-football/game?gameId=400873078
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Butler Bulldogs at Campbell Camels
+DTSTART;VALUE=DATE-TIME:20160924T220000Z
+DTEND;VALUE=DATE-TIME:20160925T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165126Z
+UID:400872880
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087288
+ 0\nNetworks: 
+LOCATION:Barker-Lane Stadium\, Buies Creek\, NC
+URL:http://www.espn.com/college-football/game?gameId=400872880
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dayton Flyers at San Diego Toreros
+DTSTART;VALUE=DATE-TIME:20160924T230000Z
+DTEND;VALUE=DATE-TIME:20160925T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165126Z
+UID:400872899
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087289
+ 9\nNetworks: 
+LOCATION:Torero Stadium\, San Diego\, CA
+URL:http://www.espn.com/college-football/game?gameId=400872899
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville Dolphins at Stetson Hatters
+DTSTART;VALUE=DATE-TIME:20160924T230000Z
+DTEND;VALUE=DATE-TIME:20160925T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165126Z
+UID:400873073
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087307
+ 3\nNetworks: ESPN3
+LOCATION:Spec Martin Stadium\, Deland\, FL
+URL:http://www.espn.com/college-football/game?gameId=400873073
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego Toreros at Butler Bulldogs
+DTSTART;VALUE=DATE-TIME:20161001T170000Z
+DTEND;VALUE=DATE-TIME:20161001T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165127Z
+UID:400872881
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087288
+ 1\nNetworks: 
+LOCATION:Butler Bowl\, Indianapolis\, IN
+URL:http://www.espn.com/college-football/game?gameId=400872881
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Campbell Camels at Marist Red Foxes
+DTSTART;VALUE=DATE-TIME:20161001T170000Z
+DTEND;VALUE=DATE-TIME:20161001T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165127Z
+UID:400872890
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087289
+ 0\nNetworks: 
+LOCATION:Tenney Stadium\, Poughkeepsie\, NY
+URL:http://www.espn.com/college-football/game?gameId=400872890
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drake Bulldogs at Dayton Flyers
+DTSTART;VALUE=DATE-TIME:20161001T170000Z
+DTEND;VALUE=DATE-TIME:20161001T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165127Z
+UID:400872900
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087290
+ 0\nNetworks: 
+LOCATION:Welcome Stadium\, Dayton\, OH
+URL:http://www.espn.com/college-football/game?gameId=400872900
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valparaiso Crusaders at Morehead State Eagles
+DTSTART;VALUE=DATE-TIME:20161001T170000Z
+DTEND;VALUE=DATE-TIME:20161001T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165127Z
+UID:400872922
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087292
+ 2\nNetworks: 
+LOCATION:Jayne Stadium\, Morehead\, KY
+URL:http://www.espn.com/college-football/game?gameId=400872922
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stetson Hatters at Davidson Wildcats
+DTSTART;VALUE=DATE-TIME:20161001T170000Z
+DTEND;VALUE=DATE-TIME:20161001T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165127Z
+UID:400873074
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087307
+ 4\nNetworks: 
+LOCATION:Richardson Stadium \, Davidson\, NC
+URL:http://www.espn.com/college-football/game?gameId=400873074
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Duquesne Dukes at Jacksonville Dolphins
+DTSTART;VALUE=DATE-TIME:20161001T170000Z
+DTEND;VALUE=DATE-TIME:20161001T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165127Z
+UID:400874033
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087403
+ 3\nNetworks: ESPN3
+LOCATION:D.B. Milne Field\, Jacksonville\, FL
+URL:http://www.espn.com/college-football/game?gameId=400874033
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stetson Hatters at Brown Bears
+DTSTART;VALUE=DATE-TIME:20161008T163000Z
+DTEND;VALUE=DATE-TIME:20161008T200000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165127Z
+UID:400871290
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087129
+ 0\nNetworks: 
+LOCATION:Brown Stadium\, Providence\, RI
+URL:http://www.espn.com/college-football/game?gameId=400871290
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marist Red Foxes at Butler Bulldogs
+DTSTART;VALUE=DATE-TIME:20161008T170000Z
+DTEND;VALUE=DATE-TIME:20161008T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165127Z
+UID:400872882
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087288
+ 2\nNetworks: 
+LOCATION:Butler Bowl\, Indianapolis\, IN
+URL:http://www.espn.com/college-football/game?gameId=400872882
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morehead State Eagles at Dayton Flyers
+DTSTART;VALUE=DATE-TIME:20161008T170000Z
+DTEND;VALUE=DATE-TIME:20161008T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165127Z
+UID:400872901
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087290
+ 1\nNetworks: 
+LOCATION:Welcome Stadium\, Dayton\, OH
+URL:http://www.espn.com/college-football/game?gameId=400872901
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drake Bulldogs at Valparaiso Crusaders
+DTSTART;VALUE=DATE-TIME:20161008T180000Z
+DTEND;VALUE=DATE-TIME:20161008T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165127Z
+UID:400872909
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087290
+ 9\nNetworks: 
+LOCATION:Brown Field\, Valparaiso\, IN
+URL:http://www.espn.com/college-football/game?gameId=400872909
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Davidson Wildcats at San Diego Toreros
+DTSTART;VALUE=DATE-TIME:20161008T200000Z
+DTEND;VALUE=DATE-TIME:20161008T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165127Z
+UID:400872926
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087292
+ 6\nNetworks: 
+LOCATION:Torero Stadium\, San Diego\, CA
+URL:http://www.espn.com/college-football/game?gameId=400872926
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Campbell Camels at Jacksonville Dolphins
+DTSTART;VALUE=DATE-TIME:20161008T230000Z
+DTEND;VALUE=DATE-TIME:20161009T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165127Z
+UID:400872891
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087289
+ 1\nNetworks: ESPN3
+LOCATION:D.B. Milne Field\, Jacksonville\, FL
+URL:http://www.espn.com/college-football/game?gameId=400872891
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Butler Bulldogs at Davidson Wildcats
+DTSTART;VALUE=DATE-TIME:20161015T160000Z
+DTEND;VALUE=DATE-TIME:20161015T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165127Z
+UID:400872883
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087288
+ 3\nNetworks: 
+LOCATION:Richardson Stadium \, Davidson\, NC
+URL:http://www.espn.com/college-football/game?gameId=400872883
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dayton Flyers at Jacksonville Dolphins
+DTSTART;VALUE=DATE-TIME:20161015T160000Z
+DTEND;VALUE=DATE-TIME:20161015T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165127Z
+UID:400872902
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087290
+ 2\nNetworks: ESPN3
+LOCATION:D.B. Milne Field\, Jacksonville\, FL
+URL:http://www.espn.com/college-football/game?gameId=400872902
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marist Red Foxes at Morehead State Eagles
+DTSTART;VALUE=DATE-TIME:20161015T170000Z
+DTEND;VALUE=DATE-TIME:20161015T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165127Z
+UID:400872916
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087291
+ 6\nNetworks: 
+LOCATION:Jayne Stadium\, Morehead\, KY
+URL:http://www.espn.com/college-football/game?gameId=400872916
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valparaiso Crusaders at Stetson Hatters
+DTSTART;VALUE=DATE-TIME:20161015T170000Z
+DTEND;VALUE=DATE-TIME:20161015T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165127Z
+UID:400873075
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087307
+ 5\nNetworks: ESPN3
+LOCATION:Spec Martin Stadium\, Deland\, FL
+URL:http://www.espn.com/college-football/game?gameId=400873075
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego Toreros at Drake Bulldogs
+DTSTART;VALUE=DATE-TIME:20161015T173000Z
+DTEND;VALUE=DATE-TIME:20161015T210000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165127Z
+UID:400872910
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087291
+ 0\nNetworks: 
+LOCATION:Drake Stadium \, Des Moines\, IA
+URL:http://www.espn.com/college-football/game?gameId=400872910
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Davidson Wildcats at Marist Red Foxes
+DTSTART;VALUE=DATE-TIME:20161022T160000Z
+DTEND;VALUE=DATE-TIME:20161022T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165128Z
+UID:400872917
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087291
+ 7\nNetworks: 
+LOCATION:Tenney Stadium\, Poughkeepsie\, NY
+URL:http://www.espn.com/college-football/game?gameId=400872917
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville Dolphins at Morehead State Eagles
+DTSTART;VALUE=DATE-TIME:20161022T170000Z
+DTEND;VALUE=DATE-TIME:20161022T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165128Z
+UID:400872923
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087292
+ 3\nNetworks: 
+LOCATION:Jayne Stadium\, Morehead\, KY
+URL:http://www.espn.com/college-football/game?gameId=400872923
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dayton Flyers at Butler Bulldogs
+DTSTART;VALUE=DATE-TIME:20161022T170000Z
+DTEND;VALUE=DATE-TIME:20161022T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165128Z
+UID:400872884
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087288
+ 4\nNetworks: 
+LOCATION:Butler Bowl\, Indianapolis\, IN
+URL:http://www.espn.com/college-football/game?gameId=400872884
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stetson Hatters at Campbell Camels
+DTSTART;VALUE=DATE-TIME:20161022T200000Z
+DTEND;VALUE=DATE-TIME:20161022T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165128Z
+UID:400872892
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087289
+ 2\nNetworks: 
+LOCATION:Barker-Lane Stadium\, Buies Creek\, NC
+URL:http://www.espn.com/college-football/game?gameId=400872892
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valparaiso Crusaders at San Diego Toreros
+DTSTART;VALUE=DATE-TIME:20161022T200000Z
+DTEND;VALUE=DATE-TIME:20161022T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165128Z
+UID:400872927
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087292
+ 7\nNetworks: 
+LOCATION:Torero Stadium\, San Diego\, CA
+URL:http://www.espn.com/college-football/game?gameId=400872927
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stetson Hatters at Dayton Flyers
+DTSTART;VALUE=DATE-TIME:20161029T170000Z
+DTEND;VALUE=DATE-TIME:20161029T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165128Z
+UID:400872903
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087290
+ 3\nNetworks: 
+LOCATION:Welcome Stadium\, Dayton\, OH
+URL:http://www.espn.com/college-football/game?gameId=400872903
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego Toreros at Marist Red Foxes
+DTSTART;VALUE=DATE-TIME:20161029T170000Z
+DTEND;VALUE=DATE-TIME:20161029T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165128Z
+UID:400872918
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087291
+ 8\nNetworks: 
+LOCATION:Tenney Stadium\, Poughkeepsie\, NY
+URL:http://www.espn.com/college-football/game?gameId=400872918
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville Dolphins at Davidson Wildcats
+DTSTART;VALUE=DATE-TIME:20161029T170000Z
+DTEND;VALUE=DATE-TIME:20161029T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165128Z
+UID:400874171
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087417
+ 1\nNetworks: 
+LOCATION:Richardson Stadium \, Davidson\, NC
+URL:http://www.espn.com/college-football/game?gameId=400874171
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Butler Bulldogs at Valparaiso Crusaders
+DTSTART;VALUE=DATE-TIME:20161029T180000Z
+DTEND;VALUE=DATE-TIME:20161029T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165128Z
+UID:400872885
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087288
+ 5\nNetworks: 
+LOCATION:Brown Field\, Valparaiso\, IN
+URL:http://www.espn.com/college-football/game?gameId=400872885
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Campbell Camels at Drake Bulldogs
+DTSTART;VALUE=DATE-TIME:20161029T180000Z
+DTEND;VALUE=DATE-TIME:20161029T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165128Z
+UID:400872893
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087289
+ 3\nNetworks: 
+LOCATION:Drake Stadium \, Des Moines\, IA
+URL:http://www.espn.com/college-football/game?gameId=400872893
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Valparaiso Crusaders at Dayton Flyers
+DTSTART;VALUE=DATE-TIME:20161105T170000Z
+DTEND;VALUE=DATE-TIME:20161105T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165128Z
+UID:400872904
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087290
+ 4\nNetworks: 
+LOCATION:Welcome Stadium\, Dayton\, OH
+URL:http://www.espn.com/college-football/game?gameId=400872904
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drake Bulldogs at Jacksonville Dolphins
+DTSTART;VALUE=DATE-TIME:20161105T170000Z
+DTEND;VALUE=DATE-TIME:20161105T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165128Z
+UID:400872911
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087291
+ 1\nNetworks: ESPN3
+LOCATION:D.B. Milne Field\, Jacksonville\, FL
+URL:http://www.espn.com/college-football/game?gameId=400872911
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morehead State Eagles at Butler Bulldogs
+DTSTART;VALUE=DATE-TIME:20161105T170000Z
+DTEND;VALUE=DATE-TIME:20161105T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165128Z
+UID:400872886
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087288
+ 6\nNetworks: 
+LOCATION:Butler Bowl\, Indianapolis\, IN
+URL:http://www.espn.com/college-football/game?gameId=400872886
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marist Red Foxes at Stetson Hatters
+DTSTART;VALUE=DATE-TIME:20161105T180000Z
+DTEND;VALUE=DATE-TIME:20161105T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165128Z
+UID:400872919
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087291
+ 9\nNetworks: ESPN3
+LOCATION:Spec Martin Stadium\, Deland\, FL
+URL:http://www.espn.com/college-football/game?gameId=400872919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Davidson Wildcats at Campbell Camels
+DTSTART;VALUE=DATE-TIME:20161105T200000Z
+DTEND;VALUE=DATE-TIME:20161105T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165128Z
+UID:400872894
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087289
+ 4\nNetworks: 
+LOCATION:Barker-Lane Stadium\, Buies Creek\, NC
+URL:http://www.espn.com/college-football/game?gameId=400872894
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Universidad de las Américas Puebla at San Diego Toreros
+DTSTART;VALUE=DATE-TIME:20161106T010000Z
+DTEND;VALUE=DATE-TIME:20161106T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165128Z
+UID:400874246
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087424
+ 6\nNetworks: 
+LOCATION:Torero Stadium\, San Diego\, CA
+URL:http://www.espn.com/college-football/game?gameId=400874246
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Campbell Camels at Morehead State Eagles
+DTSTART;VALUE=DATE-TIME:20161112T180000Z
+DTEND;VALUE=DATE-TIME:20161112T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165129Z
+UID:400872895
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087289
+ 5\nNetworks: 
+LOCATION:Jayne Stadium\, Morehead\, KY
+URL:http://www.espn.com/college-football/game?gameId=400872895
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dayton Flyers at Marist Red Foxes
+DTSTART;VALUE=DATE-TIME:20161112T180000Z
+DTEND;VALUE=DATE-TIME:20161112T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165129Z
+UID:400872905
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087290
+ 5\nNetworks: 
+LOCATION:Tenney Stadium\, Poughkeepsie\, NY
+URL:http://www.espn.com/college-football/game?gameId=400872905
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Butler Bulldogs at Drake Bulldogs
+DTSTART;VALUE=DATE-TIME:20161112T190000Z
+DTEND;VALUE=DATE-TIME:20161112T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165129Z
+UID:400872887
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087288
+ 7\nNetworks: 
+LOCATION:Drake Stadium \, Des Moines\, IA
+URL:http://www.espn.com/college-football/game?gameId=400872887
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville Dolphins at Valparaiso Crusaders
+DTSTART;VALUE=DATE-TIME:20161112T190000Z
+DTEND;VALUE=DATE-TIME:20161112T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165129Z
+UID:400873080
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087308
+ 0\nNetworks: 
+LOCATION:Brown Field\, Valparaiso\, IN
+URL:http://www.espn.com/college-football/game?gameId=400873080
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stetson Hatters at San Diego Toreros
+DTSTART;VALUE=DATE-TIME:20161112T210000Z
+DTEND;VALUE=DATE-TIME:20161113T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165129Z
+UID:400872928
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087292
+ 8\nNetworks: 
+LOCATION:Torero Stadium\, San Diego\, CA
+URL:http://www.espn.com/college-football/game?gameId=400872928
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego Toreros at Campbell Camels
+DTSTART;VALUE=DATE-TIME:20161119T170000Z
+DTEND;VALUE=DATE-TIME:20161119T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165129Z
+UID:400872896
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087289
+ 6\nNetworks: 
+LOCATION:Barker-Lane Stadium\, Buies Creek\, NC
+URL:http://www.espn.com/college-football/game?gameId=400872896
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marist Red Foxes at Jacksonville Dolphins
+DTSTART;VALUE=DATE-TIME:20161119T170000Z
+DTEND;VALUE=DATE-TIME:20161119T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165129Z
+UID:400872920
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087292
+ 0\nNetworks: ESPN3
+LOCATION:D.B. Milne Field\, Jacksonville\, FL
+URL:http://www.espn.com/college-football/game?gameId=400872920
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morehead State Eagles at Davidson Wildcats
+DTSTART;VALUE=DATE-TIME:20161119T180000Z
+DTEND;VALUE=DATE-TIME:20161119T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165129Z
+UID:400872924
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087292
+ 4\nNetworks: 
+LOCATION:Richardson Stadium \, Davidson\, NC
+URL:http://www.espn.com/college-football/game?gameId=400872924
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drake Bulldogs at Stetson Hatters
+DTSTART;VALUE=DATE-TIME:20161119T180000Z
+DTEND;VALUE=DATE-TIME:20161119T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165129Z
+UID:400872912
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087291
+ 2\nNetworks: ESPN3
+LOCATION:Spec Martin Stadium\, Deland\, FL
+URL:http://www.espn.com/college-football/game?gameId=400872912
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,699 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ncaaf-calendar//jiva//
+DTSTART;VALUE=DATE-TIME:20160823T165140
+SUMMARY:2016 NCAAF Schedule
+BEGIN:VEVENT
+SUMMARY:Mars Hill Lions at Samford Bulldogs
+DTSTART;VALUE=DATE-TIME:20160901T230000Z
+DTEND;VALUE=DATE-TIME:20160902T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165140Z
+UID:400871391
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087139
+ 1\nNetworks: 
+LOCATION:Seibert Stadium\, Birmingham\, AL
+URL:http://www.espn.com/college-football/game?gameId=400871391
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Citadel Bulldogs at Mercer Bears
+DTSTART;VALUE=DATE-TIME:20160901T230000Z
+DTEND;VALUE=DATE-TIME:20160902T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165140Z
+UID:400871402
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087140
+ 2\nNetworks: 
+LOCATION:Moye Complex\, Macon\, GA
+URL:http://www.espn.com/college-football/game?gameId=400871402
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shorter Hawks at Chattanooga Mocs
+DTSTART;VALUE=DATE-TIME:20160901T230000Z
+DTEND;VALUE=DATE-TIME:20160902T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165140Z
+UID:400871414
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087141
+ 4\nNetworks: 
+LOCATION:Finley Stadium\, Chattanooga\, TN
+URL:http://www.espn.com/college-football/game?gameId=400871414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wofford Terriers at Tennessee Tech Golden Eagles
+DTSTART;VALUE=DATE-TIME:20160901T230000Z
+DTEND;VALUE=DATE-TIME:20160902T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165140Z
+UID:400871448
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087144
+ 8\nNetworks: 
+LOCATION:Tucker Stadium\, Cookeville\, TN
+URL:http://www.espn.com/college-football/game?gameId=400871448
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Furman Paladins at Michigan State Spartans
+DTSTART;VALUE=DATE-TIME:20160902T230000Z
+DTEND;VALUE=DATE-TIME:20160903T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165140Z
+UID:400869651
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086965
+ 1\nNetworks: BTN
+LOCATION:Spartan Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869651
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Carolina Catamounts at East Carolina Pirates
+DTSTART;VALUE=DATE-TIME:20160903T220000Z
+DTEND;VALUE=DATE-TIME:20160904T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165140Z
+UID:400869505
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086950
+ 5\nNetworks: ESPN3
+LOCATION:Dowdy-Ficklen Stadium\, Greenville\, NC
+URL:http://www.espn.com/college-football/game?gameId=400869505
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VMI Keydets at Akron Zips
+DTSTART;VALUE=DATE-TIME:20160903T223000Z
+DTEND;VALUE=DATE-TIME:20160904T020000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165140Z
+UID:400869266
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086926
+ 6\nNetworks: ESPN3
+LOCATION:InfoCision Stadium\, Akron\, OH
+URL:http://www.espn.com/college-football/game?gameId=400869266
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:East Tenn. St. Buccaneers at Kennesaw State Owls
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165140Z
+UID:400871422
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087142
+ 2\nNetworks: 
+LOCATION:Fifth Third Bank Stadium\, Kennesaw\, GA
+URL:http://www.espn.com/college-football/game?gameId=400871422
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presbyterian College Blue Hose at Chattanooga Mocs
+DTSTART;VALUE=DATE-TIME:20160910T180000Z
+DTEND;VALUE=DATE-TIME:20160910T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165141Z
+UID:400871415
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087141
+ 5\nNetworks: 
+LOCATION:Finley Stadium\, Chattanooga\, TN
+URL:http://www.espn.com/college-football/game?gameId=400871415
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercer Bears at Georgia Tech Yellow Jackets
+DTSTART;VALUE=DATE-TIME:20160910T190000Z
+DTEND;VALUE=DATE-TIME:20160910T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165141Z
+UID:400869433
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086943
+ 3\nNetworks: 
+LOCATION:Bobby Dodd Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wofford Terriers at Ole Miss Rebels
+DTSTART;VALUE=DATE-TIME:20160910T200000Z
+DTEND;VALUE=DATE-TIME:20160910T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165141Z
+UID:400868986
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086898
+ 6\nNetworks: SECN\,WatchESPN
+LOCATION:Vaught-Hemingway Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868986
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Furman Paladins at The Citadel Bulldogs
+DTSTART;VALUE=DATE-TIME:20160910T220000Z
+DTEND;VALUE=DATE-TIME:20160911T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165141Z
+UID:400871431
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087143
+ 1\nNetworks: 
+LOCATION:Johnson Hagood Stadium\, Charleston\, SC
+URL:http://www.espn.com/college-football/game?gameId=400871431
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VMI Keydets at Morehead State Eagles
+DTSTART;VALUE=DATE-TIME:20160910T220000Z
+DTEND;VALUE=DATE-TIME:20160911T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165141Z
+UID:400871442
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087144
+ 2\nNetworks: 
+LOCATION:Jayne Stadium\, Morehead\, KY
+URL:http://www.espn.com/college-football/game?gameId=400871442
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gardner-Webb Bulldogs at Western Carolina Catamounts
+DTSTART;VALUE=DATE-TIME:20160910T220000Z
+DTEND;VALUE=DATE-TIME:20160911T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165141Z
+UID:400871446
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087144
+ 6\nNetworks: 
+LOCATION:E.J. Whitmire Stadium\, Cullowhee\, NC
+URL:http://www.espn.com/college-football/game?gameId=400871446
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Samford Bulldogs at Central Arkansas Bears
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165141Z
+UID:400871392
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087139
+ 2\nNetworks: 
+LOCATION:Estes Stadium\, Conway\, AR
+URL:http://www.espn.com/college-football/game?gameId=400871392
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Carolina Catamounts vs East Tenn. St. Buccaneers
+DTSTART;VALUE=DATE-TIME:20160917T173000Z
+DTEND;VALUE=DATE-TIME:20160917T210000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165141Z
+UID:400871423
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087142
+ 3\nNetworks: ESPN3
+LOCATION:Bristol Motor Speedway\, Bristol\, TN
+URL:http://www.espn.com/college-football/game?gameId=400871423
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Johnson C Smith Golden Bulls at Wofford Terriers
+DTSTART;VALUE=DATE-TIME:20160917T190000Z
+DTEND;VALUE=DATE-TIME:20160917T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165141Z
+UID:400871449
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087144
+ 9\nNetworks: 
+LOCATION:Gibbs Stadium\, Spartanburg\, SC
+URL:http://www.espn.com/college-football/game?gameId=400871449
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee Tech Golden Eagles at Mercer Bears
+DTSTART;VALUE=DATE-TIME:20160917T200000Z
+DTEND;VALUE=DATE-TIME:20160917T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165141Z
+UID:400871403
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087140
+ 3\nNetworks: 
+LOCATION:Moye Complex\, Macon\, GA
+URL:http://www.espn.com/college-football/game?gameId=400871403
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Citadel Bulldogs at Gardner-Webb Bulldogs
+DTSTART;VALUE=DATE-TIME:20160917T220000Z
+DTEND;VALUE=DATE-TIME:20160918T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165141Z
+UID:400871437
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087143
+ 7\nNetworks: 
+LOCATION:Ernest W. Spangler Stadium\, Boiling Springs\, NC
+URL:http://www.espn.com/college-football/game?gameId=400871437
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chattanooga Mocs at Furman Paladins
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165141Z
+UID:400871416
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087141
+ 6\nNetworks: 
+LOCATION:Paladin Stadium\, Greenville\, SC
+URL:http://www.espn.com/college-football/game?gameId=400871416
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:East Tenn. St. Buccaneers at Wofford Terriers
+DTSTART;VALUE=DATE-TIME:20160924T173000Z
+DTEND;VALUE=DATE-TIME:20160924T210000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165141Z
+UID:400871424
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087142
+ 4\nNetworks: 
+LOCATION:Gibbs Stadium\, Spartanburg\, SC
+URL:http://www.espn.com/college-football/game?gameId=400871424
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Samford Bulldogs at Chattanooga Mocs
+DTSTART;VALUE=DATE-TIME:20160924T180000Z
+DTEND;VALUE=DATE-TIME:20160924T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165141Z
+UID:400871393
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087139
+ 3\nNetworks: 
+LOCATION:Finley Stadium\, Chattanooga\, TN
+URL:http://www.espn.com/college-football/game?gameId=400871393
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VMI Keydets at Bucknell Bison
+DTSTART;VALUE=DATE-TIME:20160924T190000Z
+DTEND;VALUE=DATE-TIME:20160924T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165141Z
+UID:400871443
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087144
+ 3\nNetworks: 
+LOCATION:Christy Mathewson-Memorial Stadium\, Lewisburg\, PA
+URL:http://www.espn.com/college-football/game?gameId=400871443
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Furman Paladins at Coastal Carolina Chanticleers
+DTSTART;VALUE=DATE-TIME:20160924T220000Z
+DTEND;VALUE=DATE-TIME:20160925T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165141Z
+UID:400868937
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086893
+ 7\nNetworks: 
+LOCATION:Brooks Stadium\, Conway\, SC
+URL:http://www.espn.com/college-football/game?gameId=400868937
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chattanooga Mocs at East Tenn. St. Buccaneers
+DTSTART;VALUE=DATE-TIME:20161001T160000Z
+DTEND;VALUE=DATE-TIME:20161001T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165142Z
+UID:400871417
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087141
+ 7\nNetworks: 
+LOCATION:Kermit Tipton Stadium\, Johnson City\, TN
+URL:http://www.espn.com/college-football/game?gameId=400871417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercer Bears at VMI Keydets
+DTSTART;VALUE=DATE-TIME:20161001T173000Z
+DTEND;VALUE=DATE-TIME:20161001T210000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165142Z
+UID:400871404
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087140
+ 4\nNetworks: 
+LOCATION:Alumni Memorial Field\, Lexington\, VA
+URL:http://www.espn.com/college-football/game?gameId=400871404
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wofford Terriers at Samford Bulldogs
+DTSTART;VALUE=DATE-TIME:20161001T190000Z
+DTEND;VALUE=DATE-TIME:20161001T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165142Z
+UID:400871394
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087139
+ 4\nNetworks: 
+LOCATION:Seibert Stadium\, Birmingham\, AL
+URL:http://www.espn.com/college-football/game?gameId=400871394
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kennesaw State Owls at Furman Paladins
+DTSTART;VALUE=DATE-TIME:20161001T190000Z
+DTEND;VALUE=DATE-TIME:20161001T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165142Z
+UID:400871432
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087143
+ 2\nNetworks: 
+LOCATION:Paladin Stadium\, Greenville\, SC
+URL:http://www.espn.com/college-football/game?gameId=400871432
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Citadel Bulldogs at Western Carolina Catamounts
+DTSTART;VALUE=DATE-TIME:20161001T193000Z
+DTEND;VALUE=DATE-TIME:20161001T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165142Z
+UID:400871438
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087143
+ 8\nNetworks: 
+LOCATION:E.J. Whitmire Stadium\, Cullowhee\, NC
+URL:http://www.espn.com/college-football/game?gameId=400871438
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Samford Bulldogs at Furman Paladins
+DTSTART;VALUE=DATE-TIME:20161008T170000Z
+DTEND;VALUE=DATE-TIME:20161008T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165142Z
+UID:400871395
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087139
+ 5\nNetworks: 
+LOCATION:Paladin Stadium\, Greenville\, SC
+URL:http://www.espn.com/college-football/game?gameId=400871395
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:East Tenn. St. Buccaneers at VMI Keydets
+DTSTART;VALUE=DATE-TIME:20161008T173000Z
+DTEND;VALUE=DATE-TIME:20161008T210000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165142Z
+UID:400871425
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087142
+ 5\nNetworks: 
+LOCATION:Alumni Memorial Field\, Lexington\, VA
+URL:http://www.espn.com/college-football/game?gameId=400871425
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Greenville Crusaders at The Citadel Bulldogs
+DTSTART;VALUE=DATE-TIME:20161008T180000Z
+DTEND;VALUE=DATE-TIME:20161008T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165142Z
+UID:400871439
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087143
+ 9\nNetworks: 
+LOCATION:Johnson Hagood Stadium\, Charleston\, SC
+URL:http://www.espn.com/college-football/game?gameId=400871439
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercer Bears at Chattanooga Mocs
+DTSTART;VALUE=DATE-TIME:20161008T200000Z
+DTEND;VALUE=DATE-TIME:20161008T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165142Z
+UID:400871405
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087140
+ 5\nNetworks: 
+LOCATION:Finley Stadium\, Chattanooga\, TN
+URL:http://www.espn.com/college-football/game?gameId=400871405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wofford Terriers at Western Carolina Catamounts
+DTSTART;VALUE=DATE-TIME:20161008T230000Z
+DTEND;VALUE=DATE-TIME:20161009T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165142Z
+UID:400871447
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087144
+ 7\nNetworks: 
+LOCATION:E.J. Whitmire Stadium\, Cullowhee\, NC
+URL:http://www.espn.com/college-football/game?gameId=400871447
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Furman Paladins at East Tenn. St. Buccaneers
+DTSTART;VALUE=DATE-TIME:20161015T160000Z
+DTEND;VALUE=DATE-TIME:20161015T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165142Z
+UID:400871426
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087142
+ 6\nNetworks: 
+LOCATION:Kermit Tipton Stadium\, Johnson City\, TN
+URL:http://www.espn.com/college-football/game?gameId=400871426
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chattanooga Mocs at The Citadel Bulldogs
+DTSTART;VALUE=DATE-TIME:20161015T190000Z
+DTEND;VALUE=DATE-TIME:20161015T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165142Z
+UID:400871418
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087141
+ 8\nNetworks: 
+LOCATION:Johnson Hagood Stadium\, Charleston\, SC
+URL:http://www.espn.com/college-football/game?gameId=400871418
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VMI Keydets at Samford Bulldogs
+DTSTART;VALUE=DATE-TIME:20161015T190000Z
+DTEND;VALUE=DATE-TIME:20161015T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165142Z
+UID:400871396
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087139
+ 6\nNetworks: 
+LOCATION:Seibert Stadium\, Birmingham\, AL
+URL:http://www.espn.com/college-football/game?gameId=400871396
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Carolina Catamounts at Mercer Bears
+DTSTART;VALUE=DATE-TIME:20161015T200000Z
+DTEND;VALUE=DATE-TIME:20161015T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165142Z
+UID:400871406
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087140
+ 6\nNetworks: 
+LOCATION:Moye Complex\, Macon\, GA
+URL:http://www.espn.com/college-football/game?gameId=400871406
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WV Wesleyan Bobcats at East Tenn. St. Buccaneers
+DTSTART;VALUE=DATE-TIME:20161020T233000Z
+DTEND;VALUE=DATE-TIME:20161021T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165143Z
+UID:400871427
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087142
+ 7\nNetworks: 
+LOCATION:Kermit Tipton Stadium\, Johnson City\, TN
+URL:http://www.espn.com/college-football/game?gameId=400871427
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Citadel Bulldogs at Wofford Terriers
+DTSTART;VALUE=DATE-TIME:20161022T173000Z
+DTEND;VALUE=DATE-TIME:20161022T210000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165143Z
+UID:400871440
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087144
+ 0\nNetworks: 
+LOCATION:Gibbs Stadium\, Spartanburg\, SC
+URL:http://www.espn.com/college-football/game?gameId=400871440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VMI Keydets at Chattanooga Mocs
+DTSTART;VALUE=DATE-TIME:20161022T180000Z
+DTEND;VALUE=DATE-TIME:20161022T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165143Z
+UID:400871419
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087141
+ 9\nNetworks: 
+LOCATION:Finley Stadium\, Chattanooga\, TN
+URL:http://www.espn.com/college-football/game?gameId=400871419
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercer Bears at Austin Peay Governors
+DTSTART;VALUE=DATE-TIME:20161022T210000Z
+DTEND;VALUE=DATE-TIME:20161023T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165143Z
+UID:400871407
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087140
+ 7\nNetworks: 
+LOCATION:Governors Stadium\, Clarksville\, TN
+URL:http://www.espn.com/college-football/game?gameId=400871407
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Carolina Catamounts at Samford Bulldogs
+DTSTART;VALUE=DATE-TIME:20161022T230000Z
+DTEND;VALUE=DATE-TIME:20161023T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165143Z
+UID:400871397
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087139
+ 7\nNetworks: 
+LOCATION:Seibert Stadium\, Birmingham\, AL
+URL:http://www.espn.com/college-football/game?gameId=400871397
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Samford Bulldogs at Mississippi State Bulldogs (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161029T160000
+DTEND;VALUE=DATE-TIME:20161029T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165143Z
+UID:400869037
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086903
+ 7\nNetworks: 
+LOCATION:Davis Wade Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869037
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercer Bears at Wofford Terriers
+DTSTART;VALUE=DATE-TIME:20161029T173000Z
+DTEND;VALUE=DATE-TIME:20161029T210000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165143Z
+UID:400871408
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087140
+ 8\nNetworks: 
+LOCATION:Gibbs Stadium\, Spartanburg\, SC
+URL:http://www.espn.com/college-football/game?gameId=400871408
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Furman Paladins at VMI Keydets
+DTSTART;VALUE=DATE-TIME:20161029T173000Z
+DTEND;VALUE=DATE-TIME:20161029T210000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165143Z
+UID:400871433
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087143
+ 3\nNetworks: 
+LOCATION:Alumni Memorial Field\, Lexington\, VA
+URL:http://www.espn.com/college-football/game?gameId=400871433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:East Tenn. St. Buccaneers at The Citadel Bulldogs
+DTSTART;VALUE=DATE-TIME:20161029T180000Z
+DTEND;VALUE=DATE-TIME:20161029T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165143Z
+UID:400871428
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087142
+ 8\nNetworks: 
+LOCATION:Johnson Hagood Stadium\, Charleston\, SC
+URL:http://www.espn.com/college-football/game?gameId=400871428
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chattanooga Mocs at Western Carolina Catamounts
+DTSTART;VALUE=DATE-TIME:20161029T193000Z
+DTEND;VALUE=DATE-TIME:20161029T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165143Z
+UID:400871420
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087142
+ 0\nNetworks: 
+LOCATION:E.J. Whitmire Stadium\, Cullowhee\, NC
+URL:http://www.espn.com/college-football/game?gameId=400871420
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wofford Terriers at Furman Paladins
+DTSTART;VALUE=DATE-TIME:20161105T173000Z
+DTEND;VALUE=DATE-TIME:20161105T210000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165143Z
+UID:400871434
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087143
+ 4\nNetworks: 
+LOCATION:Paladin Stadium\, Greenville\, SC
+URL:http://www.espn.com/college-football/game?gameId=400871434
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VMI Keydets at Western Carolina Catamounts
+DTSTART;VALUE=DATE-TIME:20161105T180000Z
+DTEND;VALUE=DATE-TIME:20161105T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165143Z
+UID:400871444
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087144
+ 4\nNetworks: 
+LOCATION:E.J. Whitmire Stadium\, Cullowhee\, NC
+URL:http://www.espn.com/college-football/game?gameId=400871444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Samford Bulldogs at The Citadel Bulldogs
+DTSTART;VALUE=DATE-TIME:20161105T180000Z
+DTEND;VALUE=DATE-TIME:20161105T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165143Z
+UID:400871398
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087139
+ 8\nNetworks: 
+LOCATION:Johnson Hagood Stadium\, Charleston\, SC
+URL:http://www.espn.com/college-football/game?gameId=400871398
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:East Tenn. St. Buccaneers at Mercer Bears
+DTSTART;VALUE=DATE-TIME:20161105T190000Z
+DTEND;VALUE=DATE-TIME:20161105T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165143Z
+UID:400871409
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087140
+ 9\nNetworks: 
+LOCATION:Moye Complex\, Macon\, GA
+URL:http://www.espn.com/college-football/game?gameId=400871409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cumberland Bulldogs at East Tenn. St. Buccaneers
+DTSTART;VALUE=DATE-TIME:20161112T180000Z
+DTEND;VALUE=DATE-TIME:20161112T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165144Z
+UID:400871429
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087142
+ 9\nNetworks: 
+LOCATION:Kermit Tipton Stadium\, Johnson City\, TN
+URL:http://www.espn.com/college-football/game?gameId=400871429
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Citadel Bulldogs at VMI Keydets
+DTSTART;VALUE=DATE-TIME:20161112T183000Z
+DTEND;VALUE=DATE-TIME:20161112T220000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165144Z
+UID:400871441
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087144
+ 1\nNetworks: 
+LOCATION:Alumni Memorial Field\, Lexington\, VA
+URL:http://www.espn.com/college-football/game?gameId=400871441
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wofford Terriers at Chattanooga Mocs
+DTSTART;VALUE=DATE-TIME:20161112T190000Z
+DTEND;VALUE=DATE-TIME:20161112T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165144Z
+UID:400871421
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087142
+ 1\nNetworks: 
+LOCATION:Finley Stadium\, Chattanooga\, TN
+URL:http://www.espn.com/college-football/game?gameId=400871421
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mercer Bears at Samford Bulldogs
+DTSTART;VALUE=DATE-TIME:20161112T203000Z
+DTEND;VALUE=DATE-TIME:20161113T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165144Z
+UID:400871399
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087139
+ 9\nNetworks: 
+LOCATION:Seibert Stadium\, Birmingham\, AL
+URL:http://www.espn.com/college-football/game?gameId=400871399
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Carolina Catamounts at Furman Paladins
+DTSTART;VALUE=DATE-TIME:20161112T210000Z
+DTEND;VALUE=DATE-TIME:20161113T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165144Z
+UID:400871435
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087143
+ 5\nNetworks: 
+LOCATION:Paladin Stadium\, Greenville\, SC
+URL:http://www.espn.com/college-football/game?gameId=400871435
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chattanooga Mocs at Alabama Crimson Tide (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165144Z
+UID:400869056
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086905
+ 6\nNetworks: 
+LOCATION:Bryant-Denny Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869056
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Carolina Catamounts at South Carolina Gamecocks (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165144Z
+UID:400869063
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086906
+ 3\nNetworks: 
+LOCATION:Williams-Brice Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869063
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Citadel Bulldogs at North Carolina Tar Heels (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165144Z
+UID:400869496
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086949
+ 6\nNetworks: 
+LOCATION:Kenan Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869496
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VMI Keydets at Wofford Terriers
+DTSTART;VALUE=DATE-TIME:20161119T183000Z
+DTEND;VALUE=DATE-TIME:20161119T220000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165144Z
+UID:400871445
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087144
+ 5\nNetworks: 
+LOCATION:Gibbs Stadium\, Spartanburg\, SC
+URL:http://www.espn.com/college-football/game?gameId=400871445
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Furman Paladins at Mercer Bears
+DTSTART;VALUE=DATE-TIME:20161119T200000Z
+DTEND;VALUE=DATE-TIME:20161119T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165144Z
+UID:400871410
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087141
+ 0\nNetworks: 
+LOCATION:Moye Complex\, Macon\, GA
+URL:http://www.espn.com/college-football/game?gameId=400871410
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Samford Bulldogs at East Tenn. St. Buccaneers
+DTSTART;VALUE=DATE-TIME:20161119T203000Z
+DTEND;VALUE=DATE-TIME:20161120T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165144Z
+UID:400871400
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087140
+ 0\nNetworks: 
+LOCATION:Kermit Tipton Stadium\, Johnson City\, TN
+URL:http://www.espn.com/college-football/game?gameId=400871400
+END:VEVENT
+END:VCALENDAR

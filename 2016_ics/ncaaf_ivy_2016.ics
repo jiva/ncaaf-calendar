@@ -1,0 +1,578 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ncaaf-calendar//jiva//
+DTSTART;VALUE=DATE-TIME:20160823T165047
+SUMMARY:2016 NCAAF Schedule
+BEGIN:VEVENT
+SUMMARY:Rhode Island Rams at Harvard Crimson
+DTSTART;VALUE=DATE-TIME:20160916T230000Z
+DTEND;VALUE=DATE-TIME:20160917T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165048Z
+UID:400871336
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087133
+ 6\nNetworks: 
+LOCATION:Harvard Stadium\, Cambridge\, MA
+URL:http://www.espn.com/college-football/game?gameId=400871336
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brown Bears at Bryant Bulldogs
+DTSTART;VALUE=DATE-TIME:20160917T170000Z
+DTEND;VALUE=DATE-TIME:20160917T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165048Z
+UID:400871267
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087126
+ 7\nNetworks: 
+LOCATION:Bulldog Stadium \, Smithfield\, RI
+URL:http://www.espn.com/college-football/game?gameId=400871267
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:St Francis (PA) Red Flash at Columbia Lions
+DTSTART;VALUE=DATE-TIME:20160917T170000Z
+DTEND;VALUE=DATE-TIME:20160917T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165048Z
+UID:400871297
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087129
+ 7\nNetworks: 
+LOCATION:Lawrence A. Wien Stadium\, New York\, NY
+URL:http://www.espn.com/college-football/game?gameId=400871297
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colgate Raiders at Yale Bulldogs
+DTSTART;VALUE=DATE-TIME:20160917T173000Z
+DTEND;VALUE=DATE-TIME:20160917T210000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165048Z
+UID:400871332
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087133
+ 2\nNetworks: 
+LOCATION:Yale Bowl\, New Haven\, CT
+URL:http://www.espn.com/college-football/game?gameId=400871332
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lafayette Leopards at Princeton Tigers
+DTSTART;VALUE=DATE-TIME:20160917T210000Z
+DTEND;VALUE=DATE-TIME:20160918T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165048Z
+UID:400871321
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087132
+ 1\nNetworks: 
+LOCATION:Princeton Stadium\, Princeton\, NJ
+URL:http://www.espn.com/college-football/game?gameId=400871321
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lehigh Mountain Hawks at Penn Quakers
+DTSTART;VALUE=DATE-TIME:20160917T210000Z
+DTEND;VALUE=DATE-TIME:20160918T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165048Z
+UID:400871327
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087132
+ 7\nNetworks: 
+LOCATION:Franklin Field\, Philadelphia\, PA
+URL:http://www.espn.com/college-football/game?gameId=400871327
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cornell Big Red at Bucknell Bison
+DTSTART;VALUE=DATE-TIME:20160917T220000Z
+DTEND;VALUE=DATE-TIME:20160918T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165048Z
+UID:400871314
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087131
+ 4\nNetworks: 
+LOCATION:Christy Mathewson-Memorial Stadium\, Lewisburg\, PA
+URL:http://www.espn.com/college-football/game?gameId=400871314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Hampshire Wildcats at Dartmouth Big Green
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165048Z
+UID:400871306
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087130
+ 6\nNetworks: 
+LOCATION:Memorial Field \, Hanover\, NH
+URL:http://www.espn.com/college-football/game?gameId=400871306
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Princeton Tigers at Lehigh Mountain Hawks
+DTSTART;VALUE=DATE-TIME:20160924T163000Z
+DTEND;VALUE=DATE-TIME:20160924T200000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165049Z
+UID:400871322
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087132
+ 2\nNetworks: 
+LOCATION:Goodman Stadium\, Bethlehem\, PA
+URL:http://www.espn.com/college-football/game?gameId=400871322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Penn Quakers at Fordham Rams
+DTSTART;VALUE=DATE-TIME:20160924T170000Z
+DTEND;VALUE=DATE-TIME:20160924T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165049Z
+UID:400871328
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087132
+ 8\nNetworks: 
+LOCATION:Coffey Field\, Bronx\, NY
+URL:http://www.espn.com/college-football/game?gameId=400871328
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth Big Green at Holy Cross Crusaders
+DTSTART;VALUE=DATE-TIME:20160924T170500Z
+DTEND;VALUE=DATE-TIME:20160924T203500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165049Z
+UID:400871307
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087130
+ 7\nNetworks: 
+LOCATION:Fitton Field\, Worcester\, MA
+URL:http://www.espn.com/college-football/game?gameId=400871307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harvard Crimson at Brown Bears
+DTSTART;VALUE=DATE-TIME:20160924T180000Z
+DTEND;VALUE=DATE-TIME:20160924T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165049Z
+UID:400871268
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087126
+ 8\nNetworks: 
+LOCATION:Brown Stadium\, Providence\, RI
+URL:http://www.espn.com/college-football/game?gameId=400871268
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Columbia Lions at Georgetown Hoyas
+DTSTART;VALUE=DATE-TIME:20160924T180000Z
+DTEND;VALUE=DATE-TIME:20160924T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165049Z
+UID:400871298
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087129
+ 8\nNetworks: 
+LOCATION:Multi-Sport Field\, Washington\, DC
+URL:http://www.espn.com/college-football/game?gameId=400871298
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yale Bulldogs at Cornell Big Red
+DTSTART;VALUE=DATE-TIME:20160924T190000Z
+DTEND;VALUE=DATE-TIME:20160924T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165049Z
+UID:400871315
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087131
+ 5\nNetworks: 
+LOCATION:Schoellkopf Field\, Ithaca\, NY
+URL:http://www.espn.com/college-football/game?gameId=400871315
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgetown Hoyas at Harvard Crimson
+DTSTART;VALUE=DATE-TIME:20160930T230000Z
+DTEND;VALUE=DATE-TIME:20161001T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165049Z
+UID:400871337
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087133
+ 7\nNetworks: 
+LOCATION:Harvard Stadium\, Cambridge\, MA
+URL:http://www.espn.com/college-football/game?gameId=400871337
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Princeton Tigers at Columbia Lions (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161001T160000
+DTEND;VALUE=DATE-TIME:20161001T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165049Z
+UID:400871299
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087129
+ 9\nNetworks: 
+LOCATION:Lawrence A. Wien Stadium\, New York\, NY
+URL:http://www.espn.com/college-football/game?gameId=400871299
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brown Bears at Rhode Island Rams
+DTSTART;VALUE=DATE-TIME:20161001T160000Z
+DTEND;VALUE=DATE-TIME:20161001T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165049Z
+UID:400871269
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087126
+ 9\nNetworks: 
+LOCATION:Meade Stadium\, Kingston\, RI
+URL:http://www.espn.com/college-football/game?gameId=400871269
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cornell Big Red at Colgate Raiders
+DTSTART;VALUE=DATE-TIME:20161001T170000Z
+DTEND;VALUE=DATE-TIME:20161001T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165049Z
+UID:400871316
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087131
+ 6\nNetworks: 
+LOCATION:Andy Kerr Stadium\, Hamilton\, NY
+URL:http://www.espn.com/college-football/game?gameId=400871316
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lehigh Mountain Hawks at Yale Bulldogs
+DTSTART;VALUE=DATE-TIME:20161001T173000Z
+DTEND;VALUE=DATE-TIME:20161001T210000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165049Z
+UID:400871333
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087133
+ 3\nNetworks: 
+LOCATION:Yale Bowl\, New Haven\, CT
+URL:http://www.espn.com/college-football/game?gameId=400871333
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Penn Quakers at Dartmouth Big Green
+DTSTART;VALUE=DATE-TIME:20161001T230000Z
+DTEND;VALUE=DATE-TIME:20161002T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165049Z
+UID:400871308
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087130
+ 8\nNetworks: 
+LOCATION:Memorial Field \, Hanover\, NH
+URL:http://www.espn.com/college-football/game?gameId=400871308
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stetson Hatters at Brown Bears
+DTSTART;VALUE=DATE-TIME:20161008T163000Z
+DTEND;VALUE=DATE-TIME:20161008T200000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165049Z
+UID:400871290
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087129
+ 0\nNetworks: 
+LOCATION:Brown Stadium\, Providence\, RI
+URL:http://www.espn.com/college-football/game?gameId=400871290
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth Big Green at Yale Bulldogs
+DTSTART;VALUE=DATE-TIME:20161008T170000Z
+DTEND;VALUE=DATE-TIME:20161008T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165049Z
+UID:400871309
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087130
+ 9\nNetworks: 
+LOCATION:Yale Bowl\, New Haven\, CT
+URL:http://www.espn.com/college-football/game?gameId=400871309
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cornell Big Red at Harvard Crimson
+DTSTART;VALUE=DATE-TIME:20161008T170000Z
+DTEND;VALUE=DATE-TIME:20161008T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165049Z
+UID:400871317
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087131
+ 7\nNetworks: 
+LOCATION:Harvard Stadium\, Cambridge\, MA
+URL:http://www.espn.com/college-football/game?gameId=400871317
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Princeton Tigers at Georgetown Hoyas
+DTSTART;VALUE=DATE-TIME:20161008T170000Z
+DTEND;VALUE=DATE-TIME:20161008T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165049Z
+UID:400871323
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087132
+ 3\nNetworks: 
+LOCATION:Multi-Sport Field\, Washington\, DC
+URL:http://www.espn.com/college-football/game?gameId=400871323
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Connecticut Blue Devils at Penn Quakers
+DTSTART;VALUE=DATE-TIME:20161008T170000Z
+DTEND;VALUE=DATE-TIME:20161008T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165049Z
+UID:400871329
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087132
+ 9\nNetworks: 
+LOCATION:Franklin Field\, Philadelphia\, PA
+URL:http://www.espn.com/college-football/game?gameId=400871329
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Columbia Lions at Wagner Seahawks
+DTSTART;VALUE=DATE-TIME:20161008T220000Z
+DTEND;VALUE=DATE-TIME:20161009T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165049Z
+UID:400871300
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087130
+ 0\nNetworks: 
+LOCATION:Wagner College Stadium\, Staten Island\, NY
+URL:http://www.espn.com/college-football/game?gameId=400871300
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Columbia Lions at Penn Quakers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161015T160000
+DTEND;VALUE=DATE-TIME:20161015T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165050Z
+UID:400871301
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087130
+ 1\nNetworks: 
+LOCATION:Franklin Field\, Philadelphia\, PA
+URL:http://www.espn.com/college-football/game?gameId=400871301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sacred Heart Pioneers at Cornell Big Red
+DTSTART;VALUE=DATE-TIME:20161015T163000Z
+DTEND;VALUE=DATE-TIME:20161015T200000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165050Z
+UID:400871318
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087131
+ 8\nNetworks: 
+LOCATION:Schoellkopf Field\, Ithaca\, NY
+URL:http://www.espn.com/college-football/game?gameId=400871318
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yale Bulldogs at Fordham Rams
+DTSTART;VALUE=DATE-TIME:20161015T170000Z
+DTEND;VALUE=DATE-TIME:20161015T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165050Z
+UID:400871334
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087133
+ 4\nNetworks: 
+LOCATION:Coffey Field\, Bronx\, NY
+URL:http://www.espn.com/college-football/game?gameId=400871334
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harvard Crimson at Holy Cross Crusaders
+DTSTART;VALUE=DATE-TIME:20161015T170500Z
+DTEND;VALUE=DATE-TIME:20161015T203500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165050Z
+UID:400871338
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087133
+ 8\nNetworks: 
+LOCATION:Fitton Field\, Worcester\, MA
+URL:http://www.espn.com/college-football/game?gameId=400871338
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Towson Tigers at Dartmouth Big Green
+DTSTART;VALUE=DATE-TIME:20161015T173000Z
+DTEND;VALUE=DATE-TIME:20161015T210000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165050Z
+UID:400871310
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087131
+ 0\nNetworks: 
+LOCATION:Memorial Field \, Hanover\, NH
+URL:http://www.espn.com/college-football/game?gameId=400871310
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brown Bears at Princeton Tigers
+DTSTART;VALUE=DATE-TIME:20161015T190000Z
+DTEND;VALUE=DATE-TIME:20161015T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165050Z
+UID:400871291
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087129
+ 1\nNetworks: 
+LOCATION:Princeton Stadium\, Princeton\, NJ
+URL:http://www.espn.com/college-football/game?gameId=400871291
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Penn Quakers at Yale Bulldogs
+DTSTART;VALUE=DATE-TIME:20161021T230000Z
+DTEND;VALUE=DATE-TIME:20161022T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165050Z
+UID:400871330
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087133
+ 0\nNetworks: 
+LOCATION:Yale Bowl\, New Haven\, CT
+URL:http://www.espn.com/college-football/game?gameId=400871330
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth Big Green at Columbia Lions (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161022T160000
+DTEND;VALUE=DATE-TIME:20161022T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165050Z
+UID:400871302
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087130
+ 2\nNetworks: 
+LOCATION:Lawrence A. Wien Stadium\, New York\, NY
+URL:http://www.espn.com/college-football/game?gameId=400871302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cornell Big Red at Brown Bears
+DTSTART;VALUE=DATE-TIME:20161022T160000Z
+DTEND;VALUE=DATE-TIME:20161022T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165050Z
+UID:400871292
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087129
+ 2\nNetworks: 
+LOCATION:Brown Stadium\, Providence\, RI
+URL:http://www.espn.com/college-football/game?gameId=400871292
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harvard Crimson at Princeton Tigers
+DTSTART;VALUE=DATE-TIME:20161022T170000Z
+DTEND;VALUE=DATE-TIME:20161022T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165050Z
+UID:400871324
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087132
+ 4\nNetworks: 
+LOCATION:Princeton Stadium\, Princeton\, NJ
+URL:http://www.espn.com/college-football/game?gameId=400871324
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brown Bears at Penn Quakers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161029T160000
+DTEND;VALUE=DATE-TIME:20161029T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165050Z
+UID:400871293
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087129
+ 3\nNetworks: 
+LOCATION:Franklin Field\, Philadelphia\, PA
+URL:http://www.espn.com/college-football/game?gameId=400871293
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yale Bulldogs at Columbia Lions (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161029T160000
+DTEND;VALUE=DATE-TIME:20161029T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165050Z
+UID:400871303
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087130
+ 3\nNetworks: 
+LOCATION:Lawrence A. Wien Stadium\, New York\, NY
+URL:http://www.espn.com/college-football/game?gameId=400871303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Princeton Tigers at Cornell Big Red
+DTSTART;VALUE=DATE-TIME:20161029T163000Z
+DTEND;VALUE=DATE-TIME:20161029T200000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165050Z
+UID:400871319
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087131
+ 9\nNetworks: 
+LOCATION:Schoellkopf Field\, Ithaca\, NY
+URL:http://www.espn.com/college-football/game?gameId=400871319
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harvard Crimson at Dartmouth Big Green
+DTSTART;VALUE=DATE-TIME:20161029T173000Z
+DTEND;VALUE=DATE-TIME:20161029T210000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165050Z
+UID:400871311
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087131
+ 1\nNetworks: 
+LOCATION:Memorial Field \, Hanover\, NH
+URL:http://www.espn.com/college-football/game?gameId=400871311
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Penn Quakers at Princeton Tigers
+DTSTART;VALUE=DATE-TIME:20161105T160000Z
+DTEND;VALUE=DATE-TIME:20161105T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165051Z
+UID:400871325
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087132
+ 5\nNetworks: 
+LOCATION:Princeton Stadium\, Princeton\, NJ
+URL:http://www.espn.com/college-football/game?gameId=400871325
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yale Bulldogs at Brown Bears
+DTSTART;VALUE=DATE-TIME:20161105T163000Z
+DTEND;VALUE=DATE-TIME:20161105T200000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165051Z
+UID:400871294
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087129
+ 4\nNetworks: 
+LOCATION:Brown Stadium\, Providence\, RI
+URL:http://www.espn.com/college-football/game?gameId=400871294
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Columbia Lions at Harvard Crimson
+DTSTART;VALUE=DATE-TIME:20161105T170000Z
+DTEND;VALUE=DATE-TIME:20161105T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165051Z
+UID:400871304
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087130
+ 4\nNetworks: 
+LOCATION:Harvard Stadium\, Cambridge\, MA
+URL:http://www.espn.com/college-football/game?gameId=400871304
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth Big Green at Cornell Big Red
+DTSTART;VALUE=DATE-TIME:20161105T173000Z
+DTEND;VALUE=DATE-TIME:20161105T210000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165051Z
+UID:400871312
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087131
+ 2\nNetworks: 
+LOCATION:Schoellkopf Field\, Ithaca\, NY
+URL:http://www.espn.com/college-football/game?gameId=400871312
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harvard Crimson at Penn Quakers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161112T160000
+DTEND;VALUE=DATE-TIME:20161112T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165051Z
+UID:400871331
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087133
+ 1\nNetworks: 
+LOCATION:Franklin Field\, Philadelphia\, PA
+URL:http://www.espn.com/college-football/game?gameId=400871331
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brown Bears at Dartmouth Big Green
+DTSTART;VALUE=DATE-TIME:20161112T170000Z
+DTEND;VALUE=DATE-TIME:20161112T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165051Z
+UID:400871295
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087129
+ 5\nNetworks: 
+LOCATION:Memorial Field \, Hanover\, NH
+URL:http://www.espn.com/college-football/game?gameId=400871295
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Princeton Tigers at Yale Bulldogs
+DTSTART;VALUE=DATE-TIME:20161112T173000Z
+DTEND;VALUE=DATE-TIME:20161112T210000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165051Z
+UID:400871326
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087132
+ 6\nNetworks: 
+LOCATION:Yale Bowl\, New Haven\, CT
+URL:http://www.espn.com/college-football/game?gameId=400871326
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cornell Big Red at Columbia Lions
+DTSTART;VALUE=DATE-TIME:20161112T180000Z
+DTEND;VALUE=DATE-TIME:20161112T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165051Z
+UID:400871305
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087130
+ 5\nNetworks: 
+LOCATION:Lawrence A. Wien Stadium\, New York\, NY
+URL:http://www.espn.com/college-football/game?gameId=400871305
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Penn Quakers at Cornell Big Red
+DTSTART;VALUE=DATE-TIME:20161119T170000Z
+DTEND;VALUE=DATE-TIME:20161119T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165051Z
+UID:400871320
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087132
+ 0\nNetworks: 
+LOCATION:Schoellkopf Field\, Ithaca\, NY
+URL:http://www.espn.com/college-football/game?gameId=400871320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yale Bulldogs at Harvard Crimson
+DTSTART;VALUE=DATE-TIME:20161119T173000Z
+DTEND;VALUE=DATE-TIME:20161119T210000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165051Z
+UID:400871335
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087133
+ 5\nNetworks: 
+LOCATION:Harvard Stadium\, Cambridge\, MA
+URL:http://www.espn.com/college-football/game?gameId=400871335
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Columbia Lions at Brown Bears
+DTSTART;VALUE=DATE-TIME:20161119T173000Z
+DTEND;VALUE=DATE-TIME:20161119T210000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165051Z
+UID:400871296
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087129
+ 6\nNetworks: 
+LOCATION:Brown Stadium\, Providence\, RI
+URL:http://www.espn.com/college-football/game?gameId=400871296
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dartmouth Big Green at Princeton Tigers
+DTSTART;VALUE=DATE-TIME:20161119T183000Z
+DTEND;VALUE=DATE-TIME:20161119T220000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165051Z
+UID:400871313
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087131
+ 3\nNetworks: 
+LOCATION:Princeton Stadium\, Princeton\, NJ
+URL:http://www.espn.com/college-football/game?gameId=400871313
+END:VEVENT
+END:VCALENDAR

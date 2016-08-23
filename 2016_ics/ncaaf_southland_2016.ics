@@ -1,0 +1,799 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ncaaf-calendar//jiva//
+DTSTART;VALUE=DATE-TIME:20160823T165020
+SUMMARY:2016 NCAAF Schedule
+BEGIN:VEVENT
+SUMMARY:Houston Baptist Huskies at Central Arkansas Bears
+DTSTART;VALUE=DATE-TIME:20160901T230000Z
+DTEND;VALUE=DATE-TIME:20160902T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165020Z
+UID:400872479
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087247
+ 9\nNetworks: 
+LOCATION:Estes Stadium\, Conway\, AR
+URL:http://www.espn.com/college-football/game?gameId=400872479
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northwestern State Demons at Baylor Bears
+DTSTART;VALUE=DATE-TIME:20160902T233000Z
+DTEND;VALUE=DATE-TIME:20160903T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165020Z
+UID:400868876
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086887
+ 6\nNetworks: 
+LOCATION:McLane Stadium\, Waco\, TX
+URL:http://www.espn.com/college-football/game?gameId=400868876
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abilene Christian Wildcats at Air Force Falcons
+DTSTART;VALUE=DATE-TIME:20160903T180000Z
+DTEND;VALUE=DATE-TIME:20160903T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165020Z
+UID:400869175
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086917
+ 5\nNetworks: CAMP
+LOCATION:Falcon Stadium\, Usaf Academy\, CO
+URL:http://www.espn.com/college-football/game?gameId=400869175
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southeastern Louisiana Lions at Oklahoma State Cowboys
+DTSTART;VALUE=DATE-TIME:20160903T193000Z
+DTEND;VALUE=DATE-TIME:20160903T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165020Z
+UID:400869619
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086961
+ 9\nNetworks: 
+LOCATION:Boone Pickens Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869619
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas A&M-Kingsville Javelinas at Incarnate Word Cardinals
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165020Z
+UID:400872500
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087250
+ 0\nNetworks: 
+LOCATION:Gayle and Tom Benson Stadium\, San Antonio\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872500
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tarleton State Texans at McNeese State Cowboys
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165020Z
+UID:400872512
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087251
+ 2\nNetworks: 
+LOCATION:Cowboy Stadium \, Lake Charles\, LA
+URL:http://www.espn.com/college-football/game?gameId=400872512
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OK Panhandle St Aggies at Sam Houston State Bearkats
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165020Z
+UID:400872525
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087252
+ 5\nNetworks: ESPN3
+LOCATION:Bowers Stadium\, Huntsville\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872525
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stephen F Austin Lumberjacks at Texas Tech Red Raiders
+DTSTART;VALUE=DATE-TIME:20160904T000000Z
+DTEND;VALUE=DATE-TIME:20160904T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165020Z
+UID:400869625
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086962
+ 5\nNetworks: 
+LOCATION:Jones AT&T\; Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869625
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coastal Carolina Chanticleers at Lamar Cardinals
+DTSTART;VALUE=DATE-TIME:20160904T000000Z
+DTEND;VALUE=DATE-TIME:20160904T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165020Z
+UID:400868934
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086893
+ 4\nNetworks: ESPN3
+LOCATION:Provost Umphrey Stadium\, Beaumont\, TX
+URL:http://www.espn.com/college-football/game?gameId=400868934
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incarnate Word Cardinals at Northwestern State Demons
+DTSTART;VALUE=DATE-TIME:20160908T230000Z
+DTEND;VALUE=DATE-TIME:20160909T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165021Z
+UID:400872501
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087250
+ 1\nNetworks: 
+LOCATION:Turpin Stadium\, Natchitoches\, LA
+URL:http://www.espn.com/college-football/game?gameId=400872501
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nicholls State Colonels at Georgia Bulldogs
+DTSTART;VALUE=DATE-TIME:20160910T160000Z
+DTEND;VALUE=DATE-TIME:20160910T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165021Z
+UID:400868984
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086898
+ 4\nNetworks: SECN\,WatchESPN
+LOCATION:Sanford Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868984
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lamar Cardinals at Houston Cougars
+DTSTART;VALUE=DATE-TIME:20160910T160000Z
+DTEND;VALUE=DATE-TIME:20160910T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165021Z
+UID:400869514
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086951
+ 4\nNetworks: ESPN3
+LOCATION:TDECU Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869514
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Colorado Bears at Abilene Christian Wildcats
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165021Z
+UID:400869733
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086973
+ 3\nNetworks: 
+LOCATION:Shotwell Stadium\, Abilene\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869733
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Alabama Tigers at Stephen F Austin Lumberjacks
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165021Z
+UID:400872517
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087251
+ 7\nNetworks: ESPN3
+LOCATION:Homer Bryce Stadium\, Nacogdoches\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:McNeese State Cowboys at Louisiana Lafayette Ragin' Cajuns
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165021Z
+UID:400869812
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086981
+ 2\nNetworks: ESPN3
+LOCATION:Cajun Field\, Lafayette\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869812
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Samford Bulldogs at Central Arkansas Bears
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165021Z
+UID:400871392
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087139
+ 2\nNetworks: 
+LOCATION:Estes Stadium\, Conway\, AR
+URL:http://www.espn.com/college-football/game?gameId=400871392
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas Southern Tigers at Houston Baptist Huskies
+DTSTART;VALUE=DATE-TIME:20160911T000000Z
+DTEND;VALUE=DATE-TIME:20160911T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165021Z
+UID:400872480
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087248
+ 0\nNetworks: 
+LOCATION:Husky Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872480
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southeastern Louisiana Lions at Southern Utah Thunderbirds
+DTSTART;VALUE=DATE-TIME:20160911T000000Z
+DTEND;VALUE=DATE-TIME:20160911T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165021Z
+UID:400869739
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086973
+ 9\nNetworks: 
+LOCATION:Eccles Coliseum\, Cedar City\, UT
+URL:http://www.espn.com/college-football/game?gameId=400869739
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incarnate Word Cardinals at Nicholls State Colonels
+DTSTART;VALUE=DATE-TIME:20160917T200000Z
+DTEND;VALUE=DATE-TIME:20160917T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165021Z
+UID:400872502
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087250
+ 2\nNetworks: 
+LOCATION:John L. Guidry Stadium\, Thibodaux\, LA
+URL:http://www.espn.com/college-football/game?gameId=400872502
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stephen F Austin Lumberjacks at McNeese State Cowboys
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165021Z
+UID:400872513
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087251
+ 3\nNetworks: 
+LOCATION:Cowboy Stadium \, Lake Charles\, LA
+URL:http://www.espn.com/college-football/game?gameId=400872513
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northwestern State Demons at Central Arkansas Bears
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165021Z
+UID:400872487
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087248
+ 7\nNetworks: 
+LOCATION:Estes Stadium\, Conway\, AR
+URL:http://www.espn.com/college-football/game?gameId=400872487
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sam Houston State Bearkats at Lamar Cardinals
+DTSTART;VALUE=DATE-TIME:20160918T000000Z
+DTEND;VALUE=DATE-TIME:20160918T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165021Z
+UID:400872494
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087249
+ 4\nNetworks: ESPN3
+LOCATION:Provost Umphrey Stadium\, Beaumont\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872494
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abilene Christian Wildcats at Houston Baptist Huskies
+DTSTART;VALUE=DATE-TIME:20160918T000000Z
+DTEND;VALUE=DATE-TIME:20160918T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165021Z
+UID:400872470
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087247
+ 0\nNetworks: 
+LOCATION:Husky Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872470
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nicholls State Colonels at South Alabama Jaguars (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165021Z
+UID:400869817
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086981
+ 7\nNetworks: 
+LOCATION:Ladd-Peebles Stadium\, Mobile\, AL
+URL:http://www.espn.com/college-football/game?gameId=400869817
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abilene Christian Wildcats at Stephen F Austin Lumberjacks
+DTSTART;VALUE=DATE-TIME:20160924T230000Z
+DTEND;VALUE=DATE-TIME:20160925T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165021Z
+UID:400872471
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087247
+ 1\nNetworks: ESPN3
+LOCATION:Homer Bryce Stadium\, Nacogdoches\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872471
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:McNeese State Cowboys at Incarnate Word Cardinals
+DTSTART;VALUE=DATE-TIME:20160924T230000Z
+DTEND;VALUE=DATE-TIME:20160925T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165021Z
+UID:400872503
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087250
+ 3\nNetworks: 
+LOCATION:Gayle and Tom Benson Stadium\, San Antonio\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872503
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northwestern State Demons at Southeastern Louisiana Lions
+DTSTART;VALUE=DATE-TIME:20160924T230000Z
+DTEND;VALUE=DATE-TIME:20160925T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165021Z
+UID:400872521
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087252
+ 1\nNetworks: ESPN3
+LOCATION:Strawberry Stadium\, Hammond\, LA
+URL:http://www.espn.com/college-football/game?gameId=400872521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Arkansas Bears at Arkansas State Red Wolves
+DTSTART;VALUE=DATE-TIME:20160924T230000Z
+DTEND;VALUE=DATE-TIME:20160925T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165021Z
+UID:400869815
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086981
+ 5\nNetworks: 
+LOCATION:Centennial Bank Stadium\, Jonesboro\, AR
+URL:http://www.espn.com/college-football/game?gameId=400869815
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sam Houston State Bearkats at Houston Baptist Huskies
+DTSTART;VALUE=DATE-TIME:20160925T000000Z
+DTEND;VALUE=DATE-TIME:20160925T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165021Z
+UID:400872481
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087248
+ 1\nNetworks: 
+LOCATION:Husky Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872481
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Arkansas Bears at Abilene Christian Wildcats
+DTSTART;VALUE=DATE-TIME:20161001T193000Z
+DTEND;VALUE=DATE-TIME:20161001T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165022Z
+UID:400872472
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087247
+ 2\nNetworks: 
+LOCATION:Shotwell Stadium\, Abilene\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872472
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stephen F Austin Lumberjacks vs Sam Houston State Bearkats
+DTSTART;VALUE=DATE-TIME:20161001T200000Z
+DTEND;VALUE=DATE-TIME:20161001T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165022Z
+UID:400872518
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087251
+ 8\nNetworks: ESPN3
+LOCATION:NRG Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872518
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nicholls State Colonels at McNeese State Cowboys
+DTSTART;VALUE=DATE-TIME:20161001T230000Z
+DTEND;VALUE=DATE-TIME:20161002T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165022Z
+UID:400872507
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087250
+ 7\nNetworks: ESPN3
+LOCATION:Cowboy Stadium \, Lake Charles\, LA
+URL:http://www.espn.com/college-football/game?gameId=400872507
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Baptist Huskies at Western Kentucky Hilltoppers
+DTSTART;VALUE=DATE-TIME:20161001T230000Z
+DTEND;VALUE=DATE-TIME:20161002T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165022Z
+UID:400869376
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086937
+ 6\nNetworks: 
+LOCATION:L.T. Smith Stadium\, Bowling Green\, KY
+URL:http://www.espn.com/college-football/game?gameId=400869376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incarnate Word Cardinals at Texas State Bobcats
+DTSTART;VALUE=DATE-TIME:20161001T230000Z
+DTEND;VALUE=DATE-TIME:20161002T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165022Z
+UID:400869821
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086982
+ 1\nNetworks: 
+LOCATION:Bobcat Stadium \, San Marcos\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869821
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southeastern Louisiana Lions at Lamar Cardinals
+DTSTART;VALUE=DATE-TIME:20161002T000000Z
+DTEND;VALUE=DATE-TIME:20161002T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165022Z
+UID:400872495
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087249
+ 5\nNetworks: ESPN3
+LOCATION:Provost Umphrey Stadium\, Beaumont\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872495
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stephen F Austin Lumberjacks at Nicholls State Colonels
+DTSTART;VALUE=DATE-TIME:20161008T200000Z
+DTEND;VALUE=DATE-TIME:20161008T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165022Z
+UID:400872508
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087250
+ 8\nNetworks: 
+LOCATION:John L. Guidry Stadium\, Thibodaux\, LA
+URL:http://www.espn.com/college-football/game?gameId=400872508
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:McNeese State Cowboys at Southeastern Louisiana Lions
+DTSTART;VALUE=DATE-TIME:20161008T230000Z
+DTEND;VALUE=DATE-TIME:20161009T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165022Z
+UID:400872514
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087251
+ 4\nNetworks: 
+LOCATION:Strawberry Stadium\, Hammond\, LA
+URL:http://www.espn.com/college-football/game?gameId=400872514
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kentucky Wesleyan Panthers at Northwestern State Demons
+DTSTART;VALUE=DATE-TIME:20161008T230000Z
+DTEND;VALUE=DATE-TIME:20161009T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165022Z
+UID:400872523
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087252
+ 3\nNetworks: 
+LOCATION:Turpin Stadium\, Natchitoches\, LA
+URL:http://www.espn.com/college-football/game?gameId=400872523
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lamar Cardinals at Abilene Christian Wildcats
+DTSTART;VALUE=DATE-TIME:20161008T230000Z
+DTEND;VALUE=DATE-TIME:20161009T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165022Z
+UID:400872473
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087247
+ 3\nNetworks: 
+LOCATION:Shotwell Stadium\, Abilene\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872473
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sam Houston State Bearkats at Incarnate Word Cardinals
+DTSTART;VALUE=DATE-TIME:20161008T230000Z
+DTEND;VALUE=DATE-TIME:20161009T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165022Z
+UID:400872504
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087250
+ 4\nNetworks: 
+LOCATION:Gayle and Tom Benson Stadium\, San Antonio\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872504
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abilene Christian Wildcats at Sam Houston State Bearkats (TIME TBD
+ )
+DTSTART;VALUE=DATE-TIME:20161015T160000
+DTEND;VALUE=DATE-TIME:20161015T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165022Z
+UID:400872474
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087247
+ 4\nNetworks: 
+LOCATION:Bowers Stadium\, Huntsville\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872474
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southeastern Louisiana Lions at Stephen F Austin Lumberjacks
+DTSTART;VALUE=DATE-TIME:20161015T200000Z
+DTEND;VALUE=DATE-TIME:20161015T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165022Z
+UID:400872519
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087251
+ 9\nNetworks: 
+LOCATION:Homer Bryce Stadium\, Nacogdoches\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872519
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Arkansas Bears at McNeese State Cowboys
+DTSTART;VALUE=DATE-TIME:20161015T230000Z
+DTEND;VALUE=DATE-TIME:20161016T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165022Z
+UID:400872488
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087248
+ 8\nNetworks: 
+LOCATION:Cowboy Stadium \, Lake Charles\, LA
+URL:http://www.espn.com/college-football/game?gameId=400872488
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northwestern State Demons at Lamar Cardinals
+DTSTART;VALUE=DATE-TIME:20161015T230000Z
+DTEND;VALUE=DATE-TIME:20161016T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165022Z
+UID:400872496
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087249
+ 6\nNetworks: 
+LOCATION:Provost Umphrey Stadium\, Beaumont\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872496
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nicholls State Colonels at Houston Baptist Huskies
+DTSTART;VALUE=DATE-TIME:20161016T000000Z
+DTEND;VALUE=DATE-TIME:20161016T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165022Z
+UID:400872482
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087248
+ 2\nNetworks: 
+LOCATION:Husky Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872482
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incarnate Word Cardinals at Abilene Christian Wildcats
+DTSTART;VALUE=DATE-TIME:20161022T193000Z
+DTEND;VALUE=DATE-TIME:20161022T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165023Z
+UID:400872475
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087247
+ 5\nNetworks: 
+LOCATION:Shotwell Stadium\, Abilene\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872475
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sam Houston State Bearkats at Nicholls State Colonels
+DTSTART;VALUE=DATE-TIME:20161022T200000Z
+DTEND;VALUE=DATE-TIME:20161022T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165023Z
+UID:400872509
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087250
+ 9\nNetworks: 
+LOCATION:John L. Guidry Stadium\, Thibodaux\, LA
+URL:http://www.espn.com/college-football/game?gameId=400872509
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Baptist Huskies at Southeastern Louisiana Lions
+DTSTART;VALUE=DATE-TIME:20161022T210000Z
+DTEND;VALUE=DATE-TIME:20161023T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165023Z
+UID:400872483
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087248
+ 3\nNetworks: 
+LOCATION:Strawberry Stadium\, Hammond\, LA
+URL:http://www.espn.com/college-football/game?gameId=400872483
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lamar Cardinals at Central Arkansas Bears
+DTSTART;VALUE=DATE-TIME:20161022T230000Z
+DTEND;VALUE=DATE-TIME:20161023T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165023Z
+UID:400872489
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087248
+ 9\nNetworks: 
+LOCATION:Estes Stadium\, Conway\, AR
+URL:http://www.espn.com/college-football/game?gameId=400872489
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:McNeese State Cowboys at Northwestern State Demons
+DTSTART;VALUE=DATE-TIME:20161022T230000Z
+DTEND;VALUE=DATE-TIME:20161023T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165023Z
+UID:400872515
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087251
+ 5\nNetworks: 
+LOCATION:Turpin Stadium\, Natchitoches\, LA
+URL:http://www.espn.com/college-football/game?gameId=400872515
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas Southern Tigers at Sam Houston State Bearkats (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161029T160000
+DTEND;VALUE=DATE-TIME:20161029T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165023Z
+UID:400872526
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087252
+ 6\nNetworks: 
+LOCATION:Bowers Stadium\, Huntsville\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872526
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abilene Christian Wildcats at McNeese State Cowboys
+DTSTART;VALUE=DATE-TIME:20161029T230000Z
+DTEND;VALUE=DATE-TIME:20161030T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165023Z
+UID:400872476
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087247
+ 6\nNetworks: 
+LOCATION:Cowboy Stadium \, Lake Charles\, LA
+URL:http://www.espn.com/college-football/game?gameId=400872476
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Baptist Huskies at Lamar Cardinals
+DTSTART;VALUE=DATE-TIME:20161029T230000Z
+DTEND;VALUE=DATE-TIME:20161030T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165023Z
+UID:400872484
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087248
+ 4\nNetworks: 
+LOCATION:Provost Umphrey Stadium\, Beaumont\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872484
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stephen F Austin Lumberjacks at Incarnate Word Cardinals
+DTSTART;VALUE=DATE-TIME:20161029T230000Z
+DTEND;VALUE=DATE-TIME:20161030T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165023Z
+UID:400872505
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087250
+ 5\nNetworks: 
+LOCATION:Gayle and Tom Benson Stadium\, San Antonio\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872505
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nicholls State Colonels at Northwestern State Demons
+DTSTART;VALUE=DATE-TIME:20161029T230000Z
+DTEND;VALUE=DATE-TIME:20161030T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165023Z
+UID:400872510
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087251
+ 0\nNetworks: 
+LOCATION:Turpin Stadium\, Natchitoches\, LA
+URL:http://www.espn.com/college-football/game?gameId=400872510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Arkansas Bears at Southeastern Louisiana Lions
+DTSTART;VALUE=DATE-TIME:20161030T000000Z
+DTEND;VALUE=DATE-TIME:20161030T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165023Z
+UID:400872490
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087249
+ 0\nNetworks: 
+LOCATION:Strawberry Stadium\, Hammond\, LA
+URL:http://www.espn.com/college-football/game?gameId=400872490
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lamar Cardinals at Nicholls State Colonels
+DTSTART;VALUE=DATE-TIME:20161103T230000Z
+DTEND;VALUE=DATE-TIME:20161104T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165023Z
+UID:400872497
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087249
+ 7\nNetworks: 
+LOCATION:John L. Guidry Stadium\, Thibodaux\, LA
+URL:http://www.espn.com/college-football/game?gameId=400872497
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:McNeese State Cowboys at Sam Houston State Bearkats (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161105T160000
+DTEND;VALUE=DATE-TIME:20161105T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165023Z
+UID:400872516
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087251
+ 6\nNetworks: 
+LOCATION:Bowers Stadium\, Huntsville\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872516
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southeastern Louisiana Lions at Incarnate Word Cardinals
+DTSTART;VALUE=DATE-TIME:20161105T193000Z
+DTEND;VALUE=DATE-TIME:20161105T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165023Z
+UID:400872506
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087250
+ 6\nNetworks: 
+LOCATION:Gayle and Tom Benson Stadium\, San Antonio\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872506
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Arkansas Bears at Stephen F Austin Lumberjacks
+DTSTART;VALUE=DATE-TIME:20161105T200000Z
+DTEND;VALUE=DATE-TIME:20161105T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165023Z
+UID:400872491
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087249
+ 1\nNetworks: 
+LOCATION:Homer Bryce Stadium\, Nacogdoches\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872491
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northwestern State Demons at Abilene Christian Wildcats
+DTSTART;VALUE=DATE-TIME:20161105T230000Z
+DTEND;VALUE=DATE-TIME:20161106T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165023Z
+UID:400872477
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087247
+ 7\nNetworks: 
+LOCATION:Shotwell Stadium\, Abilene\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872477
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Baptist Huskies at UTEP Miners
+DTSTART;VALUE=DATE-TIME:20161106T000000Z
+DTEND;VALUE=DATE-TIME:20161106T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165023Z
+UID:400869402
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086940
+ 2\nNetworks: 
+LOCATION:Sun Bowl\, El Paso\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869402
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stephen F Austin Lumberjacks at Houston Baptist Huskies
+DTSTART;VALUE=DATE-TIME:20161112T200000Z
+DTEND;VALUE=DATE-TIME:20161112T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165023Z
+UID:400872485
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087248
+ 5\nNetworks: 
+LOCATION:Husky Stadium\, Houston\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872485
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nicholls State Colonels at Central Arkansas Bears
+DTSTART;VALUE=DATE-TIME:20161112T210000Z
+DTEND;VALUE=DATE-TIME:20161113T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165023Z
+UID:400872492
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087249
+ 2\nNetworks: 
+LOCATION:Estes Stadium\, Conway\, AR
+URL:http://www.espn.com/college-football/game?gameId=400872492
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incarnate Word Cardinals at Lamar Cardinals
+DTSTART;VALUE=DATE-TIME:20161113T000000Z
+DTEND;VALUE=DATE-TIME:20161113T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165023Z
+UID:400872498
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087249
+ 8\nNetworks: 
+LOCATION:Provost Umphrey Stadium\, Beaumont\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872498
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sam Houston State Bearkats at Northwestern State Demons
+DTSTART;VALUE=DATE-TIME:20161113T000000Z
+DTEND;VALUE=DATE-TIME:20161113T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165023Z
+UID:400872524
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087252
+ 4\nNetworks: 
+LOCATION:Turpin Stadium\, Natchitoches\, LA
+URL:http://www.espn.com/college-football/game?gameId=400872524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abilene Christian Wildcats at Southeastern Louisiana Lions
+DTSTART;VALUE=DATE-TIME:20161113T010000Z
+DTEND;VALUE=DATE-TIME:20161113T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165023Z
+UID:400872478
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087247
+ 8\nNetworks: 
+LOCATION:Strawberry Stadium\, Hammond\, LA
+URL:http://www.espn.com/college-football/game?gameId=400872478
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southeastern Louisiana Lions at Nicholls State Colonels
+DTSTART;VALUE=DATE-TIME:20161118T000000Z
+DTEND;VALUE=DATE-TIME:20161118T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165024Z
+UID:400872511
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087251
+ 1\nNetworks: 
+LOCATION:John L. Guidry Stadium\, Thibodaux\, LA
+URL:http://www.espn.com/college-football/game?gameId=400872511
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Baptist Huskies at Incarnate Word Cardinals
+DTSTART;VALUE=DATE-TIME:20161118T010000Z
+DTEND;VALUE=DATE-TIME:20161118T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165024Z
+UID:400872486
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087248
+ 6\nNetworks: 
+LOCATION:Gayle and Tom Benson Stadium\, San Antonio\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872486
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northwestern State Demons at Stephen F Austin Lumberjacks
+DTSTART;VALUE=DATE-TIME:20161119T210000Z
+DTEND;VALUE=DATE-TIME:20161120T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165024Z
+UID:400872520
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087252
+ 0\nNetworks: 
+LOCATION:Homer Bryce Stadium\, Nacogdoches\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872520
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Arkansas Bears at Sam Houston State Bearkats
+DTSTART;VALUE=DATE-TIME:20161120T000000Z
+DTEND;VALUE=DATE-TIME:20161120T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165024Z
+UID:400872493
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087249
+ 3\nNetworks: 
+LOCATION:Bowers Stadium\, Huntsville\, TX
+URL:http://www.espn.com/college-football/game?gameId=400872493
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lamar Cardinals at McNeese State Cowboys
+DTSTART;VALUE=DATE-TIME:20161120T000000Z
+DTEND;VALUE=DATE-TIME:20161120T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165024Z
+UID:400872499
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087249
+ 9\nNetworks: 
+LOCATION:Cowboy Stadium \, Lake Charles\, LA
+URL:http://www.espn.com/college-football/game?gameId=400872499
+END:VEVENT
+END:VCALENDAR

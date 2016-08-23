@@ -1,0 +1,567 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ncaaf-calendar//jiva//
+DTSTART;VALUE=DATE-TIME:20160823T165205
+SUMMARY:2016 NCAAF Schedule
+BEGIN:VEVENT
+SUMMARY:Charleston Southern Buccaneers at North Dakota State Bison
+DTSTART;VALUE=DATE-TIME:20160827T233000Z
+DTEND;VALUE=DATE-TIME:20160828T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165206Z
+UID:400873307
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087330
+ 7\nNetworks: ESPN\,WatchESPN
+LOCATION:Fargodome\, Fargo\, ND
+URL:http://www.espn.com/college-football/game?gameId=400873307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presbyterian College Blue Hose at Central Michigan Chippewas
+DTSTART;VALUE=DATE-TIME:20160901T230000Z
+DTEND;VALUE=DATE-TIME:20160902T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165206Z
+UID:400869257
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086925
+ 7\nNetworks: ESPN3
+LOCATION:Kelly/Shorts Stadium\, Mount Pleasant\, MI
+URL:http://www.espn.com/college-football/game?gameId=400869257
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kentucky State Thorobreds at Charleston Southern Buccaneers
+DTSTART;VALUE=DATE-TIME:20160903T154500Z
+DTEND;VALUE=DATE-TIME:20160903T191500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165206Z
+UID:400877072
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087707
+ 2\nNetworks: 
+LOCATION:Buccaneer Field\, Charleston\, SC
+URL:http://www.espn.com/college-football/game?gameId=400877072
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liberty Flames at Virginia Tech Hokies
+DTSTART;VALUE=DATE-TIME:20160903T163000Z
+DTEND;VALUE=DATE-TIME:20160903T200000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165206Z
+UID:400869428
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086942
+ 8\nNetworks: ESPN3
+LOCATION:Lane Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869428
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monmouth Hawks at Lehigh Mountain Hawks
+DTSTART;VALUE=DATE-TIME:20160903T163000Z
+DTEND;VALUE=DATE-TIME:20160903T200000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165206Z
+UID:400873106
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087310
+ 6\nNetworks: 
+LOCATION:Goodman Stadium\, Bethlehem\, PA
+URL:http://www.espn.com/college-football/game?gameId=400873106
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gardner-Webb Bulldogs at Elon Phoenix
+DTSTART;VALUE=DATE-TIME:20160903T193000Z
+DTEND;VALUE=DATE-TIME:20160903T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165206Z
+UID:400872671
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087267
+ 1\nNetworks: 
+LOCATION:Rhodes Stadium\, Elon\, NC
+URL:http://www.espn.com/college-football/game?gameId=400872671
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:East Tenn. St. Buccaneers at Kennesaw State Owls
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165206Z
+UID:400871422
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087142
+ 2\nNetworks: 
+LOCATION:Fifth Third Bank Stadium\, Kennesaw\, GA
+URL:http://www.espn.com/college-football/game?gameId=400871422
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charleston Southern Buccaneers at Florida State Seminoles
+DTSTART;VALUE=DATE-TIME:20160910T163000Z
+DTEND;VALUE=DATE-TIME:20160910T200000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165206Z
+UID:400869432
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086943
+ 2\nNetworks: ESPN3
+LOCATION:Doak Campbell Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869432
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presbyterian College Blue Hose at Chattanooga Mocs
+DTSTART;VALUE=DATE-TIME:20160910T180000Z
+DTEND;VALUE=DATE-TIME:20160910T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165206Z
+UID:400871415
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087141
+ 5\nNetworks: 
+LOCATION:Finley Stadium\, Chattanooga\, TN
+URL:http://www.espn.com/college-football/game?gameId=400871415
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monmouth Hawks at Delaware State Hornets
+DTSTART;VALUE=DATE-TIME:20160910T210000Z
+DTEND;VALUE=DATE-TIME:20160911T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165206Z
+UID:400872770
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087277
+ 0\nNetworks: 
+LOCATION:Alumni Stadium \, Dover\, DE
+URL:http://www.espn.com/college-football/game?gameId=400872770
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gardner-Webb Bulldogs at Western Carolina Catamounts
+DTSTART;VALUE=DATE-TIME:20160910T220000Z
+DTEND;VALUE=DATE-TIME:20160911T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165206Z
+UID:400871446
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087144
+ 6\nNetworks: 
+LOCATION:E.J. Whitmire Stadium\, Cullowhee\, NC
+URL:http://www.espn.com/college-football/game?gameId=400871446
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Point University Point at Kennesaw State Owls
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165206Z
+UID:400872678
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087267
+ 8\nNetworks: 
+LOCATION:Fifth Third Bank Stadium\, Kennesaw\, GA
+URL:http://www.espn.com/college-football/game?gameId=400872678
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville Dolphins at Liberty Flames
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165206Z
+UID:400872686
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087268
+ 6\nNetworks: ESPN3
+LOCATION:Williams Stadium \, Lynchburg\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872686
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monmouth Hawks at Kent State Golden Flashes
+DTSTART;VALUE=DATE-TIME:20160917T193000Z
+DTEND;VALUE=DATE-TIME:20160917T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165206Z
+UID:400869282
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086928
+ 2\nNetworks: ESPN3
+LOCATION:Dix Stadium\, Kent\, OH
+URL:http://www.espn.com/college-football/game?gameId=400869282
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Citadel Bulldogs at Gardner-Webb Bulldogs
+DTSTART;VALUE=DATE-TIME:20160917T220000Z
+DTEND;VALUE=DATE-TIME:20160918T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165206Z
+UID:400871437
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087143
+ 7\nNetworks: 
+LOCATION:Ernest W. Spangler Stadium\, Boiling Springs\, NC
+URL:http://www.espn.com/college-football/game?gameId=400871437
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presbyterian College Blue Hose at Campbell Camels
+DTSTART;VALUE=DATE-TIME:20160917T220000Z
+DTEND;VALUE=DATE-TIME:20160918T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165206Z
+UID:400872692
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087269
+ 2\nNetworks: 
+LOCATION:Barker-Lane Stadium\, Buies Creek\, NC
+URL:http://www.espn.com/college-football/game?gameId=400872692
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liberty Flames at SMU Mustangs
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165206Z
+UID:400869522
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086952
+ 2\nNetworks: ESPN3
+LOCATION:Gerald J. Ford Stadium\, Dallas\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gardner-Webb Bulldogs at Ohio Bobcats (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165206Z
+UID:400869289
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086928
+ 9\nNetworks: 
+LOCATION:Peden Stadium\, Athens\, OH
+URL:http://www.espn.com/college-football/game?gameId=400869289
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kennesaw State Owls at Duquesne Dukes
+DTSTART;VALUE=DATE-TIME:20160924T170000Z
+DTEND;VALUE=DATE-TIME:20160924T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165206Z
+UID:400872679
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087267
+ 9\nNetworks: 
+LOCATION:Arthur J. Rooney Athletic Field\, Pittsburgh\, PA
+URL:http://www.espn.com/college-football/game?gameId=400872679
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charleston Southern Buccaneers at Monmouth Hawks
+DTSTART;VALUE=DATE-TIME:20160924T170000Z
+DTEND;VALUE=DATE-TIME:20160924T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165206Z
+UID:400874858
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087485
+ 8\nNetworks: ESPN3
+LOCATION:Kessler Field\, West Long Branch\, NJ
+URL:http://www.espn.com/college-football/game?gameId=400874858
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacksonville State Gamecocks at Liberty Flames
+DTSTART;VALUE=DATE-TIME:20160924T230000Z
+DTEND;VALUE=DATE-TIME:20160925T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165206Z
+UID:400872687
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087268
+ 7\nNetworks: ESPN3
+LOCATION:Williams Stadium \, Lynchburg\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872687
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Florida Tech Panthers at Presbyterian College Blue Hose
+DTSTART;VALUE=DATE-TIME:20160924T230000Z
+DTEND;VALUE=DATE-TIME:20160925T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165206Z
+UID:400872693
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087269
+ 3\nNetworks: 
+LOCATION:Bailey Memorial Stadium\, Clinton\, SC
+URL:http://www.espn.com/college-football/game?gameId=400872693
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fordham Rams at Monmouth Hawks
+DTSTART;VALUE=DATE-TIME:20161001T170000Z
+DTEND;VALUE=DATE-TIME:20161001T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165207Z
+UID:400873096
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087309
+ 6\nNetworks: 
+LOCATION:Kessler Field\, West Long Branch\, NJ
+URL:http://www.espn.com/college-football/game?gameId=400873096
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kennesaw State Owls at Furman Paladins
+DTSTART;VALUE=DATE-TIME:20161001T190000Z
+DTEND;VALUE=DATE-TIME:20161001T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165207Z
+UID:400871432
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087143
+ 2\nNetworks: 
+LOCATION:Paladin Stadium\, Greenville\, SC
+URL:http://www.espn.com/college-football/game?gameId=400871432
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Benedict College Tigers at Gardner-Webb Bulldogs
+DTSTART;VALUE=DATE-TIME:20161001T220000Z
+DTEND;VALUE=DATE-TIME:20161002T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165207Z
+UID:400872672
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087267
+ 2\nNetworks: 
+LOCATION:Ernest W. Spangler Stadium\, Boiling Springs\, NC
+URL:http://www.espn.com/college-football/game?gameId=400872672
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charleston Southern Buccaneers at Coastal Carolina Chanticleers
+DTSTART;VALUE=DATE-TIME:20161001T220000Z
+DTEND;VALUE=DATE-TIME:20161002T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165207Z
+UID:400868938
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086893
+ 8\nNetworks: 
+LOCATION:Brooks Stadium\, Conway\, SC
+URL:http://www.espn.com/college-football/game?gameId=400868938
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robert Morris Colonials at Liberty Flames
+DTSTART;VALUE=DATE-TIME:20161001T230000Z
+DTEND;VALUE=DATE-TIME:20161002T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165207Z
+UID:400872688
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087268
+ 8\nNetworks: ESPN3
+LOCATION:Williams Stadium \, Lynchburg\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872688
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Albany State (GA) Golden Rams at Charleston Southern Buccaneers
+DTSTART;VALUE=DATE-TIME:20161008T154500Z
+DTEND;VALUE=DATE-TIME:20161008T191500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165207Z
+UID:400877073
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087707
+ 3\nNetworks: 
+LOCATION:Buccaneer Field\, Charleston\, SC
+URL:http://www.espn.com/college-football/game?gameId=400877073
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Missouri S&T Miners at Kennesaw State Owls
+DTSTART;VALUE=DATE-TIME:20161008T170000Z
+DTEND;VALUE=DATE-TIME:20161008T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165207Z
+UID:400872680
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087268
+ 0\nNetworks: 
+LOCATION:Fifth Third Bank Stadium\, Kennesaw\, GA
+URL:http://www.espn.com/college-football/game?gameId=400872680
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monmouth Hawks at Howard Bison
+DTSTART;VALUE=DATE-TIME:20161008T170000Z
+DTEND;VALUE=DATE-TIME:20161008T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165207Z
+UID:400874860
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087486
+ 0\nNetworks: 
+LOCATION:William H. Greene Stadium\, Washington\, DC
+URL:http://www.espn.com/college-football/game?gameId=400874860
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presbyterian College Blue Hose at Gardner-Webb Bulldogs
+DTSTART;VALUE=DATE-TIME:20161008T220000Z
+DTEND;VALUE=DATE-TIME:20161009T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165207Z
+UID:400872673
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087267
+ 3\nNetworks: ESPN3
+LOCATION:Ernest W. Spangler Stadium\, Boiling Springs\, NC
+URL:http://www.espn.com/college-football/game?gameId=400872673
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monmouth Hawks at Presbyterian College Blue Hose
+DTSTART;VALUE=DATE-TIME:20161013T230000Z
+DTEND;VALUE=DATE-TIME:20161014T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165207Z
+UID:400874859
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087485
+ 9\nNetworks: 
+LOCATION:Bailey Memorial Stadium\, Clinton\, SC
+URL:http://www.espn.com/college-football/game?gameId=400874859
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coastal Carolina Chanticleers at Gardner-Webb Bulldogs
+DTSTART;VALUE=DATE-TIME:20161015T173000Z
+DTEND;VALUE=DATE-TIME:20161015T210000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165207Z
+UID:400868939
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086893
+ 9\nNetworks: 
+LOCATION:Ernest W. Spangler Stadium\, Boiling Springs\, NC
+URL:http://www.espn.com/college-football/game?gameId=400868939
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liberty Flames at Kennesaw State Owls
+DTSTART;VALUE=DATE-TIME:20161015T230000Z
+DTEND;VALUE=DATE-TIME:20161016T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165207Z
+UID:400872681
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087268
+ 1\nNetworks: ESPN3
+LOCATION:Fifth Third Bank Stadium\, Kennesaw\, GA
+URL:http://www.espn.com/college-football/game?gameId=400872681
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kennesaw State Owls at Gardner-Webb Bulldogs
+DTSTART;VALUE=DATE-TIME:20161022T160000Z
+DTEND;VALUE=DATE-TIME:20161022T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165208Z
+UID:400872674
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087267
+ 4\nNetworks: 
+LOCATION:Ernest W. Spangler Stadium\, Boiling Springs\, NC
+URL:http://www.espn.com/college-football/game?gameId=400872674
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monmouth Hawks at Liberty Flames
+DTSTART;VALUE=DATE-TIME:20161022T193000Z
+DTEND;VALUE=DATE-TIME:20161022T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165208Z
+UID:400872689
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087268
+ 9\nNetworks: ESPN3
+LOCATION:Williams Stadium \, Lynchburg\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872689
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presbyterian College Blue Hose at Charleston Southern Buccaneers
+DTSTART;VALUE=DATE-TIME:20161022T220000Z
+DTEND;VALUE=DATE-TIME:20161023T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165208Z
+UID:400872695
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087269
+ 5\nNetworks: ESPN3
+LOCATION:Buccaneer Field\, Charleston\, SC
+URL:http://www.espn.com/college-football/game?gameId=400872695
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bucknell Bison at Charleston Southern Buccaneers
+DTSTART;VALUE=DATE-TIME:20161029T154500Z
+DTEND;VALUE=DATE-TIME:20161029T191500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165208Z
+UID:400873085
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087308
+ 5\nNetworks: 
+LOCATION:Buccaneer Field\, Charleston\, SC
+URL:http://www.espn.com/college-football/game?gameId=400873085
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kennesaw State Owls at Monmouth Hawks
+DTSTART;VALUE=DATE-TIME:20161029T170000Z
+DTEND;VALUE=DATE-TIME:20161029T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165208Z
+UID:400872682
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087268
+ 2\nNetworks: ESPN3
+LOCATION:Kessler Field\, West Long Branch\, NJ
+URL:http://www.espn.com/college-football/game?gameId=400872682
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coastal Carolina Chanticleers at Presbyterian College Blue Hose
+DTSTART;VALUE=DATE-TIME:20161029T180000Z
+DTEND;VALUE=DATE-TIME:20161029T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165208Z
+UID:400868941
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086894
+ 1\nNetworks: 
+LOCATION:Bailey Memorial Stadium\, Clinton\, SC
+URL:http://www.espn.com/college-football/game?gameId=400868941
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gardner-Webb Bulldogs at Liberty Flames
+DTSTART;VALUE=DATE-TIME:20161029T193000Z
+DTEND;VALUE=DATE-TIME:20161029T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165208Z
+UID:400872675
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087267
+ 5\nNetworks: 
+LOCATION:Williams Stadium \, Lynchburg\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872675
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gardner-Webb Bulldogs at Charleston Southern Buccaneers
+DTSTART;VALUE=DATE-TIME:20161105T160000Z
+DTEND;VALUE=DATE-TIME:20161105T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165208Z
+UID:400872676
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087267
+ 6\nNetworks: 
+LOCATION:Buccaneer Field\, Charleston\, SC
+URL:http://www.espn.com/college-football/game?gameId=400872676
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clark Atlanta Panthers at Kennesaw State Owls
+DTSTART;VALUE=DATE-TIME:20161105T170000Z
+DTEND;VALUE=DATE-TIME:20161105T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165208Z
+UID:400872683
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087268
+ 3\nNetworks: 
+LOCATION:Fifth Third Bank Stadium\, Kennesaw\, GA
+URL:http://www.espn.com/college-football/game?gameId=400872683
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liberty Flames at Presbyterian College Blue Hose
+DTSTART;VALUE=DATE-TIME:20161105T180000Z
+DTEND;VALUE=DATE-TIME:20161105T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165208Z
+UID:400872690
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087269
+ 0\nNetworks: ESPN3
+LOCATION:Bailey Memorial Stadium\, Clinton\, SC
+URL:http://www.espn.com/college-football/game?gameId=400872690
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monmouth Hawks at Coastal Carolina Chanticleers
+DTSTART;VALUE=DATE-TIME:20161105T180000Z
+DTEND;VALUE=DATE-TIME:20161105T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165208Z
+UID:400868942
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086894
+ 2\nNetworks: 
+LOCATION:Brooks Stadium\, Conway\, SC
+URL:http://www.espn.com/college-football/game?gameId=400868942
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presbyterian College Blue Hose at Kennesaw State Owls
+DTSTART;VALUE=DATE-TIME:20161112T170000Z
+DTEND;VALUE=DATE-TIME:20161112T203000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165209Z
+UID:400872684
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087268
+ 4\nNetworks: 
+LOCATION:Fifth Third Bank Stadium\, Kennesaw\, GA
+URL:http://www.espn.com/college-football/game?gameId=400872684
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charleston Southern Buccaneers at Liberty Flames
+DTSTART;VALUE=DATE-TIME:20161112T203000Z
+DTEND;VALUE=DATE-TIME:20161113T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165209Z
+UID:400872691
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087269
+ 1\nNetworks: ESPN3
+LOCATION:Williams Stadium \, Lynchburg\, VA
+URL:http://www.espn.com/college-football/game?gameId=400872691
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liberty Flames at Coastal Carolina Chanticleers
+DTSTART;VALUE=DATE-TIME:20161118T000000Z
+DTEND;VALUE=DATE-TIME:20161118T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165209Z
+UID:400868944
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086894
+ 4\nNetworks: 
+LOCATION:Brooks Stadium\, Conway\, SC
+URL:http://www.espn.com/college-football/game?gameId=400868944
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Presbyterian College Blue Hose at Florida Gators (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165209Z
+UID:400869058
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086905
+ 8\nNetworks: 
+LOCATION:Ben Hill Griffin Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869058
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kennesaw State Owls at Charleston Southern Buccaneers
+DTSTART;VALUE=DATE-TIME:20161119T164500Z
+DTEND;VALUE=DATE-TIME:20161119T201500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165209Z
+UID:400872685
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087268
+ 5\nNetworks: 
+LOCATION:Buccaneer Field\, Charleston\, SC
+URL:http://www.espn.com/college-football/game?gameId=400872685
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monmouth Hawks at Gardner-Webb Bulldogs
+DTSTART;VALUE=DATE-TIME:20161119T183000Z
+DTEND;VALUE=DATE-TIME:20161119T220000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165209Z
+UID:400872677
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40087267
+ 7\nNetworks: 
+LOCATION:Ernest W. Spangler Stadium\, Boiling Springs\, NC
+URL:http://www.espn.com/college-football/game?gameId=400872677
+END:VEVENT
+END:VCALENDAR

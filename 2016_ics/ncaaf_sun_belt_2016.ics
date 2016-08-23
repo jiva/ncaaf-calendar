@@ -1,0 +1,978 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ncaaf-calendar//jiva//
+DTSTART;VALUE=DATE-TIME:20160823T165237
+SUMMARY:2016 NCAAF Schedule
+BEGIN:VEVENT
+SUMMARY:Appalachian State Mountaineers at Tennessee Volunteers
+DTSTART;VALUE=DATE-TIME:20160901T233000Z
+DTEND;VALUE=DATE-TIME:20160902T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165237Z
+UID:400868977
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086897
+ 7\nNetworks: SECN\,WatchESPN
+LOCATION:Neyland Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868977
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Montana State Bobcats at Idaho Vandals
+DTSTART;VALUE=DATE-TIME:20160902T010000Z
+DTEND;VALUE=DATE-TIME:20160902T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165237Z
+UID:400869725
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086972
+ 5\nNetworks: ESPN3
+LOCATION:Kibbie Dome\, Moscow\, ID
+URL:http://www.espn.com/college-football/game?gameId=400869725
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ball State Cardinals at Georgia State Panthers
+DTSTART;VALUE=DATE-TIME:20160902T230000Z
+DTEND;VALUE=DATE-TIME:20160903T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165237Z
+UID:400869258
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086925
+ 8\nNetworks: ESPN3
+LOCATION:Georgia Dome\, Atlanta\, GA
+URL:http://www.espn.com/college-football/game?gameId=400869258
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toledo Rockets at Arkansas State Red Wolves
+DTSTART;VALUE=DATE-TIME:20160903T010000Z
+DTEND;VALUE=DATE-TIME:20160903T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165237Z
+UID:400869265
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086926
+ 5\nNetworks: ESPNU\,WatchESPN
+LOCATION:Centennial Bank Stadium\, Jonesboro\, AR
+URL:http://www.espn.com/college-football/game?gameId=400869265
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boise State Broncos at Louisiana Lafayette Ragin' Cajuns
+DTSTART;VALUE=DATE-TIME:20160903T160000Z
+DTEND;VALUE=DATE-TIME:20160903T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165237Z
+UID:400869176
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086917
+ 6\nNetworks: ESPN3
+LOCATION:Cajun Field\, Lafayette\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869176
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Alabama Jaguars at Mississippi State Bulldogs
+DTSTART;VALUE=DATE-TIME:20160903T160000Z
+DTEND;VALUE=DATE-TIME:20160903T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165237Z
+UID:400868975
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086897
+ 5\nNetworks: SECN\,WatchESPN
+LOCATION:Davis Wade Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868975
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas State Bobcats at Ohio Bobcats
+DTSTART;VALUE=DATE-TIME:20160903T193000Z
+DTEND;VALUE=DATE-TIME:20160903T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165237Z
+UID:400869264
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086926
+ 4\nNetworks: CBSSN
+LOCATION:Peden Stadium\, Athens\, OH
+URL:http://www.espn.com/college-football/game?gameId=400869264
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Savannah State Tigers at Georgia Southern Eagles
+DTSTART;VALUE=DATE-TIME:20160903T220000Z
+DTEND;VALUE=DATE-TIME:20160904T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165237Z
+UID:400869808
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086980
+ 8\nNetworks: ESPN3
+LOCATION:Allen E. Paulson Stadium\, Statesboro\, GA
+URL:http://www.espn.com/college-football/game?gameId=400869808
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Austin Peay Governors at Troy Trojans
+DTSTART;VALUE=DATE-TIME:20160903T220000Z
+DTEND;VALUE=DATE-TIME:20160904T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165237Z
+UID:400869810
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086981
+ 0\nNetworks: ESPN3
+LOCATION:Veterans Memorial Stadium \, Troy\, AL
+URL:http://www.espn.com/college-football/game?gameId=400869810
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Southern Jaguars at Louisiana Monroe Warhawks
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165237Z
+UID:400869809
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086980
+ 9\nNetworks: ESPN3
+LOCATION:Malone Stadium\, Monroe\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869809
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Mexico State Aggies at UTEP Miners
+DTSTART;VALUE=DATE-TIME:20160904T000000Z
+DTEND;VALUE=DATE-TIME:20160904T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165237Z
+UID:400869348
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086934
+ 8\nNetworks: 
+LOCATION:Sun Bowl\, El Paso\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869348
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Troy Trojans at Clemson Tigers
+DTSTART;VALUE=DATE-TIME:20160910T163000Z
+DTEND;VALUE=DATE-TIME:20160910T200000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165237Z
+UID:400869430
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086943
+ 0\nNetworks: ESPN3
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869430
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgia State Panthers at Air Force Falcons
+DTSTART;VALUE=DATE-TIME:20160910T180000Z
+DTEND;VALUE=DATE-TIME:20160910T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165237Z
+UID:400869184
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086918
+ 4\nNetworks: CAMP
+LOCATION:Falcon Stadium\, Usaf Academy\, CO
+URL:http://www.espn.com/college-football/game?gameId=400869184
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Old Dominion Monarchs at Appalachian State Mountaineers
+DTSTART;VALUE=DATE-TIME:20160910T193000Z
+DTEND;VALUE=DATE-TIME:20160910T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165237Z
+UID:400869355
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086935
+ 5\nNetworks: ESPN3
+LOCATION:Kidd Brewer Stadium\, Boone\, NC
+URL:http://www.espn.com/college-football/game?gameId=400869355
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Idaho Vandals at Washington Huskies
+DTSTART;VALUE=DATE-TIME:20160910T210000Z
+DTEND;VALUE=DATE-TIME:20160911T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165237Z
+UID:400869105
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086910
+ 5\nNetworks: PAC12
+LOCATION:Husky Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Monroe Warhawks at Oklahoma Sooners
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165237Z
+UID:400869612
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086961
+ 2\nNetworks: 
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869612
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgia Southern Eagles at South Alabama Jaguars
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165237Z
+UID:400869811
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086981
+ 1\nNetworks: ESPN3
+LOCATION:Ladd-Peebles Stadium\, Mobile\, AL
+URL:http://www.espn.com/college-football/game?gameId=400869811
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:McNeese State Cowboys at Louisiana Lafayette Ragin' Cajuns
+DTSTART;VALUE=DATE-TIME:20160910T230000Z
+DTEND;VALUE=DATE-TIME:20160911T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165237Z
+UID:400869812
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086981
+ 2\nNetworks: ESPN3
+LOCATION:Cajun Field\, Lafayette\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869812
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arkansas State Red Wolves at Auburn Tigers
+DTSTART;VALUE=DATE-TIME:20160910T233000Z
+DTEND;VALUE=DATE-TIME:20160911T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165237Z
+UID:400868982
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086898
+ 2\nNetworks: SECN\,WatchESPN
+LOCATION:Jordan-Hare Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868982
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Mexico Lobos at New Mexico State Aggies
+DTSTART;VALUE=DATE-TIME:20160911T000000Z
+DTEND;VALUE=DATE-TIME:20160911T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165237Z
+UID:400869186
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086918
+ 6\nNetworks: ESPN3
+LOCATION:Aggie Memorial Stadium\, Las Cruces\, NM
+URL:http://www.espn.com/college-football/game?gameId=400869186
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arkansas State Red Wolves at Utah State Aggies
+DTSTART;VALUE=DATE-TIME:20160917T010000Z
+DTEND;VALUE=DATE-TIME:20160917T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165238Z
+UID:400869193
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086919
+ 3\nNetworks: CBSSN
+LOCATION:Romney Stadium\, Logan\, UT
+URL:http://www.espn.com/college-football/game?gameId=400869193
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgia State Panthers at Wisconsin Badgers
+DTSTART;VALUE=DATE-TIME:20160917T160000Z
+DTEND;VALUE=DATE-TIME:20160917T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165238Z
+UID:400869657
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086965
+ 7\nNetworks: BTN
+LOCATION:Camp Randall Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869657
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miami Hurricanes at Appalachian State Mountaineers
+DTSTART;VALUE=DATE-TIME:20160917T160000Z
+DTEND;VALUE=DATE-TIME:20160917T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165238Z
+UID:400869720
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086972
+ 0\nNetworks: ESPN\,ESPN2\,WatchESPN
+LOCATION:Kidd Brewer Stadium\, Boone\, NC
+URL:http://www.espn.com/college-football/game?gameId=400869720
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Idaho Vandals at Washington State Cougars
+DTSTART;VALUE=DATE-TIME:20160917T180000Z
+DTEND;VALUE=DATE-TIME:20160917T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165238Z
+UID:400869116
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086911
+ 6\nNetworks: PAC12
+LOCATION:Martin Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869116
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Mexico State Aggies at Kentucky Wildcats
+DTSTART;VALUE=DATE-TIME:20160917T200000Z
+DTEND;VALUE=DATE-TIME:20160917T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165238Z
+UID:400868995
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086899
+ 5\nNetworks: SECN\,WatchESPN
+LOCATION:Commonwealth Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868995
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Monroe Warhawks at Georgia Southern Eagles
+DTSTART;VALUE=DATE-TIME:20160917T220000Z
+DTEND;VALUE=DATE-TIME:20160918T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165238Z
+UID:400869813
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086981
+ 3\nNetworks: ESPN3
+LOCATION:Allen E. Paulson Stadium\, Statesboro\, GA
+URL:http://www.espn.com/college-football/game?gameId=400869813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Alabama Jaguars at Louisiana Lafayette Ragin' Cajuns
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165238Z
+UID:400869814
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086981
+ 4\nNetworks: ESPN3
+LOCATION:Cajun Field\, Lafayette\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869814
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Troy Trojans at Southern Mississippi Golden Eagles
+DTSTART;VALUE=DATE-TIME:20160917T230000Z
+DTEND;VALUE=DATE-TIME:20160918T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165238Z
+UID:400869362
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086936
+ 2\nNetworks: 
+LOCATION:M. M. Roberts Stadium\, Hattiesburg\, MS
+URL:http://www.espn.com/college-football/game?gameId=400869362
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas State Bobcats at Arkansas Razorbacks
+DTSTART;VALUE=DATE-TIME:20160917T233000Z
+DTEND;VALUE=DATE-TIME:20160918T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165238Z
+UID:400868992
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086899
+ 2\nNetworks: SECN\,WatchESPN
+LOCATION:Razorback Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868992
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Appalachian State Mountaineers at Akron Zips (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165238Z
+UID:400869285
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086928
+ 5\nNetworks: 
+LOCATION:InfoCision Stadium\, Akron\, OH
+URL:http://www.espn.com/college-football/game?gameId=400869285
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgia Southern Eagles at Western Michigan Broncos (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165238Z
+UID:400869290
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086929
+ 0\nNetworks: 
+LOCATION:Waldo Stadium\, Kalamazoo\, MI
+URL:http://www.espn.com/college-football/game?gameId=400869290
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Lafayette Ragin' Cajuns at Tulane Green Wave (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165238Z
+UID:400869526
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086952
+ 6\nNetworks: 
+LOCATION:Yulman Stadium\, New Orleans\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869526
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Mexico State Aggies at Troy Trojans (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165238Z
+UID:400869816
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086981
+ 6\nNetworks: 
+LOCATION:Veterans Memorial Stadium \, Troy\, AL
+URL:http://www.espn.com/college-football/game?gameId=400869816
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nicholls State Colonels at South Alabama Jaguars (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165238Z
+UID:400869817
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086981
+ 7\nNetworks: 
+LOCATION:Ladd-Peebles Stadium\, Mobile\, AL
+URL:http://www.espn.com/college-football/game?gameId=400869817
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Arkansas Bears at Arkansas State Red Wolves
+DTSTART;VALUE=DATE-TIME:20160924T230000Z
+DTEND;VALUE=DATE-TIME:20160925T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165238Z
+UID:400869815
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086981
+ 5\nNetworks: 
+LOCATION:Centennial Bank Stadium\, Jonesboro\, AR
+URL:http://www.espn.com/college-football/game?gameId=400869815
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Houston Cougars at Texas State Bobcats
+DTSTART;VALUE=DATE-TIME:20160924T230000Z
+DTEND;VALUE=DATE-TIME:20160925T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165238Z
+UID:400869525
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086952
+ 5\nNetworks: 
+LOCATION:Bobcat Stadium \, San Marcos\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869525
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Idaho Vandals at UNLV Rebels
+DTSTART;VALUE=DATE-TIME:20160925T010000Z
+DTEND;VALUE=DATE-TIME:20160925T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165238Z
+UID:400869205
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086920
+ 5\nNetworks: 
+LOCATION:Sam Boyd Stadium\, Las Vegas\, NV
+URL:http://www.espn.com/college-football/game?gameId=400869205
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Monroe Warhawks at Auburn Tigers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161001T160000
+DTEND;VALUE=DATE-TIME:20161001T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165239Z
+UID:400869012
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086901
+ 2\nNetworks: 
+LOCATION:Jordan-Hare Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego State Aztecs at South Alabama Jaguars (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161001T160000
+DTEND;VALUE=DATE-TIME:20161001T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165239Z
+UID:400869212
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086921
+ 2\nNetworks: 
+LOCATION:Ladd-Peebles Stadium\, Mobile\, AL
+URL:http://www.espn.com/college-football/game?gameId=400869212
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgia State Panthers at Appalachian State Mountaineers (TIME TBD
+ )
+DTSTART;VALUE=DATE-TIME:20161001T160000
+DTEND;VALUE=DATE-TIME:20161001T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165239Z
+UID:400869818
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086981
+ 8\nNetworks: 
+LOCATION:Kidd Brewer Stadium\, Boone\, NC
+URL:http://www.espn.com/college-football/game?gameId=400869818
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Troy Trojans at Idaho Vandals
+DTSTART;VALUE=DATE-TIME:20161001T210000Z
+DTEND;VALUE=DATE-TIME:20161002T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165239Z
+UID:400869819
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086981
+ 9\nNetworks: 
+LOCATION:Kibbie Dome\, Moscow\, ID
+URL:http://www.espn.com/college-football/game?gameId=400869819
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Incarnate Word Cardinals at Texas State Bobcats
+DTSTART;VALUE=DATE-TIME:20161001T230000Z
+DTEND;VALUE=DATE-TIME:20161002T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165239Z
+UID:400869821
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086982
+ 1\nNetworks: 
+LOCATION:Bobcat Stadium \, San Marcos\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869821
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Lafayette Ragin' Cajuns at New Mexico State Aggies
+DTSTART;VALUE=DATE-TIME:20161002T000000Z
+DTEND;VALUE=DATE-TIME:20161002T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165239Z
+UID:400869820
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086982
+ 0\nNetworks: 
+LOCATION:Aggie Memorial Stadium\, Las Cruces\, NM
+URL:http://www.espn.com/college-football/game?gameId=400869820
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgia Southern Eagles at Arkansas State Red Wolves
+DTSTART;VALUE=DATE-TIME:20161006T000000Z
+DTEND;VALUE=DATE-TIME:20161006T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165239Z
+UID:400869822
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086982
+ 2\nNetworks: ESPN2\,WatchESPN
+LOCATION:Centennial Bank Stadium\, Jonesboro\, AR
+URL:http://www.espn.com/college-football/game?gameId=400869822
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas State Bobcats at Georgia State Panthers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161008T160000
+DTEND;VALUE=DATE-TIME:20161008T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165239Z
+UID:400869823
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086982
+ 3\nNetworks: 
+LOCATION:Georgia Dome\, Atlanta\, GA
+URL:http://www.espn.com/college-football/game?gameId=400869823
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Idaho Vandals at Louisiana Monroe Warhawks
+DTSTART;VALUE=DATE-TIME:20161008T230000Z
+DTEND;VALUE=DATE-TIME:20161009T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165239Z
+UID:400869824
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086982
+ 4\nNetworks: 
+LOCATION:Malone Stadium\, Monroe\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869824
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Appalachian State Mountaineers at Louisiana Lafayette Ragin' Cajun
+ s
+DTSTART;VALUE=DATE-TIME:20161013T000000Z
+DTEND;VALUE=DATE-TIME:20161013T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165239Z
+UID:400869825
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086982
+ 5\nNetworks: ESPN2\,WatchESPN
+LOCATION:Cajun Field\, Lafayette\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869825
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgia State Panthers at Troy Trojans (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161015T160000
+DTEND;VALUE=DATE-TIME:20161015T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165239Z
+UID:400869827
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086982
+ 7\nNetworks: 
+LOCATION:Veterans Memorial Stadium \, Troy\, AL
+URL:http://www.espn.com/college-football/game?gameId=400869827
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgia Southern Eagles at Georgia Tech Yellow Jackets (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161015T160000
+DTEND;VALUE=DATE-TIME:20161015T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165239Z
+UID:400869464
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086946
+ 4\nNetworks: 
+LOCATION:Bobby Dodd Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Mexico State Aggies at Idaho Vandals
+DTSTART;VALUE=DATE-TIME:20161015T210000Z
+DTEND;VALUE=DATE-TIME:20161016T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165239Z
+UID:400869828
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086982
+ 8\nNetworks: 
+LOCATION:Kibbie Dome\, Moscow\, ID
+URL:http://www.espn.com/college-football/game?gameId=400869828
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas State Bobcats at Louisiana Monroe Warhawks
+DTSTART;VALUE=DATE-TIME:20161015T230000Z
+DTEND;VALUE=DATE-TIME:20161016T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165239Z
+UID:400869829
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086982
+ 9\nNetworks: 
+LOCATION:Malone Stadium\, Monroe\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Alabama Jaguars at Arkansas State Red Wolves
+DTSTART;VALUE=DATE-TIME:20161015T230000Z
+DTEND;VALUE=DATE-TIME:20161016T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165239Z
+UID:400869826
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086982
+ 6\nNetworks: 
+LOCATION:Centennial Bank Stadium\, Jonesboro\, AR
+URL:http://www.espn.com/college-football/game?gameId=400869826
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Troy Trojans at South Alabama Jaguars
+DTSTART;VALUE=DATE-TIME:20161020T233000Z
+DTEND;VALUE=DATE-TIME:20161021T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165240Z
+UID:400869830
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086983
+ 0\nNetworks: ESPNU\,WatchESPN
+LOCATION:Ladd-Peebles Stadium\, Mobile\, AL
+URL:http://www.espn.com/college-football/game?gameId=400869830
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Idaho Vandals at Appalachian State Mountaineers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161022T160000
+DTEND;VALUE=DATE-TIME:20161022T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165240Z
+UID:400869831
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086983
+ 1\nNetworks: 
+LOCATION:Kidd Brewer Stadium\, Boone\, NC
+URL:http://www.espn.com/college-football/game?gameId=400869831
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee-Martin Skyhawks at Georgia State Panthers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161022T160000
+DTEND;VALUE=DATE-TIME:20161022T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165240Z
+UID:400869833
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086983
+ 3\nNetworks: 
+LOCATION:Georgia Dome\, Atlanta\, GA
+URL:http://www.espn.com/college-football/game?gameId=400869833
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Lafayette Ragin' Cajuns at Texas State Bobcats
+DTSTART;VALUE=DATE-TIME:20161022T230000Z
+DTEND;VALUE=DATE-TIME:20161023T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165240Z
+UID:400869834
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086983
+ 4\nNetworks: 
+LOCATION:Bobcat Stadium \, San Marcos\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869834
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgia Southern Eagles at New Mexico State Aggies
+DTSTART;VALUE=DATE-TIME:20161023T000000Z
+DTEND;VALUE=DATE-TIME:20161023T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165240Z
+UID:400869832
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086983
+ 2\nNetworks: 
+LOCATION:Aggie Memorial Stadium\, Las Cruces\, NM
+URL:http://www.espn.com/college-football/game?gameId=400869832
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Monroe Warhawks at New Mexico Lobos
+DTSTART;VALUE=DATE-TIME:20161023T010000Z
+DTEND;VALUE=DATE-TIME:20161023T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165240Z
+UID:400869227
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086922
+ 7\nNetworks: 
+LOCATION:University Stadium \, Albuquerque\, NM
+URL:http://www.espn.com/college-football/game?gameId=400869227
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Appalachian State Mountaineers at Georgia Southern Eagles
+DTSTART;VALUE=DATE-TIME:20161027T233000Z
+DTEND;VALUE=DATE-TIME:20161028T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165240Z
+UID:400869835
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086983
+ 5\nNetworks: ESPNU\,WatchESPN
+LOCATION:Allen E. Paulson Stadium\, Statesboro\, GA
+URL:http://www.espn.com/college-football/game?gameId=400869835
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Mexico State Aggies at Texas A&M Aggies (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161029T160000
+DTEND;VALUE=DATE-TIME:20161029T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165240Z
+UID:400869040
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086904
+ 0\nNetworks: 
+LOCATION:Kyle Field
+URL:http://www.espn.com/college-football/game?gameId=400869040
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgia State Panthers at South Alabama Jaguars (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161029T160000
+DTEND;VALUE=DATE-TIME:20161029T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165240Z
+UID:400869837
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086983
+ 7\nNetworks: 
+LOCATION:Ladd-Peebles Stadium\, Mobile\, AL
+URL:http://www.espn.com/college-football/game?gameId=400869837
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Monroe Warhawks at Arkansas State Red Wolves
+DTSTART;VALUE=DATE-TIME:20161029T230000Z
+DTEND;VALUE=DATE-TIME:20161030T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165240Z
+UID:400869836
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086983
+ 6\nNetworks: 
+LOCATION:Centennial Bank Stadium\, Jonesboro\, AR
+URL:http://www.espn.com/college-football/game?gameId=400869836
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arkansas State Red Wolves at Georgia State Panthers
+DTSTART;VALUE=DATE-TIME:20161103T233000Z
+DTEND;VALUE=DATE-TIME:20161104T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165240Z
+UID:400869838
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086983
+ 8\nNetworks: ESPNU\,WatchESPN
+LOCATION:Georgia Dome\, Atlanta\, GA
+URL:http://www.espn.com/college-football/game?gameId=400869838
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas State Bobcats at Appalachian State Mountaineers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161105T160000
+DTEND;VALUE=DATE-TIME:20161105T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165240Z
+UID:400869839
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086983
+ 9\nNetworks: 
+LOCATION:Kidd Brewer Stadium\, Boone\, NC
+URL:http://www.espn.com/college-football/game?gameId=400869839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Massachusetts Minutemen at Troy Trojans (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161105T160000
+DTEND;VALUE=DATE-TIME:20161105T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165240Z
+UID:400868966
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086896
+ 6\nNetworks: 
+LOCATION:Veterans Memorial Stadium \, Troy\, AL
+URL:http://www.espn.com/college-football/game?gameId=400868966
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgia Southern Eagles at Ole Miss Rebels (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161105T160000
+DTEND;VALUE=DATE-TIME:20161105T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165240Z
+UID:400869045
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086904
+ 5\nNetworks: 
+LOCATION:Vaught-Hemingway Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869045
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Idaho Vandals at Louisiana Lafayette Ragin' Cajuns
+DTSTART;VALUE=DATE-TIME:20161105T210000Z
+DTEND;VALUE=DATE-TIME:20161106T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165240Z
+UID:400869840
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086984
+ 0\nNetworks: 
+LOCATION:Cajun Field\, Lafayette\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869840
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Alabama Jaguars at Louisiana Monroe Warhawks
+DTSTART;VALUE=DATE-TIME:20161105T210000Z
+DTEND;VALUE=DATE-TIME:20161106T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165240Z
+UID:400869841
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086984
+ 1\nNetworks: 
+LOCATION:Malone Stadium\, Monroe\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869841
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Lafayette Ragin' Cajuns at Georgia Southern Eagles
+DTSTART;VALUE=DATE-TIME:20161111T003000Z
+DTEND;VALUE=DATE-TIME:20161111T040000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165241Z
+UID:400869844
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086984
+ 4\nNetworks: ESPNU\,WatchESPN
+LOCATION:Allen E. Paulson Stadium\, Statesboro\, GA
+URL:http://www.espn.com/college-football/game?gameId=400869844
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Monroe Warhawks at Georgia State Panthers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161112T160000
+DTEND;VALUE=DATE-TIME:20161112T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165241Z
+UID:400869845
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086984
+ 5\nNetworks: 
+LOCATION:Georgia Dome\, Atlanta\, GA
+URL:http://www.espn.com/college-football/game?gameId=400869845
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Appalachian State Mountaineers at Troy Trojans (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161112T160000
+DTEND;VALUE=DATE-TIME:20161112T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165241Z
+UID:400869842
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086984
+ 2\nNetworks: 
+LOCATION:Veterans Memorial Stadium \, Troy\, AL
+URL:http://www.espn.com/college-football/game?gameId=400869842
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Mexico State Aggies at Arkansas State Red Wolves
+DTSTART;VALUE=DATE-TIME:20161112T200000Z
+DTEND;VALUE=DATE-TIME:20161112T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165241Z
+UID:400869843
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086984
+ 3\nNetworks: 
+LOCATION:Centennial Bank Stadium\, Jonesboro\, AR
+URL:http://www.espn.com/college-football/game?gameId=400869843
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Idaho Vandals at Texas State Bobcats
+DTSTART;VALUE=DATE-TIME:20161112T210000Z
+DTEND;VALUE=DATE-TIME:20161113T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165241Z
+UID:400869846
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086984
+ 6\nNetworks: 
+LOCATION:Bobcat Stadium \, San Marcos\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869846
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arkansas State Red Wolves at Troy Trojans
+DTSTART;VALUE=DATE-TIME:20161118T023000Z
+DTEND;VALUE=DATE-TIME:20161118T060000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165241Z
+UID:400869847
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086984
+ 7\nNetworks: ESPNU\,WatchESPN
+LOCATION:Veterans Memorial Stadium \, Troy\, AL
+URL:http://www.espn.com/college-football/game?gameId=400869847
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Monroe Warhawks at Appalachian State Mountaineers (TIME 
+ TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165241Z
+UID:400869848
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086984
+ 8\nNetworks: 
+LOCATION:Kidd Brewer Stadium\, Boone\, NC
+URL:http://www.espn.com/college-football/game?gameId=400869848
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgia Southern Eagles at Georgia State Panthers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165241Z
+UID:400869849
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086984
+ 9\nNetworks: 
+LOCATION:Georgia Dome\, Atlanta\, GA
+URL:http://www.espn.com/college-football/game?gameId=400869849
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Lafayette Ragin' Cajuns at Georgia Bulldogs (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165241Z
+UID:400869059
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086905
+ 9\nNetworks: 
+LOCATION:Sanford Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869059
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Alabama Jaguars at LSU Tigers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165241Z
+UID:400869061
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086906
+ 1\nNetworks: 
+LOCATION:Tiger Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869061
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas State Bobcats at New Mexico State Aggies
+DTSTART;VALUE=DATE-TIME:20161119T210000Z
+DTEND;VALUE=DATE-TIME:20161120T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165241Z
+UID:400869850
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086985
+ 0\nNetworks: 
+LOCATION:Aggie Memorial Stadium\, Las Cruces\, NM
+URL:http://www.espn.com/college-football/game?gameId=400869850
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arkansas State Red Wolves at Louisiana Lafayette Ragin' Cajuns (TI
+ ME TBD)
+DTSTART;VALUE=DATE-TIME:20161126T160000
+DTEND;VALUE=DATE-TIME:20161126T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165241Z
+UID:400869852
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086985
+ 2\nNetworks: 
+LOCATION:Cajun Field\, Lafayette\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869852
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Appalachian State Mountaineers at New Mexico State Aggies
+DTSTART;VALUE=DATE-TIME:20161126T210000Z
+DTEND;VALUE=DATE-TIME:20161127T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165241Z
+UID:400869851
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086985
+ 1\nNetworks: 
+LOCATION:Aggie Memorial Stadium\, Las Cruces\, NM
+URL:http://www.espn.com/college-football/game?gameId=400869851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Troy Trojans at Texas State Bobcats
+DTSTART;VALUE=DATE-TIME:20161126T210000Z
+DTEND;VALUE=DATE-TIME:20161127T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165241Z
+UID:400869854
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086985
+ 4\nNetworks: 
+LOCATION:Bobcat Stadium \, San Marcos\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869854
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Alabama Jaguars at Idaho Vandals
+DTSTART;VALUE=DATE-TIME:20161127T020000Z
+DTEND;VALUE=DATE-TIME:20161127T053000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165241Z
+UID:400869853
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086985
+ 3\nNetworks: 
+LOCATION:Kibbie Dome\, Moscow\, ID
+URL:http://www.espn.com/college-football/game?gameId=400869853
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Mexico State Aggies at South Alabama Jaguars (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161203T160000
+DTEND;VALUE=DATE-TIME:20161203T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165242Z
+UID:400869859
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086985
+ 9\nNetworks: 
+LOCATION:Ladd-Peebles Stadium\, Mobile\, AL
+URL:http://www.espn.com/college-football/game?gameId=400869859
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Troy Trojans at Georgia Southern Eagles
+DTSTART;VALUE=DATE-TIME:20161203T180000Z
+DTEND;VALUE=DATE-TIME:20161203T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165242Z
+UID:400869856
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086985
+ 6\nNetworks: 
+LOCATION:Allen E. Paulson Stadium\, Statesboro\, GA
+URL:http://www.espn.com/college-football/game?gameId=400869856
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Lafayette Ragin' Cajuns at Louisiana Monroe Warhawks
+DTSTART;VALUE=DATE-TIME:20161203T200000Z
+DTEND;VALUE=DATE-TIME:20161203T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165242Z
+UID:400869858
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086985
+ 8\nNetworks: 
+LOCATION:Malone Stadium\, Monroe\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869858
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arkansas State Red Wolves at Texas State Bobcats
+DTSTART;VALUE=DATE-TIME:20161203T210000Z
+DTEND;VALUE=DATE-TIME:20161204T003000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165242Z
+UID:400869855
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086985
+ 5\nNetworks: 
+LOCATION:Bobcat Stadium \, San Marcos\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869855
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgia State Panthers at Idaho Vandals
+DTSTART;VALUE=DATE-TIME:20161203T220000Z
+DTEND;VALUE=DATE-TIME:20161204T013000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165242Z
+UID:400869857
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086985
+ 7\nNetworks: 
+LOCATION:Kibbie Dome\, Moscow\, ID
+URL:http://www.espn.com/college-football/game?gameId=400869857
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1073 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ncaaf-calendar//jiva//
+DTSTART;VALUE=DATE-TIME:20160823T165248
+SUMMARY:2016 NCAAF Schedule
+BEGIN:VEVENT
+SUMMARY:Hawaii Rainbow Warriors vs California Golden Bears
+DTSTART;VALUE=DATE-TIME:20160827T020000Z
+DTEND;VALUE=DATE-TIME:20160827T053000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165248Z
+UID:400869090
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086909
+ 0\nNetworks: ESPN\,WatchESPN
+LOCATION:ANZ Stadium\, Sydney\, NSW
+URL:http://www.espn.com/college-football/game?gameId=400869090
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weber State Wildcats at Utah State Aggies
+DTSTART;VALUE=DATE-TIME:20160902T000000Z
+DTEND;VALUE=DATE-TIME:20160902T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165248Z
+UID:400869173
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086917
+ 3\nNetworks: 
+LOCATION:Romney Stadium\, Logan\, UT
+URL:http://www.espn.com/college-football/game?gameId=400869173
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Dakota Coyotes at New Mexico Lobos
+DTSTART;VALUE=DATE-TIME:20160902T010000Z
+DTEND;VALUE=DATE-TIME:20160902T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165248Z
+UID:400869177
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086917
+ 7\nNetworks: 
+LOCATION:University Stadium \, Albuquerque\, NM
+URL:http://www.espn.com/college-football/game?gameId=400869177
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jackson State Tigers at UNLV Rebels
+DTSTART;VALUE=DATE-TIME:20160902T020000Z
+DTEND;VALUE=DATE-TIME:20160902T053000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165248Z
+UID:400869174
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086917
+ 4\nNetworks: 
+LOCATION:Sam Boyd Stadium\, Las Vegas\, NV
+URL:http://www.espn.com/college-football/game?gameId=400869174
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado State Rams vs Colorado Buffaloes
+DTSTART;VALUE=DATE-TIME:20160903T000000Z
+DTEND;VALUE=DATE-TIME:20160903T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165248Z
+UID:400869093
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086909
+ 3\nNetworks: ESPN\,WatchESPN
+LOCATION:Sports Authority Field\, Denver\, CO
+URL:http://www.espn.com/college-football/game?gameId=400869093
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cal Poly Mustangs at Nevada Wolf Pack
+DTSTART;VALUE=DATE-TIME:20160903T013000Z
+DTEND;VALUE=DATE-TIME:20160903T050000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165248Z
+UID:400869181
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086918
+ 1\nNetworks: 
+LOCATION:Mackay Stadium\, Reno\, NV
+URL:http://www.espn.com/college-football/game?gameId=400869181
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawaii Rainbow Warriors at Michigan Wolverines
+DTSTART;VALUE=DATE-TIME:20160903T160000Z
+DTEND;VALUE=DATE-TIME:20160903T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165248Z
+UID:400869180
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086918
+ 0\nNetworks: ESPN\,WatchESPN
+LOCATION:Michigan Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869180
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boise State Broncos at Louisiana Lafayette Ragin' Cajuns
+DTSTART;VALUE=DATE-TIME:20160903T160000Z
+DTEND;VALUE=DATE-TIME:20160903T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165248Z
+UID:400869176
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086917
+ 6\nNetworks: ESPN3
+LOCATION:Cajun Field\, Lafayette\, LA
+URL:http://www.espn.com/college-football/game?gameId=400869176
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Abilene Christian Wildcats at Air Force Falcons
+DTSTART;VALUE=DATE-TIME:20160903T180000Z
+DTEND;VALUE=DATE-TIME:20160903T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165248Z
+UID:400869175
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086917
+ 5\nNetworks: CAMP
+LOCATION:Falcon Stadium\, Usaf Academy\, CO
+URL:http://www.espn.com/college-football/game?gameId=400869175
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San José State Spartans at Tulsa Golden Hurricane
+DTSTART;VALUE=DATE-TIME:20160903T230000Z
+DTEND;VALUE=DATE-TIME:20160904T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165248Z
+UID:400869183
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086918
+ 3\nNetworks: CBSSN
+LOCATION:Chapman Stadium\, Tulsa\, OK
+URL:http://www.espn.com/college-football/game?gameId=400869183
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fresno State Bulldogs at Nebraska Cornhuskers
+DTSTART;VALUE=DATE-TIME:20160904T000000Z
+DTEND;VALUE=DATE-TIME:20160904T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165248Z
+UID:400869179
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086917
+ 9\nNetworks: BTN
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869179
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Hampshire Wildcats at San Diego State Aztecs
+DTSTART;VALUE=DATE-TIME:20160904T003000Z
+DTEND;VALUE=DATE-TIME:20160904T040000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165248Z
+UID:400869182
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086918
+ 2\nNetworks: 
+LOCATION:Qualcomm Stadium\, San Diego\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869182
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Illinois Huskies at Wyoming Cowboys
+DTSTART;VALUE=DATE-TIME:20160904T023000Z
+DTEND;VALUE=DATE-TIME:20160904T060000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165248Z
+UID:400869178
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086917
+ 8\nNetworks: CBSSN
+LOCATION:War Memorial Stadium \, Laramie\, WY
+URL:http://www.espn.com/college-football/game?gameId=400869178
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wyoming Cowboys at Nebraska Cornhuskers
+DTSTART;VALUE=DATE-TIME:20160910T160000Z
+DTEND;VALUE=DATE-TIME:20160910T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165248Z
+UID:400869187
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086918
+ 7\nNetworks: ESPN2\,WatchESPN
+LOCATION:Memorial Stadium 
+URL:http://www.espn.com/college-football/game?gameId=400869187
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Georgia State Panthers at Air Force Falcons
+DTSTART;VALUE=DATE-TIME:20160910T180000Z
+DTEND;VALUE=DATE-TIME:20160910T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869184
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086918
+ 4\nNetworks: CAMP
+LOCATION:Falcon Stadium\, Usaf Academy\, CO
+URL:http://www.espn.com/college-football/game?gameId=400869184
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utah State Aggies at USC Trojans
+DTSTART;VALUE=DATE-TIME:20160910T180000Z
+DTEND;VALUE=DATE-TIME:20160910T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869101
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086910
+ 1\nNetworks: PAC12
+LOCATION:Los Angeles Memorial Coliseum
+URL:http://www.espn.com/college-football/game?gameId=400869101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nevada Wolf Pack at Notre Dame Fighting Irish
+DTSTART;VALUE=DATE-TIME:20160910T193000Z
+DTEND;VALUE=DATE-TIME:20160910T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400868947
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086894
+ 7\nNetworks: NBC
+LOCATION:Notre Dame Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868947
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Texas San Antonio Roadrunners at Colorado State Rams
+DTSTART;VALUE=DATE-TIME:20160910T200000Z
+DTEND;VALUE=DATE-TIME:20160910T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869185
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086918
+ 5\nNetworks: CAMP
+LOCATION:Hughes Stadium \, Fort Collins\, CO
+URL:http://www.espn.com/college-football/game?gameId=400869185
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portland State Vikings at San José State Spartans
+DTSTART;VALUE=DATE-TIME:20160910T203000Z
+DTEND;VALUE=DATE-TIME:20160911T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869190
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086919
+ 0\nNetworks: 
+LOCATION:CEFCU Stadium - Home of the Spartans\, San Jose\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869190
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Mexico Lobos at New Mexico State Aggies
+DTSTART;VALUE=DATE-TIME:20160911T000000Z
+DTEND;VALUE=DATE-TIME:20160911T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869186
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086918
+ 6\nNetworks: ESPN3
+LOCATION:Aggie Memorial Stadium\, Las Cruces\, NM
+URL:http://www.espn.com/college-football/game?gameId=400869186
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNLV Rebels at UCLA Bruins
+DTSTART;VALUE=DATE-TIME:20160911T000000Z
+DTEND;VALUE=DATE-TIME:20160911T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869102
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086910
+ 2\nNetworks: PAC12
+LOCATION:Rose Bowl
+URL:http://www.espn.com/college-football/game?gameId=400869102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sacramento State Hornets at Fresno State Bulldogs
+DTSTART;VALUE=DATE-TIME:20160911T020000Z
+DTEND;VALUE=DATE-TIME:20160911T053000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869188
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086918
+ 8\nNetworks: 
+LOCATION:Bulldog Stadium \, Fresno\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869188
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Washington State Cougars at Boise State Broncos
+DTSTART;VALUE=DATE-TIME:20160911T021500Z
+DTEND;VALUE=DATE-TIME:20160911T054500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869106
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086910
+ 6\nNetworks: ESPN2\,WatchESPN
+LOCATION:Albertsons Stadium\, Boise\, ID
+URL:http://www.espn.com/college-football/game?gameId=400869106
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:California Golden Bears at San Diego State Aztecs
+DTSTART;VALUE=DATE-TIME:20160911T023000Z
+DTEND;VALUE=DATE-TIME:20160911T060000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869107
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086910
+ 7\nNetworks: CBSSN
+LOCATION:Qualcomm Stadium\, San Diego\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tennessee-Martin Skyhawks at Hawaii Rainbow Warriors
+DTSTART;VALUE=DATE-TIME:20160911T035900Z
+DTEND;VALUE=DATE-TIME:20160911T072900Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869189
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086918
+ 9\nNetworks: 
+LOCATION:Aloha Stadium\, Honolulu\, HI
+URL:http://www.espn.com/college-football/game?gameId=400869189
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arkansas State Red Wolves at Utah State Aggies
+DTSTART;VALUE=DATE-TIME:20160917T010000Z
+DTEND;VALUE=DATE-TIME:20160917T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869193
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086919
+ 3\nNetworks: CBSSN
+LOCATION:Romney Stadium\, Logan\, UT
+URL:http://www.espn.com/college-football/game?gameId=400869193
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Mexico Lobos at Rutgers Scarlet Knights
+DTSTART;VALUE=DATE-TIME:20160917T160000Z
+DTEND;VALUE=DATE-TIME:20160917T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869192
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086919
+ 2\nNetworks: ESPNN\,WatchESPN
+LOCATION:High Point Solutions Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869192
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fresno State Bulldogs at Toledo Rockets
+DTSTART;VALUE=DATE-TIME:20160917T190000Z
+DTEND;VALUE=DATE-TIME:20160917T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869195
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086919
+ 5\nNetworks: ESPN3
+LOCATION:Glass Bowl\, Toledo\, OH
+URL:http://www.espn.com/college-football/game?gameId=400869195
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNLV Rebels at Central Michigan Chippewas
+DTSTART;VALUE=DATE-TIME:20160917T190000Z
+DTEND;VALUE=DATE-TIME:20160917T223000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869198
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086919
+ 8\nNetworks: ESPN3
+LOCATION:Kelly/Shorts Stadium\, Mount Pleasant\, MI
+URL:http://www.espn.com/college-football/game?gameId=400869198
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego State Aztecs at Northern Illinois Huskies
+DTSTART;VALUE=DATE-TIME:20160917T193000Z
+DTEND;VALUE=DATE-TIME:20160917T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869197
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086919
+ 7\nNetworks: CBSSN
+LOCATION:Huskie Stadium\, DeKalb\, IL
+URL:http://www.espn.com/college-football/game?gameId=400869197
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UC Davis Aggies at Wyoming Cowboys
+DTSTART;VALUE=DATE-TIME:20160917T200000Z
+DTEND;VALUE=DATE-TIME:20160917T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869194
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086919
+ 4\nNetworks: 
+LOCATION:War Memorial Stadium \, Laramie\, WY
+URL:http://www.espn.com/college-football/game?gameId=400869194
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Colorado Bears at Colorado State Rams
+DTSTART;VALUE=DATE-TIME:20160917T200000Z
+DTEND;VALUE=DATE-TIME:20160917T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869191
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086919
+ 1\nNetworks: 
+LOCATION:Hughes Stadium \, Fort Collins\, CO
+URL:http://www.espn.com/college-football/game?gameId=400869191
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buffalo Bulls at Nevada Wolf Pack
+DTSTART;VALUE=DATE-TIME:20160918T010000Z
+DTEND;VALUE=DATE-TIME:20160918T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869196
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086919
+ 6\nNetworks: CAMP
+LOCATION:Mackay Stadium\, Reno\, NV
+URL:http://www.espn.com/college-football/game?gameId=400869196
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utah Utes at San José State Spartans
+DTSTART;VALUE=DATE-TIME:20160918T023000Z
+DTEND;VALUE=DATE-TIME:20160918T060000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869112
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086911
+ 2\nNetworks: CBSSN
+LOCATION:CEFCU Stadium - Home of the Spartans\, San Jose\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawaii Rainbow Warriors at Arizona Wildcats
+DTSTART;VALUE=DATE-TIME:20160918T024500Z
+DTEND;VALUE=DATE-TIME:20160918T061500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869108
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086910
+ 8\nNetworks: PAC12
+LOCATION:Arizona Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869108
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wyoming Cowboys at Eastern Michigan Eagles
+DTSTART;VALUE=DATE-TIME:20160923T233000Z
+DTEND;VALUE=DATE-TIME:20160924T030000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869201
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086920
+ 1\nNetworks: CBSSN
+LOCATION:Rynearson Stadium\, Ypsilanti\, MI
+URL:http://www.espn.com/college-football/game?gameId=400869201
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boise State Broncos at Oregon State Beavers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869123
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086912
+ 3\nNetworks: 
+LOCATION:Reser Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869123
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Air Force Falcons at Utah State Aggies (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869199
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086919
+ 9\nNetworks: 
+LOCATION:Romney Stadium\, Logan\, UT
+URL:http://www.espn.com/college-football/game?gameId=400869199
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado State Rams at Minnesota Golden Gophers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869200
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086920
+ 0\nNetworks: 
+LOCATION:TCF Bank Stadium\, Minneapolis\, MN
+URL:http://www.espn.com/college-football/game?gameId=400869200
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nevada Wolf Pack at Purdue Boilermakers (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20160924T160000
+DTEND;VALUE=DATE-TIME:20160924T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869203
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086920
+ 3\nNetworks: 
+LOCATION:Ross-Ade Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San José State Spartans at Iowa State Cyclones
+DTSTART;VALUE=DATE-TIME:20160924T160000Z
+DTEND;VALUE=DATE-TIME:20160924T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869204
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086920
+ 4\nNetworks: 
+LOCATION:Jack Trice Stadium
+URL:http://www.espn.com/college-football/game?gameId=400869204
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tulsa Golden Hurricane at Fresno State Bulldogs
+DTSTART;VALUE=DATE-TIME:20160924T203000Z
+DTEND;VALUE=DATE-TIME:20160925T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869202
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086920
+ 2\nNetworks: CAMP
+LOCATION:Bulldog Stadium \, Fresno\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869202
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Idaho Vandals at UNLV Rebels
+DTSTART;VALUE=DATE-TIME:20160925T010000Z
+DTEND;VALUE=DATE-TIME:20160925T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165249Z
+UID:400869205
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086920
+ 5\nNetworks: 
+LOCATION:Sam Boyd Stadium\, Las Vegas\, NV
+URL:http://www.espn.com/college-football/game?gameId=400869205
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utah State Aggies at Boise State Broncos (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161001T160000
+DTEND;VALUE=DATE-TIME:20161001T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165250Z
+UID:400869207
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086920
+ 7\nNetworks: 
+LOCATION:Albertsons Stadium\, Boise\, ID
+URL:http://www.espn.com/college-football/game?gameId=400869207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wyoming Cowboys at Colorado State Rams (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161001T160000
+DTEND;VALUE=DATE-TIME:20161001T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165250Z
+UID:400869208
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086920
+ 8\nNetworks: 
+LOCATION:Hughes Stadium \, Fort Collins\, CO
+URL:http://www.espn.com/college-football/game?gameId=400869208
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego State Aztecs at South Alabama Jaguars (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161001T160000
+DTEND;VALUE=DATE-TIME:20161001T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165250Z
+UID:400869212
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086921
+ 2\nNetworks: 
+LOCATION:Ladd-Peebles Stadium\, Mobile\, AL
+URL:http://www.espn.com/college-football/game?gameId=400869212
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Navy Midshipmen at Air Force Falcons
+DTSTART;VALUE=DATE-TIME:20161001T193000Z
+DTEND;VALUE=DATE-TIME:20161001T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165250Z
+UID:400869206
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086920
+ 6\nNetworks: CBSSN
+LOCATION:Falcon Stadium\, Usaf Academy\, CO
+URL:http://www.espn.com/college-football/game?gameId=400869206
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San José State Spartans at New Mexico Lobos
+DTSTART;VALUE=DATE-TIME:20161001T200000Z
+DTEND;VALUE=DATE-TIME:20161001T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165250Z
+UID:400869209
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086920
+ 9\nNetworks: 
+LOCATION:University Stadium \, Albuquerque\, NM
+URL:http://www.espn.com/college-football/game?gameId=400869209
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fresno State Bulldogs at UNLV Rebels
+DTSTART;VALUE=DATE-TIME:20161002T023000Z
+DTEND;VALUE=DATE-TIME:20161002T060000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165250Z
+UID:400869210
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086921
+ 0\nNetworks: CBSSN
+LOCATION:Sam Boyd Stadium\, Las Vegas\, NV
+URL:http://www.espn.com/college-football/game?gameId=400869210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nevada Wolf Pack at Hawaii Rainbow Warriors
+DTSTART;VALUE=DATE-TIME:20161002T035900Z
+DTEND;VALUE=DATE-TIME:20161002T072900Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165250Z
+UID:400869211
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086921
+ 1\nNetworks: 
+LOCATION:Aloha Stadium\, Honolulu\, HI
+URL:http://www.espn.com/college-football/game?gameId=400869211
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boise State Broncos at New Mexico Lobos
+DTSTART;VALUE=DATE-TIME:20161008T010000Z
+DTEND;VALUE=DATE-TIME:20161008T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165250Z
+UID:400869214
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086921
+ 4\nNetworks: CBSSN
+LOCATION:University Stadium \, Albuquerque\, NM
+URL:http://www.espn.com/college-football/game?gameId=400869214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fresno State Bulldogs at Nevada Wolf Pack (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161008T160000
+DTEND;VALUE=DATE-TIME:20161008T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165250Z
+UID:400869216
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086921
+ 6\nNetworks: 
+LOCATION:Mackay Stadium\, Reno\, NV
+URL:http://www.espn.com/college-football/game?gameId=400869216
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNLV Rebels at San Diego State Aztecs (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161008T160000
+DTEND;VALUE=DATE-TIME:20161008T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165250Z
+UID:400869218
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086921
+ 8\nNetworks: 
+LOCATION:Qualcomm Stadium\, San Diego\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869218
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Air Force Falcons at Wyoming Cowboys
+DTSTART;VALUE=DATE-TIME:20161008T193000Z
+DTEND;VALUE=DATE-TIME:20161008T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165250Z
+UID:400869213
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086921
+ 3\nNetworks: 
+LOCATION:War Memorial Stadium \, Laramie\, WY
+URL:http://www.espn.com/college-football/game?gameId=400869213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawaii Rainbow Warriors at San José State Spartans
+DTSTART;VALUE=DATE-TIME:20161008T203000Z
+DTEND;VALUE=DATE-TIME:20161009T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165250Z
+UID:400869217
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086921
+ 7\nNetworks: 
+LOCATION:CEFCU Stadium - Home of the Spartans\, San Jose\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869217
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utah State Aggies at Colorado State Rams
+DTSTART;VALUE=DATE-TIME:20161009T020000Z
+DTEND;VALUE=DATE-TIME:20161009T053000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165250Z
+UID:400869215
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086921
+ 5\nNetworks: CBSSN
+LOCATION:Hughes Stadium \, Fort Collins\, CO
+URL:http://www.espn.com/college-football/game?gameId=400869215
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego State Aztecs at Fresno State Bulldogs
+DTSTART;VALUE=DATE-TIME:20161015T020000Z
+DTEND;VALUE=DATE-TIME:20161015T053000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165250Z
+UID:400869221
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086922
+ 1\nNetworks: CBSSN
+LOCATION:Bulldog Stadium \, Fresno\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Mexico Lobos vs Air Force Falcons (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161015T160000
+DTEND;VALUE=DATE-TIME:20161015T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165250Z
+UID:400869219
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086921
+ 9\nNetworks: 
+LOCATION:Cotton Bowl\, Dallas\, TX
+URL:http://www.espn.com/college-football/game?gameId=400869219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado State Rams at Boise State Broncos (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161015T160000
+DTEND;VALUE=DATE-TIME:20161015T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165250Z
+UID:400869220
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086922
+ 0\nNetworks: 
+LOCATION:Albertsons Stadium\, Boise\, ID
+URL:http://www.espn.com/college-football/game?gameId=400869220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nevada Wolf Pack at San José State Spartans
+DTSTART;VALUE=DATE-TIME:20161016T023000Z
+DTEND;VALUE=DATE-TIME:20161016T060000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165250Z
+UID:400869223
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086922
+ 3\nNetworks: CBSSN
+LOCATION:CEFCU Stadium - Home of the Spartans\, San Jose\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869223
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNLV Rebels at Hawaii Rainbow Warriors
+DTSTART;VALUE=DATE-TIME:20161016T035900Z
+DTEND;VALUE=DATE-TIME:20161016T072900Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165250Z
+UID:400869222
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086922
+ 2\nNetworks: 
+LOCATION:Aloha Stadium\, Honolulu\, HI
+URL:http://www.espn.com/college-football/game?gameId=400869222
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BYU Cougars at Boise State Broncos
+DTSTART;VALUE=DATE-TIME:20161021T021500Z
+DTEND;VALUE=DATE-TIME:20161021T054500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165251Z
+UID:400869224
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086922
+ 4\nNetworks: ESPN\,WatchESPN
+LOCATION:Albertsons Stadium\, Boise\, ID
+URL:http://www.espn.com/college-football/game?gameId=400869224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San José State Spartans at San Diego State Aztecs
+DTSTART;VALUE=DATE-TIME:20161022T023000Z
+DTEND;VALUE=DATE-TIME:20161022T060000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165251Z
+UID:400869230
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086923
+ 0\nNetworks: ESPN2\,WatchESPN
+LOCATION:Qualcomm Stadium\, San Diego\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869230
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wyoming Cowboys at Nevada Wolf Pack (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161022T160000
+DTEND;VALUE=DATE-TIME:20161022T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165251Z
+UID:400869229
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086922
+ 9\nNetworks: 
+LOCATION:Mackay Stadium\, Reno\, NV
+URL:http://www.espn.com/college-football/game?gameId=400869229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawaii Rainbow Warriors at Air Force Falcons
+DTSTART;VALUE=DATE-TIME:20161022T180000Z
+DTEND;VALUE=DATE-TIME:20161022T213000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165251Z
+UID:400869225
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086922
+ 5\nNetworks: 
+LOCATION:Falcon Stadium\, Usaf Academy\, CO
+URL:http://www.espn.com/college-football/game?gameId=400869225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado State Rams at UNLV Rebels
+DTSTART;VALUE=DATE-TIME:20161022T213000Z
+DTEND;VALUE=DATE-TIME:20161023T010000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165251Z
+UID:400869226
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086922
+ 6\nNetworks: 
+LOCATION:Sam Boyd Stadium\, Las Vegas\, NV
+URL:http://www.espn.com/college-football/game?gameId=400869226
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Louisiana Monroe Warhawks at New Mexico Lobos
+DTSTART;VALUE=DATE-TIME:20161023T010000Z
+DTEND;VALUE=DATE-TIME:20161023T043000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165251Z
+UID:400869227
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086922
+ 7\nNetworks: 
+LOCATION:University Stadium \, Albuquerque\, NM
+URL:http://www.espn.com/college-football/game?gameId=400869227
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fresno State Bulldogs at Utah State Aggies
+DTSTART;VALUE=DATE-TIME:20161023T023000Z
+DTEND;VALUE=DATE-TIME:20161023T060000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165251Z
+UID:400869228
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086922
+ 8\nNetworks: CBSSN
+LOCATION:Romney Stadium\, Logan\, UT
+URL:http://www.espn.com/college-football/game?gameId=400869228
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego State Aztecs at Utah State Aggies
+DTSTART;VALUE=DATE-TIME:20161029T000000Z
+DTEND;VALUE=DATE-TIME:20161029T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165251Z
+UID:400869234
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086923
+ 4\nNetworks: CBSSN
+LOCATION:Romney Stadium\, Logan\, UT
+URL:http://www.espn.com/college-football/game?gameId=400869234
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Air Force Falcons at Fresno State Bulldogs
+DTSTART;VALUE=DATE-TIME:20161029T023000Z
+DTEND;VALUE=DATE-TIME:20161029T060000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165251Z
+UID:400869231
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086923
+ 1\nNetworks: ESPN2\,WatchESPN
+LOCATION:Bulldog Stadium \, Fresno\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869231
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boise State Broncos at Wyoming Cowboys
+DTSTART;VALUE=DATE-TIME:20161029T230000Z
+DTEND;VALUE=DATE-TIME:20161030T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165251Z
+UID:400869232
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086923
+ 2\nNetworks: CBSSN
+LOCATION:War Memorial Stadium \, Laramie\, WY
+URL:http://www.espn.com/college-football/game?gameId=400869232
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNLV Rebels at San José State Spartans
+DTSTART;VALUE=DATE-TIME:20161030T023000Z
+DTEND;VALUE=DATE-TIME:20161030T060000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165251Z
+UID:400869235
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086923
+ 5\nNetworks: CBSSN
+LOCATION:CEFCU Stadium - Home of the Spartans\, San Jose\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869235
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Mexico Lobos at Hawaii Rainbow Warriors
+DTSTART;VALUE=DATE-TIME:20161030T035900Z
+DTEND;VALUE=DATE-TIME:20161030T072900Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165251Z
+UID:400869233
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086923
+ 3\nNetworks: 
+LOCATION:Aloha Stadium\, Honolulu\, HI
+URL:http://www.espn.com/college-football/game?gameId=400869233
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San José State Spartans at Boise State Broncos
+DTSTART;VALUE=DATE-TIME:20161105T021500Z
+DTEND;VALUE=DATE-TIME:20161105T054500Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165251Z
+UID:400869236
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086923
+ 6\nNetworks: ESPN2\,WatchESPN
+LOCATION:Albertsons Stadium\, Boise\, ID
+URL:http://www.espn.com/college-football/game?gameId=400869236
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nevada Wolf Pack at New Mexico Lobos (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161105T160000
+DTEND;VALUE=DATE-TIME:20161105T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165251Z
+UID:400869238
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086923
+ 8\nNetworks: 
+LOCATION:University Stadium \, Albuquerque\, NM
+URL:http://www.espn.com/college-football/game?gameId=400869238
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utah State Aggies at Wyoming Cowboys (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161105T160000
+DTEND;VALUE=DATE-TIME:20161105T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165251Z
+UID:400869239
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086923
+ 9\nNetworks: 
+LOCATION:War Memorial Stadium \, Laramie\, WY
+URL:http://www.espn.com/college-football/game?gameId=400869239
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Air Force Falcons at Army Black Knights
+DTSTART;VALUE=DATE-TIME:20161105T160000Z
+DTEND;VALUE=DATE-TIME:20161105T193000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165251Z
+UID:400868918
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086891
+ 8\nNetworks: CBSSN
+LOCATION:Michie Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868918
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fresno State Bulldogs at Colorado State Rams
+DTSTART;VALUE=DATE-TIME:20161105T193000Z
+DTEND;VALUE=DATE-TIME:20161105T230000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165251Z
+UID:400869237
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086923
+ 7\nNetworks: 
+LOCATION:Hughes Stadium \, Fort Collins\, CO
+URL:http://www.espn.com/college-football/game?gameId=400869237
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawaii Rainbow Warriors at San Diego State Aztecs
+DTSTART;VALUE=DATE-TIME:20161105T230000Z
+DTEND;VALUE=DATE-TIME:20161106T023000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165251Z
+UID:400869240
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086924
+ 0\nNetworks: 
+LOCATION:Qualcomm Stadium\, San Diego\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869240
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado State Rams at Air Force Falcons (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161112T160000
+DTEND;VALUE=DATE-TIME:20161112T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165252Z
+UID:400869241
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086924
+ 1\nNetworks: 
+LOCATION:Falcon Stadium\, Usaf Academy\, CO
+URL:http://www.espn.com/college-football/game?gameId=400869241
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Mexico Lobos at Utah State Aggies (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161112T160000
+DTEND;VALUE=DATE-TIME:20161112T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165252Z
+UID:400869243
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086924
+ 3\nNetworks: 
+LOCATION:Romney Stadium\, Logan\, UT
+URL:http://www.espn.com/college-football/game?gameId=400869243
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wyoming Cowboys at UNLV Rebels
+DTSTART;VALUE=DATE-TIME:20161112T200000Z
+DTEND;VALUE=DATE-TIME:20161112T233000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165252Z
+UID:400869244
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086924
+ 4\nNetworks: 
+LOCATION:Sam Boyd Stadium\, Las Vegas\, NV
+URL:http://www.espn.com/college-football/game?gameId=400869244
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boise State Broncos at Hawaii Rainbow Warriors
+DTSTART;VALUE=DATE-TIME:20161113T000000Z
+DTEND;VALUE=DATE-TIME:20161113T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165252Z
+UID:400869242
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086924
+ 2\nNetworks: CBSSN
+LOCATION:Aloha Stadium\, Honolulu\, HI
+URL:http://www.espn.com/college-football/game?gameId=400869242
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego State Aztecs at Nevada Wolf Pack
+DTSTART;VALUE=DATE-TIME:20161113T033000Z
+DTEND;VALUE=DATE-TIME:20161113T070000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165252Z
+UID:400869245
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086924
+ 5\nNetworks: 
+LOCATION:Mackay Stadium\, Reno\, NV
+URL:http://www.espn.com/college-football/game?gameId=400869245
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNLV Rebels at Boise State Broncos
+DTSTART;VALUE=DATE-TIME:20161119T020000Z
+DTEND;VALUE=DATE-TIME:20161119T053000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165252Z
+UID:400869246
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086924
+ 6\nNetworks: ESPN2\,WatchESPN
+LOCATION:Albertsons Stadium\, Boise\, ID
+URL:http://www.espn.com/college-football/game?gameId=400869246
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Mexico Lobos at Colorado State Rams (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165252Z
+UID:400869248
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086924
+ 8\nNetworks: 
+LOCATION:Hughes Stadium \, Fort Collins\, CO
+URL:http://www.espn.com/college-football/game?gameId=400869248
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utah State Aggies at Nevada Wolf Pack (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161119T160000
+DTEND;VALUE=DATE-TIME:20161119T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165252Z
+UID:400869249
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086924
+ 9\nNetworks: 
+LOCATION:Mackay Stadium\, Reno\, NV
+URL:http://www.espn.com/college-football/game?gameId=400869249
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San Diego State Aztecs at Wyoming Cowboys
+DTSTART;VALUE=DATE-TIME:20161119T203000Z
+DTEND;VALUE=DATE-TIME:20161120T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165252Z
+UID:400869250
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086925
+ 0\nNetworks: CBSSN
+LOCATION:War Memorial Stadium \, Laramie\, WY
+URL:http://www.espn.com/college-football/game?gameId=400869250
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hawaii Rainbow Warriors at Fresno State Bulldogs
+DTSTART;VALUE=DATE-TIME:20161120T000000Z
+DTEND;VALUE=DATE-TIME:20161120T033000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165252Z
+UID:400869251
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086925
+ 1\nNetworks: 
+LOCATION:Bulldog Stadium \, Fresno\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869251
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Air Force Falcons at San José State Spartans
+DTSTART;VALUE=DATE-TIME:20161120T033000Z
+DTEND;VALUE=DATE-TIME:20161120T070000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165252Z
+UID:400869247
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086924
+ 7\nNetworks: CBSSN
+LOCATION:CEFCU Stadium - Home of the Spartans\, San Jose\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869247
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boise State Broncos at Air Force Falcons
+DTSTART;VALUE=DATE-TIME:20161125T203000Z
+DTEND;VALUE=DATE-TIME:20161126T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165252Z
+UID:400869252
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086925
+ 2\nNetworks: CBSSN
+LOCATION:Falcon Stadium\, Usaf Academy\, CO
+URL:http://www.espn.com/college-football/game?gameId=400869252
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Utah State Aggies at BYU Cougars (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161126T160000
+DTEND;VALUE=DATE-TIME:20161126T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165252Z
+UID:400868933
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086893
+ 3\nNetworks: 
+LOCATION:LaVell Edwards Stadium
+URL:http://www.espn.com/college-football/game?gameId=400868933
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wyoming Cowboys at New Mexico Lobos (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161126T160000
+DTEND;VALUE=DATE-TIME:20161126T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165252Z
+UID:400869254
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086925
+ 4\nNetworks: 
+LOCATION:University Stadium \, Albuquerque\, NM
+URL:http://www.espn.com/college-football/game?gameId=400869254
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nevada Wolf Pack at UNLV Rebels (TIME TBD)
+DTSTART;VALUE=DATE-TIME:20161126T160000
+DTEND;VALUE=DATE-TIME:20161126T193000
+DTSTAMP;VALUE=DATE-TIME:20160823T165252Z
+UID:400869256
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086925
+ 6\nNetworks: 
+LOCATION:Sam Boyd Stadium\, Las Vegas\, NV
+URL:http://www.espn.com/college-football/game?gameId=400869256
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:San José State Spartans at Fresno State Bulldogs
+DTSTART;VALUE=DATE-TIME:20161126T203000Z
+DTEND;VALUE=DATE-TIME:20161127T000000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165252Z
+UID:400869255
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086925
+ 5\nNetworks: CBSSN
+LOCATION:Bulldog Stadium \, Fresno\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869255
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colorado State Rams at San Diego State Aztecs
+DTSTART;VALUE=DATE-TIME:20161127T020000Z
+DTEND;VALUE=DATE-TIME:20161127T053000Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165252Z
+UID:400869253
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086925
+ 3\nNetworks: CBSSN
+LOCATION:Qualcomm Stadium\, San Diego\, CA
+URL:http://www.espn.com/college-football/game?gameId=400869253
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Massachusetts Minutemen at Hawaii Rainbow Warriors
+DTSTART;VALUE=DATE-TIME:20161127T045900Z
+DTEND;VALUE=DATE-TIME:20161127T082900Z
+DTSTAMP;VALUE=DATE-TIME:20160823T165252Z
+UID:400868967
+DESCRIPTION:URL: http://www.espn.com/college-football/game?gameId=40086896
+ 7\nNetworks: 
+LOCATION:Aloha Stadium\, Honolulu\, HI
+URL:http://www.espn.com/college-football/game?gameId=400868967
+END:VEVENT
+END:VCALENDAR
